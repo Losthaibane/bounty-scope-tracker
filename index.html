@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bounty Scope Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Bounty Scope Tracker</h1>
+  <p class="sub">HackerOne programs ranked by payout probability &middot; updated <span id="updated">…</span></p>
+  <nav>
+    <button class="tab active" data-tab="leaderboard">Leaderboard</button>
+    <button class="tab" data-tab="changes">Recent scope changes <span id="chg-count" class="pill"></span></button>
+    <button class="tab" data-tab="about">How scoring works</button>
+  </nav>
+</header>
+
+<main>
+  <!-- ============ LEADERBOARD ============ -->
+  <section id="tab-leaderboard">
+    <div class="filters">
+      <span class="plats" id="f-plats">
+        <button data-p="all" class="plat active">All</button>
+        <button data-p="hackerone" class="plat">HackerOne</button>
+        <button data-p="yeswehack" class="plat">YesWeHack</button>
+        <button data-p="intigriti" class="plat">Intigriti</button>
+      </span>
+      <label>Min score <input type="range" id="f-score" min="0" max="80" value="0" step="5">
+        <span id="f-score-val">0</span></label>
+      <label><input type="checkbox" id="f-recent"> scope changed ≤ 90d</label>
+      <label><input type="checkbox" id="f-active"> resolved report ≤ 60d</label>
+      <label><input type="checkbox" id="f-bounty" checked> pays bounties</label>
+      <label><input type="checkbox" id="f-wildcard"> has wildcard</label>
+      <input type="search" id="f-search" placeholder="search program…">
+      <span id="row-count" class="muted"></span>
+    </div>
+    <div class="table-wrap">
+    <table id="tbl">
+      <thead><tr>
+        <th data-k="score" class="num sorted-desc">Score</th>
+        <th data-k="platform">Platform</th>
+        <th data-k="name">Program</th>
+        <th data-k="avg_bounty_lo" class="num">Bounty</th>
+        <th data-k="in_scope_count" class="num">In scope</th>
+        <th data-k="wildcard_count" class="num">Wildcards</th>
+        <th data-k="newest_asset_at" class="num">Newest asset / updated</th>
+        <th data-k="last_resolved_at" class="num">Last activity</th>
+        <th data-k="resolved_delta" class="num">Reports Δ</th>
+        <th data-k="response_efficiency" class="num">Resp. eff.</th>
+        <th data-k="out_ratio" class="num">OOS ratio</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    </div>
+  </section>
+
+  <!-- ============ CHANGES FEED ============ -->
+  <section id="tab-changes" hidden>
+    <p class="muted">Assets added to program scopes in the last 120 days — freshest hunting ground first.
+    Removed assets and resolved-report deltas appear from the second daily run onward.</p>
+    <div id="feed"></div>
+  </section>
+
+  <!-- ============ ABOUT ============ -->
+  <section id="tab-about" hidden>
+    <div class="about">
+      <h2>Score components (0–100)</h2>
+      <ul>
+        <li><b>+0–30</b> — newest in-scope asset age (linear decay over 90 days). Fresh scope = untested surface.</li>
+        <li><b>+0–15</b> — last resolved report: ≤14d = 15, ≤60d = 8, ≤180d = 2. Proves the program actually pays out.</li>
+        <li><b>+0–25</b> — weighted scope breadth: wildcards/CIDR ×5, APIs &amp; apps ×4, hardware/source ×3, domains/URLs ×1.</li>
+        <li><b>+0–10</b> — response efficiency ≥80% = 10, ≥50% = 5. Slow programs waste your time.</li>
+        <li><b>+15</b> — offers bounties, <b>+5</b> more if average ≥ $500.</li>
+        <li><b>−10</b> — more than 70% of listed assets are out of scope.</li>
+      </ul>
+      <h2>Data sources &amp; coverage</h2>
+      <p>All public, no credentials, refreshed daily by a GitHub Actions cron job. Tune weights in <code>scraper.py</code>.</p>
+      <ul>
+        <li><b>HackerOne</b> — directory + anonymous GraphQL: full stats and per-asset scope timestamps.</li>
+        <li><b>YesWeHack</b> — public API: scope lists, real average rewards, reports in last 7 days. Scope changes detected by daily diff (from run 2).</li>
+        <li><b>Intigriti</b> — public list API: bounty range, last program update, last submission. Scope detail needs an account, so breadth columns show "—".</li>
+      </ul>
+    </div>
+  </section>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
