@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T22:59:08.783688+00:00",
+ "generated_at": "2026-07-31T01:10:34.262654+00:00",
  "programs": {
   "hackerone:assa_abloy_americas": {
    "assets": [
@@ -18306,7 +18306,7 @@
     "ws.coinbase.com",
     "www.gdax.com"
    ],
-   "resolved_count": 1128,
+   "resolved_count": 1129,
    "updated_at": null
   },
   "hackerone:concretecms": {
@@ -18577,7 +18577,7 @@
     "www.unibet.(com\u00ad|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)",
     "www.vladcazino.ro"
    ],
-   "resolved_count": 637,
+   "resolved_count": 638,
    "updated_at": null
   },
   "yeswehack:dojo": {
@@ -18768,7 +18768,7 @@
     "prd.iat.it.xvservice.net",
     "vector.prd.iat.it.xvservice.net"
    ],
-   "resolved_count": 681,
+   "resolved_count": 682,
    "updated_at": null
   },
   "yeswehack:cyberghost-bug-bounty-program": {

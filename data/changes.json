@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T22:59:08.783688+00:00",
+ "generated_at": "2026-07-31T01:10:34.262654+00:00",
  "changes": [
   {
    "date": "2026-07-30T16:45:00.372000+00:00",
@@ -18,15 +18,6 @@
    "handle": "transunion",
    "asset": "empidwatch.sontiq.com",
    "asset_type": "URL"
-  },
-  {
-   "date": "2026-07-30T14:05:20.327000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-07-29T14:46:55.601000+00:00",
@@ -506,15 +497,6 @@
    "asset_type": "URL"
   },
   {
-   "date": "2026-07-24T15:49:09+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Challenge 0726",
-   "handle": "intigriti/challenge0726",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-07-24T11:36:16.455000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -540,15 +522,6 @@
    "handle": "regions_financial",
    "asset": "sabal.com",
    "asset_type": "URL"
-  },
-  {
-   "date": "2026-07-23T10:24:56.769000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-07-22T18:49:34.174000+00:00",
@@ -1793,15 +1766,6 @@
    "asset_type": "OTHER"
   },
   {
-   "date": "2026-07-07T15:10:16+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Ivo: AI VDP",
-   "handle": "ivoai/ivovulnerabilitydisclosureprogram",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-07-07T09:44:06.555000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1854,15 +1818,6 @@
    "handle": "wolt",
    "asset": "1477299281",
    "asset_type": "APPLE_STORE_APP_ID"
-  },
-  {
-   "date": "2026-07-06T14:41:53+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Dashlane Vulnerability Disclosure Program",
-   "handle": "dashlane/dashlanevulnerabilitydisclosureprogram",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-07-06T14:41:08.751000+00:00",
@@ -2171,24 +2126,6 @@
    "asset_type": "AI_MODEL"
   },
   {
-   "date": "2026-06-18T08:50:32.667000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Agoda Public",
-   "handle": "agoda-public",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-06-17T20:32:55.197000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Anthropic Cyber Jailbreak",
-   "handle": "anthropic-cyber-jailbreak",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-06-17T09:01:05.424000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -2493,15 +2430,6 @@
    "handle": "judgeme",
    "asset": "insights.judgeme.dev",
    "asset_type": "URL"
-  },
-  {
-   "date": "2026-06-10T18:42:59.749000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-06-09T19:27:29.348000+00:00",
@@ -2981,15 +2909,6 @@
    "asset_type": "URL"
   },
   {
-   "date": "2026-05-28T18:58:35+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "NVIDIA Public Bug Bounty",
-   "handle": "nvidia/nvidiapublicbugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-05-28T15:09:49.968000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -3089,15 +3008,6 @@
    "asset_type": "URL"
   },
   {
-   "date": "2026-05-21T21:01:15.490000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Omnicell",
-   "handle": "omnicell",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-05-21T20:55:15.736000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -3132,15 +3042,6 @@
    "handle": "visa",
    "asset": "https://ebctest.cybersource.com/pbl",
    "asset_type": "URL"
-  },
-  {
-   "date": "2026-05-20T13:25:36+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
-   "handle": "grafanalabs/grafanalabsvdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-05-18T16:51:13.507000+00:00",
@@ -4691,15 +4592,6 @@
    "asset_type": "URL"
   },
   {
-   "date": "2026-05-06T11:43:43+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "OURA Vulnerability Disclosure Program",
-   "handle": "ourahealthoy/ouravulnerabilitydisclosureprogram",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-05-06T11:08:35.080000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5240,15 +5132,6 @@
    "asset_type": "URL"
   },
   {
-   "date": "2026-04-28T11:01:02.329000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-04-28T10:23:23.466000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5400,6 +5283,123 @@
    "handle": "oppo_bbp",
    "asset": "com.katanlabs.worm.ioeatemall",
    "asset_type": "WINDOWS_APP_STORE_APP_ID"
+  },
+  {
+   "date": "2026-04-28T06:19:51.076000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "OPPO",
+   "handle": "oppo_bbp",
+   "asset": "com.katanlabs.matchballgame",
+   "asset_type": "OTHER_APK"
+  },
+  {
+   "date": "2026-04-28T06:19:30.454000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "OPPO",
+   "handle": "oppo_bbp",
+   "asset": "com.katanlabs.bubblepop",
+   "asset_type": "OTHER_APK"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "*.bcbits.com",
+   "asset_type": "WILDCARD"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "*.epicgames.dev",
+   "asset_type": "WILDCARD"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "*.fallguys.com",
+   "asset_type": "WILDCARD"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "*.twinmotion.com",
+   "asset_type": "WILDCARD"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "admin-dev.harmonixmusic.com",
+   "asset_type": "URL"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "admin.harmonixmusic.com",
+   "asset_type": "URL"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "answers.unrealengine.com",
+   "asset_type": "URL"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "api.epicgames.dev",
+   "asset_type": "URL"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "aqtooling.com",
+   "asset_type": "URL"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "aquiristech.com",
+   "asset_type": "URL"
+  },
+  {
+   "date": "2026-04-27T19:45:58.752000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Epic Games VDP",
+   "handle": "epicgames-vdp",
+   "asset": "artportal.epicgames.com",
+   "asset_type": "URL"
   }
  ]
 }
