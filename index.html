@@ -11,15 +11,15 @@
   <h1>Bounty Scope Tracker</h1>
   <p class="sub">HackerOne programs ranked by payout probability &middot; updated <span id="updated">…</span></p>
   <nav>
-    <button class="tab active" data-tab="leaderboard">Leaderboard</button>
-    <button class="tab" data-tab="changes">Recent scope changes <span id="chg-count" class="pill"></span></button>
+    <button class="tab active" data-tab="changes">Fresh scope <span id="chg-count" class="pill"></span></button>
+    <button class="tab" data-tab="leaderboard">Leaderboard</button>
     <button class="tab" data-tab="about">How scoring works</button>
   </nav>
 </header>
 
 <main>
   <!-- ============ LEADERBOARD ============ -->
-  <section id="tab-leaderboard">
+  <section id="tab-leaderboard" hidden>
     <div class="filters">
       <span class="plats" id="f-plats">
         <button data-p="all" class="plat active">All</button>
@@ -34,8 +34,11 @@
       <label><input type="checkbox" id="f-bounty" checked> pays bounties</label>
       <label><input type="checkbox" id="f-wildcard"> has wildcard</label>
       <input type="search" id="f-search" placeholder="search program…">
+      <button id="btn-targets" class="exp" title="Download in-scope, bounty-eligible assets of the filtered programs as a target list">⬇ targets.txt</button>
+      <button id="btn-csv" class="exp" title="Download the filtered table as CSV">⬇ CSV</button>
       <span id="row-count" class="muted"></span>
     </div>
+    <p class="muted hint">Click a row for the score breakdown &amp; competition estimate.</p>
     <div class="table-wrap">
     <table id="tbl">
       <thead><tr>
@@ -57,9 +60,10 @@
   </section>
 
   <!-- ============ CHANGES FEED ============ -->
-  <section id="tab-changes" hidden>
+  <section id="tab-changes">
     <p class="muted">Assets added to program scopes in the last 120 days — freshest hunting ground first.
-    Removed assets and resolved-report deltas appear from the second daily run onward.</p>
+    Removed assets and first-seen programs appear from the second daily run onward.
+    Red <b>no bounty</b> tags pay nothing — skip them.</p>
     <div id="feed"></div>
   </section>
 

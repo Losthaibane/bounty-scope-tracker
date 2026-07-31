@@ -74,9 +74,24 @@ function renderTable() {
       return (x < y ? -1 : x > y ? 1 : 0) * sortDir || b.score - a.score;
     });
   $("#row-count").textContent = `${rows.length} / ${PROGRAMS.length} programs`;
+  const COMP_MAX = { recency: 30, activity: 15, breadth: 25, response: 10, bounty: 20 };
   const html = rows.map((p) => {
     const hot = p.newest_asset_at && Date.now() - new Date(p.newest_asset_at) < 30 * 864e5;
-    return `<tr>
+    const c = p.components || {};
+    const bars = Object.entries(COMP_MAX).map(([k, max]) => {
+      const v = c[k] || 0;
+      return `<div class="bar-row"><span>${k}</span><div class="bar"><i style="width:${(v / max * 100).toFixed(0)}%"></i></div><b>${v.toFixed(1)}</b><span class="muted">/${max}</span></div>`;
+    }).join("") + (c.penalty ? `<div class="bar-row"><span>penalty</span><b class="neg">${c.penalty}</b></div>` : "");
+    const trend = p.prev_score != null && p.prev_score !== p.score
+      ? `<span class="${p.score > p.prev_score ? "up" : "down"}">${p.score > p.prev_score ? "▲" : "▼"} was ${p.prev_score} last run</span>` : "";
+    const detail = `<tr class="detail" hidden><td colspan="11"><div class="detail-box">
+      <div><h4>Score breakdown</h4>${bars}</div>
+      <div><h4>Competition &amp; trend</h4>
+        <p>${p.velocity != null ? `≈ <b>${p.velocity}</b> reports resolved/mo over the program's life — ${p.velocity > 100 ? "crowded" : p.velocity > 20 ? "moderate" : "quiet"} hunting ground` : "no report-velocity data for this platform"}</p>
+        <p>${trend || "no score history yet (builds daily)"}</p>
+        <p class="muted">${p.no_bounty_count ? `${p.no_bounty_count} submittable assets pay nothing and are excluded from the score.` : ""}</p>
+      </div></div></td></tr>`;
+    return `<tr class="prog" data-k="${esc(p.platform + ":" + p.handle)}">
       <td class="num score"><b>${p.score}</b></td>
       <td><span class="plat-badge ${p.platform}">${PLAT_LABEL[p.platform] || p.platform}</span></td>
       <td><a href="${p.url}" target="_blank" rel="noopener">${esc(p.name)}</a>
@@ -91,10 +106,58 @@ function renderTable() {
       <td class="num">${p.resolved_delta ? "+" + p.resolved_delta : ""}</td>
       <td class="num">${p.response_efficiency != null ? p.response_efficiency + "%" : "—"}</td>
       <td class="num">${p.out_ratio != null ? (p.out_ratio * 100).toFixed(0) + "%" : "—"}</td>
-    </tr>`;
+    </tr>${detail}`;
   }).join("");
   $("#rows").innerHTML = html;
 }
+
+/* expand/collapse score breakdown */
+$("#rows").addEventListener("click", (e) => {
+  if (e.target.closest("a")) return;
+  const tr = e.target.closest("tr.prog");
+  if (tr && tr.nextElementSibling) tr.nextElementSibling.hidden = !tr.nextElementSibling.hidden;
+});
+
+/* ---------- export ---------- */
+function filteredPrograms() { return PROGRAMS.filter(passes); }
+
+function download(name, text) {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([text], { type: "text/plain" }));
+  a.download = name;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+$("#btn-csv").addEventListener("click", () => {
+  const cols = ["score", "platform", "name", "url", "offers_bounties", "avg_bounty_lo",
+    "max_bounty", "in_scope_count", "wildcard_count", "newest_asset_at",
+    "last_resolved_at", "velocity", "response_efficiency"];
+  const lines = [cols.join(",")].concat(filteredPrograms().map((p) =>
+    cols.map((k) => JSON.stringify(p[k] ?? "")).join(",")));
+  download("bounty-leaderboard.csv", lines.join("\n"));
+});
+
+let DB = null;
+$("#btn-targets").addEventListener("click", async () => {
+  const btn = $("#btn-targets");
+  btn.textContent = "loading…";
+  try {
+    DB = DB || await fetch("data/db.json").then((r) => r.json());
+    const out = new Set();
+    for (const p of filteredPrograms()) {
+      const rec = DB.programs[`${p.platform}:${p.handle}`];
+      const assets = (rec && (rec.paying_assets || rec.assets)) || [];
+      for (let a of assets) {
+        if (a.startsWith("*.")) a = a.slice(2);        // subfinder wants root domains
+        if (a && !a.includes(" ") && !a.includes("*")) out.add(a);
+      }
+    }
+    download("targets.txt", [...out].sort().join("\n") || "# no assets for filtered programs\n");
+  } finally {
+    btn.textContent = "⬇ targets.txt";
+  }
+});
 
 const esc = (s) => String(s).replace(/[&<>"']/g,
   (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));

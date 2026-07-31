@@ -131,6 +131,13 @@ def fetch_hackerone():
         page += 1
         time.sleep(SLEEP)
     print(f"hackerone: {len(handles)} programs in directory", flush=True)
+    if not handles:
+        # H1 is having a bad day (or blocked us). Do NOT continue: writing a
+        # snapshot without H1 would destroy the diff baseline and flood the
+        # feed with false "new program" events on recovery. Fail instead;
+        # the next scheduled run will succeed.
+        sys.exit("hackerone directory empty — aborting to protect data; "
+                 "will retry on next scheduled run")
 
     records = []
     for i in range(0, len(handles), H1_BATCH):
@@ -314,31 +321,34 @@ def score(rec):
         newest_asset = parse_dt(rec["program_updated_at"])
     last_resolved = parse_dt(rec.get("last_resolved_at"))
 
-    sc = 0.0
+    comp = {"recency": 0.0, "activity": 0.0, "breadth": 0.0,
+            "response": 0.0, "bounty": 0.0, "penalty": 0.0}
     na = days_ago(newest_asset)
     if na is not None:
-        sc += max(0, 30 * (1 - na / 90)) if na <= 90 else 0
+        comp["recency"] = max(0, 30 * (1 - na / 90)) if na <= 90 else 0
     lr = days_ago(last_resolved)
     if lr is not None:
-        sc += 15 if lr <= 14 else 8 if lr <= 60 else 2 if lr <= 180 else 0
+        comp["activity"] = 15 if lr <= 14 else 8 if lr <= 60 else 2 if lr <= 180 else 0
     elif rec.get("reports_7d") is not None:      # YesWeHack activity signal
-        sc += 15 if rec["reports_7d"] > 10 else 8 if rec["reports_7d"] > 0 else 0
-    sc += min(25, breadth / 4)
+        comp["activity"] = 15 if rec["reports_7d"] > 10 else 8 if rec["reports_7d"] > 0 else 0
+    comp["breadth"] = min(25, breadth / 4)
     rep = rec.get("response_efficiency")
     if rep is not None:
-        sc += 10 if rep >= 80 else 5 if rep >= 50 else 0
+        comp["response"] = 10 if rep >= 80 else 5 if rep >= 50 else 0
     if rec.get("offers_bounties"):
-        sc += 15
+        comp["bounty"] = 15
         avg = rec.get("avg_bounty_lo")
         mx = rec.get("max_bounty")
         if (avg and avg >= 500) or (avg is None and mx and mx >= 2000):
-            sc += 5
+            comp["bounty"] += 5
     total = len(in_scope) + len(out_scope)
     if total and len(out_scope) / total > 0.7:
-        sc -= 10
+        comp["penalty"] = -10
+    sc = sum(comp.values())
 
     return {
         "score": round(sc, 1),
+        "components": {k: round(v, 1) for k, v in comp.items()},
         "in_scope_count": len(paying) if scopes else None,
         "no_bounty_count": no_bounty if scopes else None,
         "out_scope_count": len(out_scope) if scopes else None,
@@ -420,6 +430,17 @@ def main():
                                 "handle": rec["handle"], "asset": None,
                                 "asset_type": None})
 
+        # competition proxy: reports resolved per month of program age
+        st_dt = parse_dt(rec.get("started_at"))
+        age_months = max(1.0, (NOW - st_dt).days / 30.44) if st_dt else None
+        velocity = (round((rec.get("resolved_count") or 0) / age_months, 1)
+                    if age_months and rec.get("resolved_count") else None)
+        # score trend vs previous run
+        hist = list(p0.get("score_history", []))
+        prev_score = hist[-1][1] if hist else None
+        hist.append([NOW.date().isoformat(), metrics["score"]])
+        hist = hist[-60:]
+
         out.append({
             "platform": rec["platform"], "handle": rec["handle"],
             "name": rec["name"], "url": rec["url"],
@@ -435,8 +456,17 @@ def main():
             "resolved_delta": (rec.get("resolved_count") or 0)
                               - p0.get("resolved_count", rec.get("resolved_count") or 0),
             "reports_7d": rec.get("reports_7d"),
+            "velocity": velocity,
+            "prev_score": prev_score,
             **metrics,
         })
+        rec["_hist"] = hist
+
+    # sanity floor: never publish a run that lost a big chunk of programs
+    # vs the baseline (e.g. one platform rate-limiting us mid-run)
+    if prev and len(out) < 0.8 * len(prev):
+        sys.exit(f"only {len(out)} programs vs baseline {len(prev)} — "
+                 "aborting to protect data; will retry on next scheduled run")
 
     out.sort(key=lambda p: p["score"], reverse=True)
     changes.sort(key=lambda c: c["date"], reverse=True)
@@ -450,8 +480,12 @@ def main():
         "programs": {f"{r['platform']}:{r['handle']}": {
             "assets": sorted({s["asset_identifier"] for s in r["scopes"]
                               if s.get("eligible_for_submission")}),
+            "paying_assets": sorted({s["asset_identifier"] for s in r["scopes"]
+                                     if s.get("eligible_for_submission")
+                                     and bounty_eligible(s, r.get("offers_bounties"))}),
             "resolved_count": r.get("resolved_count") or 0,
             "updated_at": r.get("program_updated_at"),
+            "score_history": r.get("_hist", []),
         } for r in records}}, indent=1))
 
     print(f"\ndone: {len(out)} programs, {len(changes)} change events", flush=True)

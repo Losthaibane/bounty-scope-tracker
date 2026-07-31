@@ -25,6 +25,28 @@ main { padding: 16px 24px 60px; }
   padding: 6px 10px; border-radius: 6px; width: 200px;
 }
 .muted { color: var(--muted); }
+.hint { font-size: 12px; margin: 6px 0 10px; }
+
+tr.prog { cursor: pointer; }
+.detail-box {
+  display: flex; gap: 48px; flex-wrap: wrap; padding: 12px 8px;
+  background: var(--panel); border-radius: 6px;
+}
+.detail-box h4 { margin: 0 0 8px; font-size: 13px; }
+.detail-box p { margin: 4px 0; }
+.bar-row { display: flex; align-items: center; gap: 8px; margin: 3px 0; font-size: 12px; }
+.bar-row > span:first-child { width: 70px; color: var(--muted); }
+.bar { width: 140px; height: 8px; background: var(--bg); border-radius: 4px; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--accent); border-radius: 4px; }
+.neg { color: #f85149; }
+.up { color: var(--good); }
+.down { color: #f85149; }
+
+button.exp {
+  background: var(--panel); border: 1px solid var(--border); color: var(--fg);
+  padding: 5px 12px; border-radius: 6px; cursor: pointer; font-size: 13px;
+}
+button.exp:hover { border-color: var(--accent); }
 
 .table-wrap {
   overflow-x: auto; border: 1px solid var(--border); border-radius: 8px;
