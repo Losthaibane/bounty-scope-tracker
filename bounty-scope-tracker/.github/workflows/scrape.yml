@@ -1,0 +1,34 @@
+name: Scrape bug bounty programs
+
+on:
+  schedule:
+    - cron: "15 6 * * *"   # daily at 06:15 UTC
+  workflow_dispatch:       # manual run button in the Actions tab
+
+permissions:
+  contents: write          # needed to commit the updated data files
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run scraper
+        run: python3 scraper.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "bounty-scope-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "data: update $(date -u +%Y-%m-%d)"
+            git push
+          fi
