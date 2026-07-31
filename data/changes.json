@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-07-31T01:32:44.042186+00:00",
+ "generated_at": "2026-07-31T09:14:39.074317+00:00",
  "changes": [
+  {
+   "date": "2026-07-31T09:14:39.074317+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vercel Open Source",
+   "handle": "vercel-open-source",
+   "asset": "Tier 1",
+   "asset_type": null
+  },
+  {
+   "date": "2026-07-31T09:14:39.074317+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vercel Open Source",
+   "handle": "vercel-open-source",
+   "asset": "Tier 2",
+   "asset_type": null
+  },
+  {
+   "date": "2026-07-31T09:14:39.074317+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Vercel Open Source",
+   "handle": "vercel-open-source",
+   "asset": "Tier 3",
+   "asset_type": null
+  },
+  {
+   "date": "2026-07-31T08:59:15+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Wireless Logic",
+   "handle": "wl/wirelesslogic",
+   "asset": null,
+   "asset_type": null
+  },
   {
    "date": "2026-07-30T16:45:00.372000+00:00",
    "type": "scope_added",
@@ -5958,46 +5994,6 @@
    "program": "Epic Games VDP",
    "handle": "epicgames-vdp",
    "asset": "answers.unrealengine.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "api.epicgames.dev",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "aqtooling.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "aquiristech.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "artportal.epicgames.com",
    "asset_type": "URL",
    "bounty": false
   }

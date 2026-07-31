@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T01:10:34.262654+00:00",
+ "generated_at": "2026-07-31T09:14:39.074317+00:00",
  "programs": {
   "hackerone:assa_abloy_americas": {
    "assets": [
@@ -430,7 +430,7 @@
     "widget.getyourguide.com",
     "www.getyourguide.com"
    ],
-   "resolved_count": 19,
+   "resolved_count": 20,
    "updated_at": null
   },
   "hackerone:whatnot": {
@@ -873,9 +873,9 @@
   "hackerone:vercel-open-source": {
    "assets": [
     "*.now.sh",
-    "Tier 1",
-    "Tier 2",
-    "Tier 3",
+    "Tier 1 OSS",
+    "Tier 2 OSS",
+    "Tier 3 OSS",
     "https://github.com/nitrojs/nitro",
     "https://github.com/nuxt/nuxt",
     "https://github.com/sveltejs/svelte",
@@ -7372,7 +7372,7 @@
     "www.niagahoster.co.id",
     "www.zyro.com"
    ],
-   "resolved_count": 920,
+   "resolved_count": 921,
    "updated_at": null
   },
   "hackerone:eufy_security": {
@@ -7635,7 +7635,7 @@
     "www.rentalcars.com",
     "xsecure.rentalcars.com"
    ],
-   "resolved_count": 1494,
+   "resolved_count": 1495,
    "updated_at": null
   },
   "hackerone:bybit_fintech": {
@@ -11586,7 +11586,7 @@
     "www.trendyol.com",
     "www.trendyolexpress.com"
    ],
-   "resolved_count": 276,
+   "resolved_count": 278,
    "updated_at": null
   },
   "hackerone:tesco": {
@@ -12350,23 +12350,6 @@
     "www.wickr.com"
    ],
    "resolved_count": 10,
-   "updated_at": null
-  },
-  "hackerone:sega": {
-   "assets": [
-    "Creative Assembly",
-    "Hardlight Studios",
-    "Rovio Entertainment",
-    "SEGA Europe",
-    "SEGA Japan",
-    "Sports Interactive",
-    "Two Point Studios",
-    "community.twopointcounty.com",
-    "games2gether.com",
-    "playhyenas.com",
-    "redeem.footballmanager.com"
-   ],
-   "resolved_count": 52,
    "updated_at": null
   },
   "hackerone:octopus-energy": {
@@ -13627,7 +13610,7 @@
     "http://portal-staging.storman.com",
     "pcamerica.com"
    ],
-   "resolved_count": 433,
+   "resolved_count": 435,
    "updated_at": null
   },
   "hackerone:on": {
@@ -13861,7 +13844,7 @@
     "launchpad.37signals.com",
     "world.hey.com"
    ],
-   "resolved_count": 450,
+   "resolved_count": 451,
    "updated_at": null
   },
   "hackerone:csg-public": {
@@ -14347,7 +14330,7 @@
     "https://www.mi.com/us/mi-home-security-camera/",
     "https://www.mi.com/us/mi-laser-projector-150/"
    ],
-   "resolved_count": 1180,
+   "resolved_count": 1181,
    "updated_at": null
   },
   "hackerone:flutteruki": {
@@ -14672,7 +14655,7 @@
     "www.amazon.it",
     "www.amazon.nl"
    ],
-   "resolved_count": 2428,
+   "resolved_count": 2429,
    "updated_at": null
   },
   "hackerone:stagingdoteverydotorg": {
@@ -16354,7 +16337,7 @@
     "matomo.cloud",
     "org.piwik.mobile2"
    ],
-   "resolved_count": 324,
+   "resolved_count": 325,
    "updated_at": null
   },
   "hackerone:paypal": {
@@ -18000,7 +17983,7 @@
     "workflow.frame.io",
     "xd.adobe.com"
    ],
-   "resolved_count": 8846,
+   "resolved_count": 8847,
    "updated_at": null
   },
   "hackerone:airbnb": {
@@ -18452,7 +18435,7 @@
     "www.infomaniak.com",
     "www.swisstransfer.com"
    ],
-   "resolved_count": 2820,
+   "resolved_count": 2824,
    "updated_at": null
   },
   "yeswehack:bug-bounty-program-blablacar": {
@@ -18469,7 +18452,7 @@
     "https://play.google.com/store/apps/details?id=com.comuto&hl=en",
     "https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)"
    ],
-   "resolved_count": 1175,
+   "resolved_count": 1176,
    "updated_at": null
   },
   "yeswehack:superbank-public-bug-bounty-program": {
@@ -18480,7 +18463,7 @@
     "https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en",
     "superbank.id"
    ],
-   "resolved_count": 80,
+   "resolved_count": 81,
    "updated_at": null
   },
   "yeswehack:swiss-post-evoting": {
@@ -18490,7 +18473,7 @@
     "Source Code",
     "System Specification"
    ],
-   "resolved_count": 1772,
+   "resolved_count": 1773,
    "updated_at": null
   },
   "yeswehack:gojek-bug-bounty-program": {
@@ -18508,7 +18491,7 @@
     "https://play.google.com/store/apps/details?id=com.gojek.app",
     "portal.gofoodmerchant.co.id"
    ],
-   "resolved_count": 877,
+   "resolved_count": 879,
    "updated_at": null
   },
   "yeswehack:goto-financial-public-bounty-program": {
@@ -18584,7 +18567,7 @@
    "assets": [
     "https://dojo-yeswehack.com/challenge-of-the-month/dojo-53"
    ],
-   "resolved_count": 5235,
+   "resolved_count": 5236,
    "updated_at": null
   },
   "yeswehack:cryptobox-bug-bounty": {
@@ -18639,7 +18622,7 @@
     "phlportal.vfsevisa.cn",
     "www.vfsvisaonline.com"
    ],
-   "resolved_count": 2524,
+   "resolved_count": 2525,
    "updated_at": null
   },
   "yeswehack:teamviewer-bounty-program": {
@@ -18654,7 +18637,7 @@
     "https://web.teamviewer.com",
     "https://www.teamviewer.com/en/products/teamviewer/"
    ],
-   "resolved_count": 864,
+   "resolved_count": 865,
    "updated_at": null
   },
   "yeswehack:telenor-sweden-public-bug-bounty-program": {
@@ -18722,7 +18705,7 @@
     "https://www.mediaworld.it",
     "https://www.saturn.de"
    ],
-   "resolved_count": 517,
+   "resolved_count": 518,
    "updated_at": null
   },
   "yeswehack:dana-bug-bounty-program": {
@@ -18732,7 +18715,7 @@
     "m.dana.id",
     "mgs.dana.id"
    ],
-   "resolved_count": 270,
+   "resolved_count": 271,
    "updated_at": null
   },
   "yeswehack:expressvpn-bug-bounty-program": {
@@ -18768,7 +18751,7 @@
     "prd.iat.it.xvservice.net",
     "vector.prd.iat.it.xvservice.net"
    ],
-   "resolved_count": 682,
+   "resolved_count": 683,
    "updated_at": null
   },
   "yeswehack:cyberghost-bug-bounty-program": {
@@ -18804,7 +18787,7 @@
     "https://www.privateinternetaccess.com/download/mac-vpn",
     "https://www.privateinternetaccess.com/download/windows-vpn"
    ],
-   "resolved_count": 202,
+   "resolved_count": 203,
    "updated_at": null
   },
   "yeswehack:zecible-public-bug-bounty-program": {
@@ -18878,7 +18861,7 @@
     "https://www.pinelabs.us",
     "trm.pinepaymentsolutions.com"
    ],
-   "resolved_count": 658,
+   "resolved_count": 659,
    "updated_at": null
   },
   "yeswehack:otto-de-bug-bounty": {
@@ -18894,7 +18877,7 @@
     "https://www.otto.de",
     "https://www.otto.de/jobs"
    ],
-   "resolved_count": 823,
+   "resolved_count": 824,
    "updated_at": null
   },
   "yeswehack:ant-group-security-response-center-bug-bounty-program": {
@@ -18965,7 +18948,7 @@
     "https://www.marantz.com",
     "https://www.polkaudio.com"
    ],
-   "resolved_count": 2156,
+   "resolved_count": 2157,
    "updated_at": null
   },
   "yeswehack:bookbeat": {
@@ -18977,7 +18960,7 @@
     "https://search-api.bookbeat.com",
     "https://www.bookbeat.com"
    ],
-   "resolved_count": 594,
+   "resolved_count": 595,
    "updated_at": null
   },
   "yeswehack:mon-espace-sante-mes": {
@@ -19063,7 +19046,7 @@
     "https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269",
     "https://play.google.com/store/apps/details?id=com.coindcx.btc"
    ],
-   "resolved_count": 288,
+   "resolved_count": 289,
    "updated_at": null
   },
   "yeswehack:okto-bug-bounty-program": {
@@ -19080,7 +19063,7 @@
     "https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794",
     "https://play.google.com/store/apps/details?id=com.bitoasis&hl=en"
    ],
-   "resolved_count": 209,
+   "resolved_count": 211,
    "updated_at": null
   },
   "yeswehack:thuringer-aufbaubank-bug-bounty-program": {
@@ -19116,7 +19099,7 @@
     "www.tabac-info-service.fr",
     "www.vivre-avec-la-chaleur.fr"
    ],
-   "resolved_count": 257,
+   "resolved_count": 258,
    "updated_at": null
   },
   "yeswehack:louis-vuitton-malletier-public-bug-bounty-program": {
@@ -19241,7 +19224,7 @@
     "www.vinci-vie.fr",
     "www.vinci.com"
    ],
-   "resolved_count": 573,
+   "resolved_count": 574,
    "updated_at": null
   },
   "yeswehack:ezviz-bug-bounty-program": {
@@ -19296,7 +19279,7 @@
     "https://vendors.paddle.com",
     "https://www.paddle.com"
    ],
-   "resolved_count": 898,
+   "resolved_count": 899,
    "updated_at": null
   },
   "yeswehack:ovh": {
@@ -19305,7 +19288,7 @@
     "api.ovh.com",
     "www.ovh.com"
    ],
-   "resolved_count": 1737,
+   "resolved_count": 1738,
    "updated_at": null
   },
   "yeswehack:imou-public-bug-bounty-program": {
@@ -19392,7 +19375,7 @@
     "s2.qwant.com",
     "www.qwant.com"
    ],
-   "resolved_count": 738,
+   "resolved_count": 739,
    "updated_at": null
   },
   "yeswehack:sogexia": {
@@ -19435,8 +19418,18 @@
     "https://login.salt.ch",
     "https://my.salt.ch"
    ],
-   "resolved_count": 163,
+   "resolved_count": 164,
    "updated_at": null
+  },
+  "intigriti:rampf/rampfbugbounty": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-12-15T10:45:38+00:00"
+  },
+  "intigriti:onetwobuild/12build": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-16T19:34:57+00:00"
   },
   "intigriti:ubisoft/ubisoftgamesecbbp": {
    "assets": [],
@@ -19448,50 +19441,35 @@
    "resolved_count": 0,
    "updated_at": "2026-07-11T07:24:28+00:00"
   },
-  "intigriti:fortnox/fortnox": {
+  "intigriti:leapsome/leapsome": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-06-02T08:36:26+00:00"
+   "updated_at": "2026-07-27T15:04:19+00:00"
   },
   "intigriti:intertoys/intertoys": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-03-12T16:15:58+00:00"
   },
+  "intigriti:fortnox/fortnox": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-02T08:36:26+00:00"
+  },
   "intigriti:rpip/allekabels": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-05-27T09:13:05+00:00"
-  },
-  "intigriti:onetwobuild/12build": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-16T19:34:57+00:00"
-  },
-  "intigriti:kauflandmarketplacegmbh/kauflandmarketplacebugbounty": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-26T07:51:54+00:00"
   },
   "intigriti:uitgeverijdeviant/uitgeverijdeviant": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-03-10T09:53:03+00:00"
   },
-  "intigriti:rampf/rampfbugbounty": {
+  "intigriti:kauflandmarketplacegmbh/kauflandmarketplacebugbounty": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2025-12-15T10:45:38+00:00"
-  },
-  "intigriti:leapsome/leapsome": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-27T15:04:19+00:00"
-  },
-  "intigriti:farfetch/farfetchbugbounty": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-06T14:59:38+00:00"
+   "updated_at": "2026-06-26T07:51:54+00:00"
   },
   "intigriti:kahoot/kahoot": {
    "assets": [],
@@ -19501,132 +19479,122 @@
   "intigriti:wl/wirelesslogic": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-24T14:59:45+00:00"
+   "updated_at": "2026-07-31T08:59:15+00:00"
   },
   "intigriti:daytona/daytonabugbounty": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-30T12:11:48+00:00"
   },
-  "intigriti:sdworx/myworkandme": {
+  "intigriti:farfetch/farfetchbugbounty": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-28T12:55:45+00:00"
-  },
-  "intigriti:liveperson/livepersonconversationalcloud": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-27T11:55:45+00:00"
+   "updated_at": "2026-07-06T14:59:38+00:00"
   },
   "intigriti:belfius/belfius": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-05-07T09:16:13+00:00"
   },
+  "intigriti:liveperson/livepersonconversationalcloud": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-27T11:55:45+00:00"
+  },
+  "intigriti:sdworx/myworkandme": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-28T12:55:45+00:00"
+  },
   "intigriti:colruyt/newpharma": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-13T11:49:40+00:00"
-  },
-  "intigriti:capitalcom/capitalcom": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-27T12:59:51+00:00"
-  },
-  "intigriti:visma/VismaResponsibleDisclosure": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-22T14:54:06+00:00"
-  },
-  "intigriti:dstny/dstnybugbounty": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-16T07:37:36+00:00"
-  },
-  "intigriti:tccc/coca-cola": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-21T17:16:11+00:00"
-  },
-  "intigriti:aswatson/iciparisxl": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-07T09:01:54+00:00"
-  },
-  "intigriti:waterlink/water-link": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-28T12:23:28+00:00"
-  },
-  "intigriti:exact/exactvulnerabilitydisclosureprogram": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-05-19T14:48:04+00:00"
-  },
-  "intigriti:rivian/rivianbugbounty": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-24T16:58:29+00:00"
-  },
-  "intigriti:aswatson/marionnaud": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-07T08:37:36+00:00"
-  },
-  "intigriti:digitalocean/digitalocean": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-30T19:37:34+00:00"
   },
   "intigriti:visma/visma": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-06-22T14:53:05+00:00"
   },
-  "intigriti:aswatson/theperfumeshop": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-03-16T08:23:14+00:00"
-  },
   "intigriti:aswatson/superdrug": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-07T08:43:10+00:00"
   },
-  "intigriti:aswatson/kruidvat": {
+  "intigriti:rivian/rivianbugbounty": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-07T09:08:29+00:00"
-  },
-  "intigriti:universitatsspitalzurich/usz-vdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-04-02T12:29:58+00:00"
-  },
-  "intigriti:intigriti/intigriti": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-21T09:35:49+00:00"
-  },
-  "intigriti:aswatson/watsons": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-20T07:32:06+00:00"
+   "updated_at": "2026-06-24T16:58:29+00:00"
   },
   "intigriti:altera/altera": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-24T22:39:41+00:00"
   },
+  "intigriti:intigriti/intigriti": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-21T09:35:49+00:00"
+  },
+  "intigriti:waterlink/water-link": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-28T12:23:28+00:00"
+  },
   "intigriti:kiwa/kiwavdp": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-04-23T09:16:54+00:00"
   },
-  "intigriti:Uphold/upholdcom": {
+  "intigriti:aswatson/iciparisxl": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-06-23T15:00:01+00:00"
+   "updated_at": "2026-07-07T09:01:54+00:00"
+  },
+  "intigriti:visma/VismaResponsibleDisclosure": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-22T14:54:06+00:00"
+  },
+  "intigriti:aswatson/watsons": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-20T07:32:06+00:00"
+  },
+  "intigriti:tccc/coca-cola": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-21T17:16:11+00:00"
+  },
+  "intigriti:dstny/dstnybugbounty": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-16T07:37:36+00:00"
+  },
+  "intigriti:digitalocean/digitalocean": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-30T19:37:34+00:00"
+  },
+  "intigriti:aswatson/theperfumeshop": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-03-16T08:23:14+00:00"
+  },
+  "intigriti:aswatson/marionnaud": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-07T08:37:36+00:00"
+  },
+  "intigriti:capitalcom/capitalcom": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-27T12:59:51+00:00"
+  },
+  "intigriti:exact/exactvulnerabilitydisclosureprogram": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-05-19T14:48:04+00:00"
   },
   "intigriti:grafanalabs/grafanalabsvdp": {
    "assets": [],
@@ -19638,170 +19606,35 @@
    "resolved_count": 0,
    "updated_at": "2026-07-09T11:55:01+00:00"
   },
-  "intigriti:dpgm/tweakers": {
+  "intigriti:universitatsspitalzurich/usz-vdp": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-02-13T10:15:42+00:00"
+   "updated_at": "2025-04-02T12:29:58+00:00"
   },
-  "intigriti:wpengine/wpenginebugbounty": {
+  "intigriti:Uphold/upholdcom": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-27T15:42:20+00:00"
+   "updated_at": "2026-06-23T15:00:01+00:00"
+  },
+  "intigriti:aswatson/kruidvat": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-07T09:08:29+00:00"
+  },
+  "intigriti:torfs/torfs": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-17T14:43:40+00:00"
   },
   "intigriti:datacamp/datacamp": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-28T14:40:53+00:00"
   },
-  "intigriti:toast/toastvdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-17T14:24:14+00:00"
-  },
-  "intigriti:lansweeper/lansweeper1": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-27T14:57:31+00:00"
-  },
-  "intigriti:delenprivatebank/privatebankdelen": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-29T07:33:57+00:00"
-  },
-  "intigriti:uz leuven/nexuzhealthwebpacs": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-05-04T06:44:30+00:00"
-  },
-  "intigriti:tekion/tekionvdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-03T15:22:32+00:00"
-  },
-  "intigriti:speakap/speakapresponsibledisclosure": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-04-02T12:24:43+00:00"
-  },
-  "intigriti:vrtnv/vrtnv": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-24T10:00:30+00:00"
-  },
-  "intigriti:axelspringerse/nmt": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-27T15:25:43+00:00"
-  },
-  "intigriti:ninjakiwigames/ninjakiwigames": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-28T20:08:10+00:00"
-  },
-  "intigriti:atolls/atollsvdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-03-31T15:23:34+00:00"
-  },
-  "intigriti:personio/personio": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-04-14T06:44:14+00:00"
-  },
-  "intigriti:lansweeper/fing": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-10T08:50:53+00:00"
-  },
-  "intigriti:wartsila/wartsila-vdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-04-27T07:11:40+00:00"
-  },
-  "intigriti:simscale/simscale": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-03-10T21:38:03+00:00"
-  },
-  "intigriti:ing/ing-responsible-disclosure": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-04-02T12:11:21+00:00"
-  },
-  "intigriti:cybersecuritycoalition/cybersecuritycoalition": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-04-29T13:22:20+00:00"
-  },
-  "intigriti:hrsgroup/hrsgroupvdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-04-02T12:09:34+00:00"
-  },
-  "intigriti:tomorrowland/tomorrowland": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-03-13T07:39:27+00:00"
-  },
-  "intigriti:voi/voivulnerabilitydisclosureprogram": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-12-10T12:44:26+00:00"
-  },
-  "intigriti:mv/mobilevikings": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-01T06:56:51+00:00"
-  },
-  "intigriti:vlerickbusinessschool/vlerickbusinessschool": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-02-16T08:52:10+00:00"
-  },
-  "intigriti:heretechnologies/heretechnologies": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-03-25T15:49:23+00:00"
-  },
   "intigriti:arm/trustedfirmware": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-30T09:07:24+00:00"
-  },
-  "intigriti:ourahealthoy/ouravulnerabilitydisclosureprogram": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-26T14:00:44+00:00"
-  },
-  "intigriti:anacondainc/anacondavdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-03T08:47:22+00:00"
-  },
-  "intigriti:uz leuven/ehealthhub&meta-hubvznkul": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-05-03T06:22:23+00:00"
-  },
-  "intigriti:intigriti/challenge0726": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-27T09:39:34+00:00"
-  },
-  "intigriti:dpgm/libelle": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-29T10:05:14+00:00"
-  },
-  "intigriti:dpgm/hetlaatstenieuws": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-29T10:04:46+00:00"
-  },
-  "intigriti:torfs/torfs": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-17T14:43:40+00:00"
   },
   "intigriti:digi/digi-vdp": {
    "assets": [],
@@ -19828,6 +19661,11 @@
    "resolved_count": 0,
    "updated_at": "2026-01-27T20:24:25+00:00"
   },
+  "intigriti:heretechnologies/heretechnologies": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-03-25T15:49:23+00:00"
+  },
   "intigriti:arkane/arkanenetwork": {
    "assets": [],
    "resolved_count": 0,
@@ -19837,6 +19675,11 @@
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-29T11:59:11+00:00"
+  },
+  "intigriti:vlerickbusinessschool/vlerickbusinessschool": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-02-16T08:52:10+00:00"
   },
   "intigriti:monzobank/monzopublicbugbountyprogram": {
    "assets": [],
@@ -19858,45 +19701,95 @@
    "resolved_count": 0,
    "updated_at": "2026-04-01T21:23:03+00:00"
   },
+  "intigriti:mv/mobilevikings": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-01T06:56:51+00:00"
+  },
+  "intigriti:wpengine/wpenginebugbounty": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-27T15:42:20+00:00"
+  },
   "intigriti:revolut/revolutvdp": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-06-30T13:37:21+00:00"
+  },
+  "intigriti:voi/voivulnerabilitydisclosureprogram": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-12-10T12:44:26+00:00"
   },
   "intigriti:bpost/dummy": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-04-07T09:02:39+00:00"
   },
+  "intigriti:bpost/e-tracker": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-06-03T10:42:11+00:00"
+  },
   "intigriti:redbull/redbull": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-06-17T10:56:18+00:00"
+  },
+  "intigriti:tomorrowland/tomorrowland": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-03-13T07:39:27+00:00"
   },
   "intigriti:peoplecert/peoplecert": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-05-18T09:56:27+00:00"
   },
+  "intigriti:driessengroep/driessenvdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-02-25T13:32:09+00:00"
+  },
   "intigriti:voi/voiscooters": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-27T20:44:01+00:00"
   },
-  "intigriti:driessengroep/driessenvdp": {
+  "intigriti:cybersecuritycoalition/cybersecuritycoalition": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-02-25T13:32:09+00:00"
+   "updated_at": "2026-04-29T13:22:20+00:00"
+  },
+  "intigriti:ing/ing-responsible-disclosure": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-04-02T12:11:21+00:00"
   },
   "intigriti:arbonia/arboniavdpprogram": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-05-05T09:01:13+00:00"
   },
+  "intigriti:uz leuven/ehealthhub&meta-hubvznkul": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-05-03T06:22:23+00:00"
+  },
   "intigriti:dropbox/dropbox-vdp": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2025-12-05T19:11:05+00:00"
+  },
+  "intigriti:yahoo/yahoobugbounty": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-02T14:04:54+00:00"
+  },
+  "intigriti:hrsgroup/hrsgroupvdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-04-02T12:09:34+00:00"
   },
   "intigriti:pdq/pdqcomprivate": {
    "assets": [],
@@ -19918,6 +19811,11 @@
    "resolved_count": 0,
    "updated_at": "2026-06-29T10:04:58+00:00"
   },
+  "intigriti:dpgm/algemeendagblad": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-29T10:05:34+00:00"
+  },
   "intigriti:liferay/liferay-vdp": {
    "assets": [],
    "resolved_count": 0,
@@ -19928,10 +19826,10 @@
    "resolved_count": 0,
    "updated_at": "2026-07-28T14:36:05+00:00"
   },
-  "intigriti:dpgm/algemeendagblad": {
+  "intigriti:freepik/freepikcompany": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-06-29T10:05:34+00:00"
+   "updated_at": "2026-07-21T13:15:52+00:00"
   },
   "intigriti:ripencc/ripencc": {
    "assets": [],
@@ -19943,15 +19841,25 @@
    "resolved_count": 0,
    "updated_at": "2026-03-26T10:51:42+00:00"
   },
-  "intigriti:yahoo/yahoobugbounty": {
+  "intigriti:simscale/simscale": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-02T14:04:54+00:00"
+   "updated_at": "2026-03-10T21:38:03+00:00"
   },
-  "intigriti:freepik/freepikcompany": {
+  "intigriti:wartsila/wartsila-vdp": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-21T13:15:52+00:00"
+   "updated_at": "2026-04-27T07:11:40+00:00"
+  },
+  "intigriti:lansweeper/fing": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-10T08:50:53+00:00"
+  },
+  "intigriti:personio/personio": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-04-14T06:44:14+00:00"
   },
   "intigriti:sbb/sbbglobal": {
    "assets": [],
@@ -19962,6 +19870,16 @@
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-30T08:11:45+00:00"
+  },
+  "intigriti:atolls/atollsvdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-03-31T15:23:34+00:00"
+  },
+  "intigriti:ninjakiwigames/ninjakiwigames": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-28T20:08:10+00:00"
   },
   "intigriti:dpgm/dpgmedia": {
    "assets": [],
@@ -19977,6 +19895,11 @@
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-06-29T10:05:23+00:00"
+  },
+  "intigriti:rgfstaffing/rgfbe-vdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-08-19T10:47:51+00:00"
   },
   "intigriti:donorbox/donorboxvdp": {
    "assets": [],
@@ -20008,45 +19931,65 @@
    "resolved_count": 0,
    "updated_at": "2026-07-22T11:39:25+00:00"
   },
-  "intigriti:digitalocean/cloudways": {
+  "intigriti:vrtnv/vrtnv": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-06-24T17:17:58+00:00"
+   "updated_at": "2026-06-24T10:00:30+00:00"
   },
   "intigriti:socialdeal/socialdeal": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-04-16T10:04:35+00:00"
   },
-  "intigriti:posti/postibugbounty": {
+  "intigriti:digitalocean/cloudways": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-30T12:27:02+00:00"
+   "updated_at": "2026-06-24T17:17:58+00:00"
+  },
+  "intigriti:speakap/speakapresponsibledisclosure": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-04-02T12:24:43+00:00"
   },
   "intigriti:exoscale/excoscalebugbounty": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-05-06T09:14:44+00:00"
   },
+  "intigriti:posti/postibugbounty": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-30T12:27:02+00:00"
+  },
   "intigriti:solarwinds/solarwindsvdp": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-22T15:57:10+00:00"
-  },
-  "intigriti:axelspringerse/axelspringersevulnerabilitydisclosureprogram": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-10-08T11:58:26+00:00"
   },
   "intigriti:skodaauto/skodaautoprivatebugbountyprogram": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-06-25T15:25:11+00:00"
   },
+  "intigriti:tekion/tekionvdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-03T15:22:32+00:00"
+  },
+  "intigriti:axelspringerse/axelspringersevulnerabilitydisclosureprogram": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-10-08T11:58:26+00:00"
+  },
   "intigriti:citymesh/responsiblevulnerabilitydisclosureprogram": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-01-05T13:10:53+00:00"
+  },
+  "intigriti:uz leuven/uzleuven": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-05-15T05:25:11+00:00"
   },
   "intigriti:qualified/qualifiedresponsibledisclosureprogram": {
    "assets": [],
@@ -20058,20 +20001,35 @@
    "resolved_count": 0,
    "updated_at": "2026-07-29T16:20:37+00:00"
   },
-  "intigriti:nvidia/nvidiapublicbugbounty": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-24T12:53:21+00:00"
-  },
   "intigriti:signicat/signicatresponsibledisclosure": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2025-10-30T11:04:51+00:00"
   },
+  "intigriti:nvidia/nvidiapublicbugbounty": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-24T12:53:21+00:00"
+  },
+  "intigriti:dpgm/tweakers": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-02-13T10:15:42+00:00"
+  },
+  "intigriti:zabkapolska/zabkagroup-vdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-04-20T09:38:59+00:00"
+  },
   "intigriti:nexuzhealth/nexuzhealthvdp": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-04-30T12:22:16+00:00"
+  },
+  "intigriti:uz leuven/nexuzhealthwebpacs": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-05-04T06:44:30+00:00"
   },
   "intigriti:ivoai/ivovulnerabilitydisclosureprogram": {
    "assets": [],
@@ -20083,15 +20041,25 @@
    "resolved_count": 0,
    "updated_at": "2026-02-17T13:47:13+00:00"
   },
-  "intigriti:attentia/attentiavdp": {
+  "intigriti:delenprivatebank/privatebankdelen": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-02T10:04:17+00:00"
+   "updated_at": "2026-07-29T07:33:57+00:00"
+  },
+  "intigriti:axelspringerse/nmt": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-27T15:25:43+00:00"
   },
   "intigriti:dpgm/trouw": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-02-26T13:56:54+00:00"
+  },
+  "intigriti:attentia/attentiavdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-02T10:04:17+00:00"
   },
   "intigriti:dpgm/vtmgo": {
    "assets": [],
@@ -20108,90 +20076,105 @@
    "resolved_count": 0,
    "updated_at": "2026-06-29T10:05:28+00:00"
   },
-  "intigriti:nexo/nexo": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-06-18T09:50:47+00:00"
-  },
   "intigriti:dashlane/dashlanevulnerabilitydisclosureprogram": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-07-08T08:10:56+00:00"
   },
-  "intigriti:dropbox/dropbox": {
+  "intigriti:nexo/nexo": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-07-14T19:49:41+00:00"
+   "updated_at": "2026-06-18T09:50:47+00:00"
   },
   "intigriti:spp-storebrand/storebrand-rd": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-03-02T11:49:08+00:00"
   },
-  "intigriti:uz leuven/uzleuven": {
+  "intigriti:lansweeper/lansweeper1": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-05-15T05:25:11+00:00"
-  },
-  "intigriti:bitvavo/bitvavovdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-09-22T15:40:41+00:00"
-  },
-  "intigriti:dhlgroup/dhlvdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-02-11T14:43:18+00:00"
-  },
-  "intigriti:bmw/bmwgroup-automotive": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-04-02T12:21:56+00:00"
-  },
-  "intigriti:bpost/e-tracker": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-06-03T10:42:11+00:00"
-  },
-  "intigriti:zabkapolska/zabkagroup-vdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-04-20T09:38:59+00:00"
-  },
-  "intigriti:eurid/eurid": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-04-24T07:28:54+00:00"
+   "updated_at": "2026-07-27T14:57:31+00:00"
   },
   "intigriti:allegro/allegrobugbounty": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-06-06T15:28:40+00:00"
   },
+  "intigriti:dropbox/dropbox": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-14T19:49:41+00:00"
+  },
+  "intigriti:toast/toastvdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-17T14:24:14+00:00"
+  },
+  "intigriti:bitvavo/bitvavovdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-09-22T15:40:41+00:00"
+  },
+  "intigriti:eurid/eurid": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-04-24T07:28:54+00:00"
+  },
+  "intigriti:bmw/bmwgroup-automotive": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2025-04-02T12:21:56+00:00"
+  },
+  "intigriti:dhlgroup/dhlvdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-02-11T14:43:18+00:00"
+  },
+  "intigriti:anacondainc/anacondavdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-03T08:47:22+00:00"
+  },
   "intigriti:houseofhr/houseofhrvulnerabilitydisclosureprogram": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2025-04-02T12:36:54+00:00"
   },
-  "intigriti:rgfstaffing/rgfbe-vdp": {
+  "intigriti:intigriti/challenge0726": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2025-08-19T10:47:51+00:00"
+   "updated_at": "2026-07-27T09:39:34+00:00"
   },
-  "intigriti:showpad/vdp": {
+  "intigriti:ourahealthoy/ouravulnerabilitydisclosureprogram": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-06-29T09:57:47+00:00"
+   "updated_at": "2026-06-26T14:00:44+00:00"
+  },
+  "intigriti:dpgm/libelle": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-29T10:05:14+00:00"
+  },
+  "intigriti:dpgm/hetlaatstenieuws": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-29T10:04:46+00:00"
+  },
+  "intigriti:intel/intel": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-24T12:17:05+00:00"
   },
   "intigriti:moralis/moralisio": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2025-11-10T14:47:14+00:00"
   },
-  "intigriti:intel/intel": {
+  "intigriti:showpad/vdp": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-06-24T12:17:05+00:00"
+   "updated_at": "2026-06-29T09:57:47+00:00"
   },
   "intigriti:coveo/coveovulnerabilitydisclosureprogram": {
    "assets": [],
@@ -20203,30 +20186,30 @@
    "resolved_count": 0,
    "updated_at": "2026-04-28T15:55:25+00:00"
   },
-  "intigriti:telenet/telenetgroup": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2025-10-23T13:25:29+00:00"
-  },
   "intigriti:aylo/brazzers-bbp": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-06-24T17:30:01+00:00"
+  },
+  "intigriti:aylo/pornhub-bbp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-06-24T17:30:54+00:00"
+  },
+  "intigriti:skodaauto/cariadvdp": {
+   "assets": [],
+   "resolved_count": 0,
+   "updated_at": "2026-07-10T12:56:02+00:00"
   },
   "intigriti:aylo/probiller-bbp": {
    "assets": [],
    "resolved_count": 0,
    "updated_at": "2026-06-24T17:31:10+00:00"
   },
-  "intigriti:aylo/mydirtyhobby-bbp": {
+  "intigriti:telenet/telenetgroup": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-06-24T17:30:21+00:00"
-  },
-  "intigriti:skodaauto/cariadvdp": {
-   "assets": [],
-   "resolved_count": 0,
-   "updated_at": "2026-07-10T12:56:02+00:00"
+   "updated_at": "2025-10-23T13:25:29+00:00"
   },
   "intigriti:aylo/nutaku-bbp": {
    "assets": [],
@@ -20238,10 +20221,10 @@
    "resolved_count": 0,
    "updated_at": "2026-06-24T17:31:26+00:00"
   },
-  "intigriti:aylo/pornhub-bbp": {
+  "intigriti:aylo/mydirtyhobby-bbp": {
    "assets": [],
    "resolved_count": 0,
-   "updated_at": "2026-06-24T17:30:54+00:00"
+   "updated_at": "2026-06-24T17:30:21+00:00"
   },
   "intigriti:colruyt/colruytgroupidcheck": {
    "assets": [],
