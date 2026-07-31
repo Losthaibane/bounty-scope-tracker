@@ -26,10 +26,28 @@ main { padding: 16px 24px 60px; }
 }
 .muted { color: var(--muted); }
 
-.table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px; }
-table { border-collapse: collapse; width: 100%; min-width: 980px; }
+.table-wrap {
+  overflow-x: auto; border: 1px solid var(--border); border-radius: 8px;
+  scrollbar-color: var(--muted) var(--panel);   /* Firefox: always visible */
+}
+.table-wrap::-webkit-scrollbar { height: 12px; }
+.table-wrap::-webkit-scrollbar-track { background: var(--panel); border-radius: 0 0 8px 8px; }
+.table-wrap::-webkit-scrollbar-thumb { background: var(--muted); border-radius: 6px; border: 2px solid var(--panel); }
+table { border-collapse: separate; border-spacing: 0; width: 100%; min-width: 980px; }
 th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--border); white-space: nowrap; }
-th { background: var(--panel); cursor: pointer; user-select: none; position: sticky; top: 0; }
+th { background: var(--panel); cursor: pointer; user-select: none; position: sticky; top: 0; z-index: 2; }
+
+/* frozen left columns: score + platform + program name stay visible on scroll */
+th:nth-child(1), td:nth-child(1) { position: sticky; left: 0; z-index: 1;
+  width: 60px; min-width: 60px; max-width: 60px; }
+th:nth-child(2), td:nth-child(2) { position: sticky; left: 60px; z-index: 1;
+  width: 56px; min-width: 56px; max-width: 56px; }
+th:nth-child(3), td:nth-child(3) { position: sticky; left: 116px; z-index: 1; min-width: 180px;
+  box-shadow: 2px 0 0 var(--border); }
+td:nth-child(1), td:nth-child(2), td:nth-child(3) { background: var(--bg); }
+tbody tr:hover td:nth-child(1), tbody tr:hover td:nth-child(2),
+tbody tr:hover td:nth-child(3) { background: #1c2129; }
+th:nth-child(1), th:nth-child(2), th:nth-child(3) { z-index: 3; }
 th.sorted-desc::after { content: " ▼"; color: var(--accent); }
 th.sorted-asc::after { content: " ▲"; color: var(--accent); }
 .num { text-align: right; font-variant-numeric: tabular-nums; }
@@ -46,6 +64,7 @@ a:hover { text-decoration: underline; }
 .pill.new_program { color: var(--accent); border-color: var(--accent); }
 .pill.program_updated { color: #bc8cff; border-color: #bc8cff; }
 .pill.warn { color: var(--warn); border-color: var(--warn); }
+.pill.nobounty { color: #f85149; border-color: #f85149; }
 
 .plats { display: flex; gap: 4px; }
 .plat {

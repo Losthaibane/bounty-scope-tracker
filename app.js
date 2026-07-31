@@ -59,7 +59,7 @@ function passes(p) {
 
 function val(p, k) {
   const v = p[k];
-  if (v == null) return sortDir === 1 ? Infinity : -Infinity; // nulls last
+  if (v == null) return null;
   if (k.endsWith("_at")) return new Date(v).getTime();
   return typeof v === "string" ? v.toLowerCase() : v;
 }
@@ -68,7 +68,10 @@ function renderTable() {
   const rows = PROGRAMS.filter(passes)
     .sort((a, b) => {
       const x = val(a, sortKey), y = val(b, sortKey);
-      return (x < y ? -1 : x > y ? 1 : 0) * sortDir * -1 || (a.score - b.score) * -1;
+      if (x == null && y == null) return b.score - a.score;
+      if (x == null) return 1;               // blanks always sink to the bottom
+      if (y == null) return -1;
+      return (x < y ? -1 : x > y ? 1 : 0) * sortDir || b.score - a.score;
     });
   $("#row-count").textContent = `${rows.length} / ${PROGRAMS.length} programs`;
   const html = rows.map((p) => {
@@ -81,7 +84,7 @@ function renderTable() {
           ${p.reports_7d != null && p.reports_7d > 0 ? `<span class="pill warn" title="reports in last 7 days">${p.reports_7d} rep/7d</span>` : ""}
           ${p.submission_state !== "open" ? '<span class="pill warn">' + esc(p.submission_state || "") + "</span>" : ""}</td>
       <td class="num">${fmtMoney(p)}</td>
-      <td class="num">${p.in_scope_count != null ? p.in_scope_count : "—"}</td>
+      <td class="num">${p.in_scope_count != null ? p.in_scope_count : "—"}${p.no_bounty_count ? `<span class="muted" title="submittable but pays nothing"> +${p.no_bounty_count} nb</span>` : ""}</td>
       <td class="num">${p.wildcard_count || ""}</td>
       <td class="num">${fmtDate(p.newest_asset_at)}</td>
       <td class="num">${fmtDate(p.last_resolved_at)}</td>
@@ -117,6 +120,7 @@ function renderFeed() {
       <a href="${c.url || feedUrl(c)}" target="_blank" rel="noopener">${esc(c.program)}</a>
       ${c.asset ? `<code>${esc(c.asset)}</code>` : ""}
       ${c.asset_type ? `<span class="muted">${esc(c.asset_type)}</span>` : ""}
+      ${c.bounty === false ? '<span class="pill nobounty">no bounty</span>' : ""}
     </div>`).join("")}
   `).join("");
 }

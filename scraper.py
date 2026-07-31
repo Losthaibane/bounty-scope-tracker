@@ -140,7 +140,7 @@ def fetch_hackerone():
             parts.append(
                 f't{j}: team(handle: "{h}") {{ {H1_TEAM_FIELDS} '
                 f'structured_scopes(first: 100) {{ edges {{ node {{ asset_identifier '
-                f'asset_type eligible_for_submission created_at }} }} '
+                f'asset_type eligible_for_submission eligible_for_bounty created_at }} }} '
                 f'pageInfo {{ hasNextPage endCursor }} }} }}')
         d = h1_gql(token, "query { " + " ".join(parts) + " }")
         if (d or {}).get("errors") and not (d or {}).get("data"):
@@ -155,7 +155,7 @@ def fetch_hackerone():
                 q = (f'query {{ team(handle: "{team["handle"]}") {{ '
                      f'structured_scopes(first: 100, after: "{pi["endCursor"]}") {{ '
                      f'edges {{ node {{ asset_identifier asset_type '
-                     f'eligible_for_submission created_at }} }} '
+                     f'eligible_for_submission eligible_for_bounty created_at }} }} '
                      f'pageInfo {{ hasNextPage endCursor }} }} }} }}')
                 more = (((h1_gql(token, q) or {}).get("data") or {}).get("team") or {})
                 s2 = more.get("structured_scopes") or {}
@@ -165,6 +165,7 @@ def fetch_hackerone():
             scopes = [{"asset_identifier": e["node"]["asset_identifier"],
                        "asset_type": e["node"].get("asset_type"),
                        "eligible_for_submission": e["node"].get("eligible_for_submission"),
+                       "eligible_for_bounty": e["node"].get("eligible_for_bounty"),
                        "created_at": e["node"].get("created_at")} for e in edges]
             records.append({
                 "platform": "hackerone", "handle": team["handle"],
@@ -289,13 +290,24 @@ def fetch_intigriti():
 # --------------------------------------------------------------------------- #
 # scoring (works with whatever each platform provides)
 # --------------------------------------------------------------------------- #
+def bounty_eligible(s, offers_bounties):
+    """Assets that actually pay. VDP programs have no bounty flag at all;
+    YesWeHack doesn't expose per-asset flags -> unknown counts as eligible."""
+    if not offers_bounties:
+        return True
+    return s.get("eligible_for_bounty") is not False
+
+
 def score(rec):
     scopes = rec["scopes"]
     in_scope = [s for s in scopes if s.get("eligible_for_submission")]
     out_scope = [s for s in scopes if not s.get("eligible_for_submission")]
-    wild = sum(1 for s in in_scope if s.get("asset_type") in ("WILDCARD", "CIDR"))
-    breadth = sum(TYPE_WEIGHT.get(s.get("asset_type"), 1) for s in in_scope)
-    newest_asset = max((parse_dt(s.get("created_at")) for s in scopes
+    # for bounty programs, only bounty-eligible assets count toward the score
+    paying = [s for s in in_scope if bounty_eligible(s, rec.get("offers_bounties"))]
+    no_bounty = len(in_scope) - len(paying)
+    wild = sum(1 for s in paying if s.get("asset_type") in ("WILDCARD", "CIDR"))
+    breadth = sum(TYPE_WEIGHT.get(s.get("asset_type"), 1) for s in paying)
+    newest_asset = max((parse_dt(s.get("created_at")) for s in (paying or in_scope)
                         if s.get("created_at")), default=None)
     # Intigriti has no per-asset dates; program update is the closest proxy
     if newest_asset is None and rec.get("program_updated_at"):
@@ -327,7 +339,8 @@ def score(rec):
 
     return {
         "score": round(sc, 1),
-        "in_scope_count": len(in_scope) if scopes else None,
+        "in_scope_count": len(paying) if scopes else None,
+        "no_bounty_count": no_bounty if scopes else None,
         "out_scope_count": len(out_scope) if scopes else None,
         "wildcard_count": wild,
         "breadth": breadth,
@@ -368,7 +381,9 @@ def main():
                                 "platform": rec["platform"], "program": rec["name"],
                                 "handle": rec["handle"],
                                 "asset": s["asset_identifier"],
-                                "asset_type": s.get("asset_type")})
+                                "asset_type": s.get("asset_type"),
+                                "bounty": bool(rec.get("offers_bounties"))
+                                          and s.get("eligible_for_bounty") is not False})
         for gone in sorted(prev_assets - set(cur_assets)):
             changes.append({"date": NOW.isoformat(), "type": "scope_removed",
                             "platform": rec["platform"], "program": rec["name"],
@@ -381,7 +396,8 @@ def main():
                 changes.append({"date": NOW.isoformat(), "type": "scope_added",
                                 "platform": rec["platform"], "program": rec["name"],
                                 "handle": rec["handle"], "asset": new,
-                                "asset_type": None})
+                                "asset_type": None,
+                                "bounty": bool(rec.get("offers_bounties"))})
         if rec.get("program_updated_at") and p0.get("updated_at") \
                 and p0["updated_at"] != rec["program_updated_at"]:
             changes.append({"date": rec["program_updated_at"], "type": "program_updated",

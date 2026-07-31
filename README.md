@@ -18,6 +18,23 @@ served by GitHub Pages.
 - **Filters**: min score, scope changed ≤ 90d, resolved ≤ 60d, pays bounties,
   has wildcards, free-text search.
 
+## Setup (5 minutes)
+
+1. Create a new GitHub repo and push this folder:
+   ```bash
+   git init && git add -A && git commit -m "init"
+   git remote add origin git@github.com:YOU/bounty-scope-tracker.git
+   git push -u origin main
+   ```
+2. **Actions** tab → enable workflows if asked. Run "Scrape bug bounty programs"
+   once manually (*Run workflow* button) to generate `data/`.
+3. **Settings → Pages** → Source: *Deploy from a branch* → Branch: `main`, folder `/ (root)`.
+4. Open `https://YOU.github.io/bounty-scope-tracker/`.
+
+From then on the workflow runs daily at 06:15 UTC, commits fresh data, and Pages
+updates itself. The daily commit also keeps the repo "active" so GitHub never
+disables the schedule for inactivity.
+
 ## How the data is collected
 
 `scraper.py` uses only public, unauthenticated endpoints:

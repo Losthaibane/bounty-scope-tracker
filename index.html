@@ -68,7 +68,7 @@
     <div class="about">
       <h2>Score components (0–100)</h2>
       <ul>
-        <li><b>+0–30</b> — newest in-scope asset age (linear decay over 90 days). Fresh scope = untested surface.</li>
+        <li><b>+0–30</b> — newest bounty-eligible asset age (linear decay over 90 days). Fresh scope = untested surface. Assets that accept reports but pay nothing are excluded from the score and flagged <b>no bounty</b> in the feed.</li>
         <li><b>+0–15</b> — last resolved report: ≤14d = 15, ≤60d = 8, ≤180d = 2. Proves the program actually pays out.</li>
         <li><b>+0–25</b> — weighted scope breadth: wildcards/CIDR ×5, APIs &amp; apps ×4, hardware/source ×3, domains/URLs ×1.</li>
         <li><b>+0–10</b> — response efficiency ≥80% = 10, ≥50% = 5. Slow programs waste your time.</li>
