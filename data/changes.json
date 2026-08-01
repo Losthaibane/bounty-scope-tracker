@@ -1,31 +1,31 @@
 {
- "generated_at": "2026-07-31T02:27:05.260654+00:00",
+ "generated_at": "2026-08-01T08:32:38.549234+00:00",
  "changes": [
   {
-   "date": "2026-07-31T02:27:05.260654+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vercel Open Source",
-   "handle": "vercel-open-source",
-   "asset": "Tier 1",
+   "date": "2026-08-01T08:32:38.549234+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Veriff Bug Bounty",
+   "handle": "veriff/veriffbugbounty",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-07-31T02:27:05.260654+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vercel Open Source",
-   "handle": "vercel-open-source",
-   "asset": "Tier 2",
+   "date": "2026-07-31T18:54:29+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-07-31T02:27:05.260654+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Vercel Open Source",
-   "handle": "vercel-open-source",
-   "asset": "Tier 3",
+   "date": "2026-07-31T08:59:15+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Wireless Logic",
+   "handle": "wl/wirelesslogic",
+   "asset": null,
    "asset_type": null
   },
   {
