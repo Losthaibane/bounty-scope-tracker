@@ -1,6 +1,159 @@
 {
- "generated_at": "2026-08-02T08:35:39.538723+00:00",
+ "generated_at": "2026-08-03T10:03:39.920589+00:00",
  "changes": [
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "curl",
+   "handle": "curl",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "GoTo Financial - Public Bounty Program",
+   "handle": "goto-financial-public-bounty-program",
+   "asset": "*.gofin.io",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "GoTo Financial - Public Bounty Program",
+   "handle": "goto-financial-public-bounty-program",
+   "asset": "*.mab.co.id",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "GOJEK - Public Bounty Program",
+   "handle": "gojek-bug-bounty-program",
+   "asset": "gocorp.gojek.com",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "GOJEK - Public Bounty Program",
+   "handle": "gojek-bug-bounty-program",
+   "asset": "https://apps.apple.com/sg/app/gojek-driver/id1573529788",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "GOJEK - Public Bounty Program",
+   "handle": "gojek-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.gojek.partner",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "GOJEK - Public Bounty Program",
+   "handle": "gojek-bug-bounty-program",
+   "asset": "https://play.google.com/store/apps/details?id=com.gojek.resto",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "DECATHLON",
+   "handle": "decathlon",
+   "asset": "https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "DECATHLON",
+   "handle": "decathlon",
+   "asset": "https://www.decathlon.(hu|pl|ro|cz|com.tr)/",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "DECATHLON",
+   "handle": "decathlon",
+   "asset": "https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "DECATHLON",
+   "handle": "decathlon",
+   "asset": "https://www.decathlon.(hu|ro|com.tr)/",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Tencent Bug Bounty Program",
+   "handle": "tencent-bug-bounty-program",
+   "asset": "In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Tencent Bug Bounty Program",
+   "handle": "tencent-bug-bounty-program",
+   "asset": "Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Tencent Bug Bounty Program",
+   "handle": "tencent-bug-bounty-program",
+   "asset": "Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Ninja Kiwi Games Bug Bounty program",
+   "handle": "ninjakiwigames/ninjakiwigames",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-03T10:03:39.920589+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "PDQ bug bounty program",
+   "handle": "pdq/pdqcomprivate",
+   "asset": null,
+   "asset_type": null
+  },
   {
    "date": "2026-07-30T16:45:00.372000+00:00",
    "type": "scope_added",
@@ -2700,6 +2853,15 @@
    "asset": "insights.judgeme.dev",
    "asset_type": "URL",
    "bounty": true
+  },
+  {
+   "date": "2026-06-10T10:24:53+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Salto Vulnerability Disclosure ",
+   "handle": "saltosystems/saltovulnerabilitydisclosure",
+   "asset": null,
+   "asset_type": null
   },
   {
    "date": "2026-06-09T19:27:29.348000+00:00",
@@ -5830,176 +5992,6 @@
    "asset": "https://c.realme.com/id/",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-04-28T08:42:25.445000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "https://c.realme.com/in/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T08:42:25.445000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "https://c.realme.com/ru/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T08:39:21.686000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "http://open.oppomobile.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T06:21:23.688000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "com.katanlabs.worm.ioeatemall",
-   "asset_type": "WINDOWS_APP_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T06:19:51.076000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "com.katanlabs.matchballgame",
-   "asset_type": "OTHER_APK",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T06:19:30.454000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "com.katanlabs.bubblepop",
-   "asset_type": "OTHER_APK",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "*.bcbits.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "*.epicgames.dev",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "*.fallguys.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "*.twinmotion.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "admin-dev.harmonixmusic.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "admin.harmonixmusic.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "answers.unrealengine.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "api.epicgames.dev",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "aqtooling.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "aquiristech.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-27T19:45:58.752000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Epic Games VDP",
-   "handle": "epicgames-vdp",
-   "asset": "artportal.epicgames.com",
-   "asset_type": "URL",
-   "bounty": false
   }
  ]
 }
