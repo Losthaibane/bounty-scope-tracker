@@ -1,156 +1,384 @@
 {
- "generated_at": "2026-08-03T10:03:39.920589+00:00",
+ "generated_at": "2026-08-04T08:52:05.282918+00:00",
  "changes": [
   {
-   "date": "2026-08-03T10:03:39.920589+00:00",
+   "date": "2026-08-04T08:52:05.282918+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "curl",
-   "handle": "curl",
+   "program": "Stellar.org",
+   "handle": "stellar",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "GoTo Financial - Public Bounty Program",
-   "handle": "goto-financial-public-bounty-program",
-   "asset": "*.gofin.io",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "GoTo Financial - Public Bounty Program",
-   "handle": "goto-financial-public-bounty-program",
-   "asset": "*.mab.co.id",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "GOJEK - Public Bounty Program",
-   "handle": "gojek-bug-bounty-program",
-   "asset": "gocorp.gojek.com",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "GOJEK - Public Bounty Program",
-   "handle": "gojek-bug-bounty-program",
-   "asset": "https://apps.apple.com/sg/app/gojek-driver/id1573529788",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "GOJEK - Public Bounty Program",
-   "handle": "gojek-bug-bounty-program",
-   "asset": "https://play.google.com/store/apps/details?id=com.gojek.partner",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "GOJEK - Public Bounty Program",
-   "handle": "gojek-bug-bounty-program",
-   "asset": "https://play.google.com/store/apps/details?id=com.gojek.resto",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "DECATHLON",
-   "handle": "decathlon",
-   "asset": "https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "DECATHLON",
-   "handle": "decathlon",
-   "asset": "https://www.decathlon.(hu|pl|ro|cz|com.tr)/",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "DECATHLON",
-   "handle": "decathlon",
-   "asset": "https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "DECATHLON",
-   "handle": "decathlon",
-   "asset": "https://www.decathlon.(hu|ro|com.tr)/",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "Tencent Bug Bounty Program",
-   "handle": "tencent-bug-bounty-program",
-   "asset": "In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "Tencent Bug Bounty Program",
-   "handle": "tencent-bug-bounty-program",
-   "asset": "Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "Tencent Bug Bounty Program",
-   "handle": "tencent-bug-bounty-program",
-   "asset": "Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T10:03:39.920589+00:00",
+   "date": "2026-08-04T08:52:05.282918+00:00",
    "type": "new_program",
-   "platform": "intigriti",
-   "program": "Ninja Kiwi Games Bug Bounty program",
-   "handle": "ninjakiwigames/ninjakiwigames",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-03T10:03:39.920589+00:00",
+   "date": "2026-08-04T08:52:05.282918+00:00",
+   "type": "new_program",
+   "platform": "yeswehack",
+   "program": "Keycloak",
+   "handle": "keycloak-bug-bounty-program",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-04T08:52:05.282918+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "PDQ bug bounty program",
-   "handle": "pdq/pdqcomprivate",
+   "program": "Water-Link",
+   "handle": "waterlink/water-link",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-04T08:52:05.282918+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Kinepolis Group",
+   "handle": "kinepolis/website",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-04T08:27:13+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Housing Application (huisvestingsapp) Bug Bounty Program",
+   "handle": "kuleuven/huisvesting",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-04T07:50:06+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Salto Vulnerability Disclosure ",
+   "handle": "saltosystems/saltovulnerabilitydisclosure",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-04T01:19:54.709000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "eufy Security",
+   "handle": "eufy_security",
+   "asset": "eufyMake Studio(2D UV)",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T20:15:25.240000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel Open Source",
+   "handle": "vercel-open-source",
+   "asset": "https://github.com/vercel/chat",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T20:14:51.605000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel Open Source",
+   "handle": "vercel-open-source",
+   "asset": "https://github.com/vercel/eve",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:25:49.586000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "kyc.a.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:25:35.021000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "fiat-prod-fallback.a.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:25:11.954000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "fiat-p.a.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:24:51.838000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "fiat.a.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:22:00.308000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "exchange-server.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:21:13.390000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "ctr.a.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:20:57.918000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "nexotrack-p.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:20:36.381000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "nexotrack.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:20:11.962000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "dashboard-p.xoswap.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:19:57.903000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "dashboard.xoswap.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:19:41.238000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "xoswap-graphql-p.a.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:19:20.929000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "xoswap-graphql.a.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:19:01.609000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "api-p.xoswap.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:18:34.127000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "api.xoswap.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:18:16.138000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "exchange-p.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:17:55.310000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "exchange-server-p.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T19:17:24.082000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "http://exchange-server.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:16:23.642000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "embedded.passkeys.foundation",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:14:05.906000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "api.passkeys.network",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:11:17.491000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "my.passkeys.network",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:10:32.228000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "relay.passkeys.foundation",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:09:03.818000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "wallet.passkeys.foundation",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:08:34.479000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "passkeys.foundation",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:02:47.322000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "turing.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:02:00.044000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "pay-admin.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T18:00:45.655000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "login.exodus.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T15:42:39+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Trusted Firmware",
+   "handle": "arm/trustedfirmware",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-03T14:52:25.790000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "pay.exodus.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T12:50:18+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Anaconda Vulnerability Disclosure Program",
+   "handle": "anacondainc/anacondavdp",
    "asset": null,
    "asset_type": null
   },
@@ -2505,6 +2733,15 @@
    "bounty": true
   },
   {
+   "date": "2026-06-19T10:55:49+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer VDP",
+   "handle": "truelayer/truelayervdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
    "date": "2026-06-18T19:37:09.296000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -2853,15 +3090,6 @@
    "asset": "insights.judgeme.dev",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-06-10T10:24:53+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Salto Vulnerability Disclosure ",
-   "handle": "saltosystems/saltovulnerabilitydisclosure",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-06-09T19:27:29.348000+00:00",
@@ -5760,236 +5988,6 @@
    "program": "Visa",
    "handle": "visa",
    "asset": "cybersourcebouncebacks.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:29:12.537000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "*.prod.innovexperiments.com",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:29:00.548000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "info.cybersource.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:28:48.544000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "vwcm.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:28:37.995000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "forms.cybersource.com",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:28:25.617000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "info.authorize.net",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:28:12.978000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "app.demand.cybersource.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:27:58.978000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "vdam.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:27:46.480000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "images.demand.cybersource.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:27:16.131000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.trialpay.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T12:52:47.244000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Lovable VDP",
-   "handle": "lovable-vdp",
-   "asset": "api.lovable.dev",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T10:23:23.466000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "business.phonepe.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T10:21:57.505000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "www.share.market",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T10:16:09.157000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "https://play.google.com/store/apps/details?id=com.phonepe.app.business&pcampaignid=web_share",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T10:14:37.560000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "https://apps.apple.com/in/app/phonepe-business-merchant-app/id1463742453",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T10:14:21.692000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "https://play.google.com/store/apps/details?id=com.phonepe.stockbroking&pcampaignid=web_share",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T10:02:30.313000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "https://apps.apple.com/in/app/share-market-stock-trading-app/id6444640366",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T09:55:16.344000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "https://play.google.com/store/apps/details?id=com.phonepe.app&pcampaignid=web_share",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T09:52:21.830000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "https://apps.apple.com/in/app/phonepe-secure-payments-app/id1170055821",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-28T08:43:15.700000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "https://community.oppo.com/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T08:43:15.700000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "https://communityin.oppo.com/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T08:42:25.445000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "https://c.realme.com/eg/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T08:42:25.445000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "https://c.realme.com/global/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T08:42:25.445000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OPPO",
-   "handle": "oppo_bbp",
-   "asset": "https://c.realme.com/id/",
    "asset_type": "URL",
    "bounty": true
   }
