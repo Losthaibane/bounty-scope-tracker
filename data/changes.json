@@ -1,68 +1,87 @@
 {
- "generated_at": "2026-08-04T08:52:05.282918+00:00",
+ "generated_at": "2026-08-05T08:49:52.924605+00:00",
  "changes": [
   {
-   "date": "2026-08-04T08:52:05.282918+00:00",
+   "date": "2026-08-05T08:49:52.924605+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Stellar.org",
-   "handle": "stellar",
+   "program": "Box BB",
+   "handle": "box_private",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-04T08:52:05.282918+00:00",
-   "type": "new_program",
+   "date": "2026-08-05T08:49:52.924605+00:00",
+   "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
-   "asset": null,
+   "program": "Taxwell VDP",
+   "handle": "taxwell-vdp",
+   "asset": "1040.com",
    "asset_type": null
   },
   {
-   "date": "2026-08-04T08:52:05.282918+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "Keycloak",
-   "handle": "keycloak-bug-bounty-program",
-   "asset": null,
+   "date": "2026-08-05T08:49:52.924605+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Taxwell VDP",
+   "handle": "taxwell-vdp",
+   "asset": "drakesoftware.com",
    "asset_type": null
   },
   {
-   "date": "2026-08-04T08:52:05.282918+00:00",
+   "date": "2026-08-05T08:49:52.924605+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Taxwell VDP",
+   "handle": "taxwell-vdp",
+   "asset": "securefilepro.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-05T08:49:52.924605+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Taxwell VDP",
+   "handle": "taxwell-vdp",
+   "asset": "taxact.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-05T08:49:52.924605+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Water-Link",
-   "handle": "waterlink/water-link",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-04T08:52:05.282918+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Kinepolis Group",
-   "handle": "kinepolis/website",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-04T08:27:13+00:00",
+   "date": "2026-08-04T14:58:02+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Housing Application (huisvestingsapp) Bug Bounty Program",
-   "handle": "kuleuven/huisvesting",
+   "program": "Dropbox Bug Bounty",
+   "handle": "dropbox/dropbox",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-04T07:50:06+00:00",
+   "date": "2026-08-04T13:57:11+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Salto Vulnerability Disclosure ",
-   "handle": "saltosystems/saltovulnerabilitydisclosure",
+   "program": "Cyber Security Coalition",
+   "handle": "cybersecuritycoalition/cybersecuritycoalition",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-08-04T10:32:45.944000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Alshaya",
+   "handle": "alshaya",
+   "asset": "id6472633752",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
   },
   {
    "date": "2026-08-04T01:19:54.709000+00:00",
@@ -355,15 +374,6 @@
    "bounty": true
   },
   {
-   "date": "2026-08-03T15:42:39+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Trusted Firmware",
-   "handle": "arm/trustedfirmware",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-08-03T14:52:25.790000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -372,15 +382,6 @@
    "asset": "pay.exodus.io",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-03T12:50:18+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Anaconda Vulnerability Disclosure Program",
-   "handle": "anacondainc/anacondavdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-07-30T16:45:00.372000+00:00",
@@ -2731,15 +2732,6 @@
    "asset": "Any other ThreatDown asset",
    "asset_type": "OTHER",
    "bounty": true
-  },
-  {
-   "date": "2026-06-19T10:55:49+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "TrueLayer VDP",
-   "handle": "truelayer/truelayervdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-06-18T19:37:09.296000+00:00",
@@ -5989,6 +5981,16 @@
    "handle": "visa",
    "asset": "cybersourcebouncebacks.visa.com",
    "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-04-28T14:29:12.537000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "*.prod.innovexperiments.com",
+   "asset_type": "OTHER",
    "bounty": true
   }
  ]
