@@ -1,75 +1,210 @@
 {
- "generated_at": "2026-08-05T08:49:52.924605+00:00",
+ "generated_at": "2026-08-06T08:51:11.256237+00:00",
  "changes": [
   {
-   "date": "2026-08-05T08:49:52.924605+00:00",
-   "type": "new_program",
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Box BB",
-   "handle": "box_private",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "api-p.xoswap.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "api.xoswap.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "dashboard-p.xoswap.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "dashboard.xoswap.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "exchange-p.exodus.io",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "exchange-server-p.exodus.io",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "exchange-server.exodus.io",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "http://exchange-server.exodus.io",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "xoswap-graphql-p.a.exodus.io",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "xoswap-graphql.a.exodus.io",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T08:51:11.256237+00:00",
+   "type": "new_program",
+   "platform": "yeswehack",
+   "program": "Deezer Bug Bounty Program",
+   "handle": "deezer-bug-bounty-program-2019",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-05T08:49:52.924605+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Taxwell VDP",
-   "handle": "taxwell-vdp",
-   "asset": "1040.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-05T08:49:52.924605+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Taxwell VDP",
-   "handle": "taxwell-vdp",
-   "asset": "drakesoftware.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-05T08:49:52.924605+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Taxwell VDP",
-   "handle": "taxwell-vdp",
-   "asset": "securefilepro.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-05T08:49:52.924605+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Taxwell VDP",
-   "handle": "taxwell-vdp",
-   "asset": "taxact.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-05T08:49:52.924605+00:00",
+   "date": "2026-08-06T08:51:11.256237+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
+   "program": "UZ Leuven",
+   "handle": "uz leuven/uzleuven",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-04T14:58:02+00:00",
+   "date": "2026-08-05T13:09:55.701000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T13:09:01.104000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:41:19.874000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/safe-string",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:40:37.915000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/errors",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:40:00.841000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/sentry-client",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:39:07.075000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/keychain",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:37:51.154000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://github.com/ExodusOSS/hydra",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:36:38.595000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://github.com/ExodusOSS/bytes",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:36:04.295000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://github.com/ExodusOSS/crypto",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T10:39:49+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Dropbox Bug Bounty",
-   "handle": "dropbox/dropbox",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-04T13:57:11+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Cyber Security Coalition",
-   "handle": "cybersecuritycoalition/cybersecuritycoalition",
+   "program": "Trusted Firmware",
+   "handle": "arm/trustedfirmware",
    "asset": null,
    "asset_type": null
   },
@@ -154,16 +289,6 @@
    "bounty": true
   },
   {
-   "date": "2026-08-03T19:22:00.308000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "exchange-server.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
    "date": "2026-08-03T19:21:13.390000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -190,96 +315,6 @@
    "program": "Exodus",
    "handle": "exodus",
    "asset": "nexotrack.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:20:11.962000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "dashboard-p.xoswap.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:19:57.903000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "dashboard.xoswap.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:19:41.238000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "xoswap-graphql-p.a.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:19:20.929000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "xoswap-graphql.a.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:19:01.609000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "api-p.xoswap.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:18:34.127000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "api.xoswap.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:18:16.138000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "exchange-p.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:17:55.310000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "exchange-server-p.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T19:17:24.082000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "http://exchange-server.exodus.io",
    "asset_type": "URL",
    "bounty": true
   },
@@ -5951,46 +5986,6 @@
    "handle": "visa",
    "asset": "capability.prod.innovexperiments.com",
    "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:30:45.243000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "experience.prod.innovexperiments.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:30:11.299000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "garp.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:29:26.387000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "cybersourcebouncebacks.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:29:12.537000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "*.prod.innovexperiments.com",
-   "asset_type": "OTHER",
    "bounty": true
   }
  ]
