@@ -1,111 +1,75 @@
 {
- "generated_at": "2026-08-06T08:51:11.256237+00:00",
+ "generated_at": "2026-08-07T07:39:04.651413+00:00",
  "changes": [
   {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "api-p.xoswap.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "api.xoswap.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "dashboard-p.xoswap.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "dashboard.xoswap.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "exchange-p.exodus.io",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "exchange-server-p.exodus.io",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "exchange-server.exodus.io",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "http://exchange-server.exodus.io",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "xoswap-graphql-p.a.exodus.io",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "xoswap-graphql.a.exodus.io",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T08:51:11.256237+00:00",
+   "date": "2026-08-07T07:39:04.651413+00:00",
    "type": "new_program",
    "platform": "yeswehack",
-   "program": "Deezer Bug Bounty Program",
-   "handle": "deezer-bug-bounty-program-2019",
+   "program": "toom Baumarkt GmbH - Webshop",
+   "handle": "toom-baumarkt-gmbh-bug-bounty-program",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-06T08:51:11.256237+00:00",
+   "date": "2026-08-07T07:39:04.651413+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "UZ Leuven",
-   "handle": "uz leuven/uzleuven",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T16:02:55+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Aikido Security: Bug Bounty Program",
+   "handle": "aikido/aikido",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T14:21:54+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Nexuzhealth VDP",
+   "handle": "nexuzhealth/nexuzhealthvdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T14:20:03+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Allekabels",
+   "handle": "rpip/allekabels",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T14:17:11+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Nexuzhealth",
+   "handle": "nexuzhealth/nexuzhealth",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T11:22:14+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Visma",
+   "handle": "visma/visma",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-06T10:36:49+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Superdrug",
+   "handle": "aswatson/superdrug",
    "asset": null,
    "asset_type": null
   },
@@ -198,15 +162,6 @@
    "asset": "https://github.com/ExodusOSS/crypto",
    "asset_type": "SOURCE_CODE",
    "bounty": true
-  },
-  {
-   "date": "2026-08-05T10:39:49+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Trusted Firmware",
-   "handle": "arm/trustedfirmware",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-04T10:32:45.944000+00:00",
@@ -5985,6 +5940,56 @@
    "program": "Visa",
    "handle": "visa",
    "asset": "capability.prod.innovexperiments.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-04-28T14:30:45.243000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "experience.prod.innovexperiments.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-04-28T14:30:11.299000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "garp.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-04-28T14:29:26.387000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "cybersourcebouncebacks.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-04-28T14:29:12.537000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "*.prod.innovexperiments.com",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-04-28T14:29:00.548000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "info.cybersource.com",
    "asset_type": "URL",
    "bounty": true
   }
