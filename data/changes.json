@@ -1,75 +1,81 @@
 {
- "generated_at": "2026-08-07T07:39:04.651413+00:00",
+ "generated_at": "2026-08-08T07:11:36.776931+00:00",
  "changes": [
   {
-   "date": "2026-08-07T07:39:04.651413+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "toom Baumarkt GmbH - Webshop",
-   "handle": "toom-baumarkt-gmbh-bug-bounty-program",
-   "asset": null,
+   "date": "2026-08-08T07:11:36.776931+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "AWS VDP",
+   "handle": "aws_vdp",
+   "asset": "AWS CodeConnections",
    "asset_type": null
   },
   {
-   "date": "2026-08-07T07:39:04.651413+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-07T18:55:19.866000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Coinbase",
+   "handle": "coinbase",
+   "asset": "*.base.app",
+   "asset_type": "WILDCARD",
+   "bounty": true
   },
   {
-   "date": "2026-08-06T16:02:55+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Aikido Security: Bug Bounty Program",
-   "handle": "aikido/aikido",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-07T18:40:04.837000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Coinbase",
+   "handle": "coinbase",
+   "asset": "https://github.com/base/*",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
   },
   {
-   "date": "2026-08-06T14:21:54+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Nexuzhealth VDP",
-   "handle": "nexuzhealth/nexuzhealthvdp",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-07T18:39:35.545000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Coinbase",
+   "handle": "coinbase",
+   "asset": "https://github.com/coinbase/*",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
   },
   {
-   "date": "2026-08-06T14:20:03+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Allekabels",
-   "handle": "rpip/allekabels",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-07T13:40:55.539000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "AWS VDP",
+   "handle": "aws_vdp",
+   "asset": "https://github.com/aws-actions/*",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
   },
   {
-   "date": "2026-08-06T14:17:11+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Nexuzhealth",
-   "handle": "nexuzhealth/nexuzhealth",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-07T13:40:41.192000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Superhuman (formerly Grammarly)",
+   "handle": "superhuman",
+   "asset": "com.superhuman.mail ",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
   },
   {
-   "date": "2026-08-06T11:22:14+00:00",
+   "date": "2026-08-07T13:38:36.762000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Superhuman (formerly Grammarly)",
+   "handle": "superhuman",
+   "asset": "com.superhuman.mail",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-07T11:08:15+00:00",
    "type": "program_updated",
    "platform": "intigriti",
    "program": "Visma",
    "handle": "visma/visma",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-06T10:36:49+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Superdrug",
-   "handle": "aswatson/superdrug",
    "asset": null,
    "asset_type": null
   },
