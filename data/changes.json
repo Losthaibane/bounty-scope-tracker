@@ -1,15 +1,6 @@
 {
- "generated_at": "2026-08-08T07:11:36.776931+00:00",
+ "generated_at": "2026-08-09T07:13:51.036915+00:00",
  "changes": [
-  {
-   "date": "2026-08-08T07:11:36.776931+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "AWS VDP",
-   "handle": "aws_vdp",
-   "asset": "AWS CodeConnections",
-   "asset_type": null
-  },
   {
    "date": "2026-08-07T18:55:19.866000+00:00",
    "type": "scope_added",
@@ -69,15 +60,6 @@
    "asset": "com.superhuman.mail",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": true
-  },
-  {
-   "date": "2026-08-07T11:08:15+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Visma",
-   "handle": "visma/visma",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-05T13:09:55.701000+00:00",
@@ -5997,6 +5979,26 @@
    "handle": "visa",
    "asset": "info.cybersource.com",
    "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-04-28T14:28:48.544000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "vwcm.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-04-28T14:28:37.995000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "forms.cybersource.com",
+   "asset_type": "OTHER",
    "bounty": true
   }
  ]
