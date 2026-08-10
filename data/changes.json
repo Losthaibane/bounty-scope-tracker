@@ -1,6 +1,124 @@
 {
- "generated_at": "2026-08-09T07:13:51.036915+00:00",
+ "generated_at": "2026-08-10T08:02:02.341139+00:00",
  "changes": [
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "Passkey Wallet",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "api.passkeys.network",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "embedded.passkeys.foundation",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "my.passkeys.network",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "passkeys.foundation",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "relay.passkeys.foundation",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "wallet.passkeys.foundation",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Doccle Bug Bounty program",
+   "handle": "doccle/doccle",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Soundtrack Technologies",
+   "handle": "syb/soundtrackyourbrand",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T08:02:02.341139+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Sqills",
+   "handle": "sqills/sqillscorporatewebsite",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T07:59:10+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Posti Bug Bounty ",
+   "handle": "posti/postibugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-10T07:31:56+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Visma",
+   "handle": "visma/visma",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-09T11:23:57.891000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "*.henkeldx.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
   {
    "date": "2026-08-07T18:55:19.866000+00:00",
    "type": "scope_added",
@@ -258,66 +376,6 @@
    "program": "Exodus",
    "handle": "exodus",
    "asset": "nexotrack.exodus.io",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:16:23.642000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "embedded.passkeys.foundation",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:14:05.906000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "api.passkeys.network",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:11:17.491000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "my.passkeys.network",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:10:32.228000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "relay.passkeys.foundation",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:09:03.818000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "wallet.passkeys.foundation",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T18:08:34.479000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "passkeys.foundation",
    "asset_type": "URL",
    "bounty": true
   },
@@ -5929,76 +5987,6 @@
    "handle": "visa",
    "asset": "capability.prod.innovexperiments.com",
    "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:30:45.243000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "experience.prod.innovexperiments.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:30:11.299000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "garp.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:29:26.387000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "cybersourcebouncebacks.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:29:12.537000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "*.prod.innovexperiments.com",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:29:00.548000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "info.cybersource.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:28:48.544000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "vwcm.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-04-28T14:28:37.995000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "forms.cybersource.com",
-   "asset_type": "OTHER",
    "bounty": true
   }
  ]
