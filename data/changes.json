@@ -1,131 +1,33 @@
 {
- "generated_at": "2026-08-11T07:33:45.105459+00:00",
+ "generated_at": "2026-08-12T07:48:35.291804+00:00",
  "changes": [
   {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "ct.affordability.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "ct.categorisation.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "ct.ciamfed.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
+   "date": "2026-08-12T07:48:35.291804+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
+   "program": "Brave Software",
+   "handle": "brave",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "*.grateful.me",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://apps.apple.com/us/app/grateful-by-exodus/id6754093889",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://play.google.com/store/apps/details?id=com.exodus.grateful",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Equifax-vdp",
-   "handle": "equifax",
-   "asset": "JOBALINE.INFO",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Equifax-vdp",
-   "handle": "equifax",
-   "asset": "wpcprod.decisionpoint3.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Equifax-vdp",
-   "handle": "equifax",
-   "asset": "wpctest.decisionpoint3.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Monzo Public Bug Bounty Program",
-   "handle": "monzobank/monzopublicbugbountyprogram",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:33:45.105459+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "CM.com",
-   "handle": "cmcom/cmcom",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-11T07:26:43+00:00",
+   "date": "2026-08-11T19:17:24+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Water-Link",
-   "handle": "waterlink/water-link",
+   "program": "DigitalOcean",
+   "handle": "digitalocean/digitalocean",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-10T22:28:05+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "NVIDIA Public Bug Bounty",
-   "handle": "nvidia/nvidiapublicbugbounty",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-11T09:21:30.274000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Alshaya",
+   "handle": "alshaya",
+   "asset": "*.aura-mena-uat.alshaya.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
   },
   {
    "date": "2026-08-10T21:29:49.928000+00:00",
@@ -178,15 +80,6 @@
    "bounty": false
   },
   {
-   "date": "2026-08-10T15:34:28+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Newpharma",
-   "handle": "colruyt/newpharma",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-08-10T15:18:56.999000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -205,15 +98,6 @@
    "asset": "*.securiti.ai",
    "asset_type": "WILDCARD",
    "bounty": false
-  },
-  {
-   "date": "2026-08-10T10:24:23+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Sqills",
-   "handle": "sqills/sqillscorporatewebsite",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-09T11:23:57.891000+00:00",
@@ -656,6 +540,126 @@
    "bounty": true
   },
   {
+   "date": "2026-07-29T08:54:24.011000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://apps.apple.com/in/app/oyo-workspaces/id1448023664",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T06:31:38.765000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.stugsommar.se",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T06:31:10.085000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.admiralstrand.dk",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T06:29:35.191000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.oyo-vacation-homes.net",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T06:28:08.415000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.booker-tools.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T06:27:19.951000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "partners.direct-booker.com/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T06:25:47.741000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "www.checkmyguest.fr",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T06:21:07.037000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.g6hospitality.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T05:55:11.814000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.dancenter.dk",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T05:51:41.207000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.belvilla.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T05:49:10.535000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.motel6.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-29T05:47:44.932000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.madecomfy.com.au",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
    "date": "2026-07-28T18:18:02.604000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1086,6 +1090,15 @@
    "bounty": false
   },
   {
+   "date": "2026-07-24T08:49:15.913000+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
    "date": "2026-07-23T17:51:26.103000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1096,6 +1109,16 @@
    "bounty": false
   },
   {
+   "date": "2026-07-23T13:53:30.547000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyotimessquare.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
    "date": "2026-07-23T13:27:01.944000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1103,6 +1126,516 @@
    "handle": "regions_financial",
    "asset": "sabal.com",
    "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:59:33.354000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "travel.checkmyguest.fr",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:58:57.139000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.checkmyguest.fr",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:56:24.490000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.studio6.com/",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:55:35.694000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.g6hospitality.com/",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:54:07.401000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*.motel6.com/",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:52:25.691000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "https://*motel6.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:50:51.117000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "booksundays.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:50:08.929000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "*.checkin.life",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:48:29.809000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "*.madecomfy.com.au",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T12:34:37.467000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "prismlife.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.traum-ferienwohnungen.de",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.leisure-partners.net",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.innov8.work",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.workflobyoyo.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "OYO Android App - com.oyo.consumer",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "Co-OYO Android App - com.oyo.partnerapp",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "OYO OS Android App - com.oyo.property",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "OYO Lite Android app - com.oyo.consumerlite",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "OYO iOS Application",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "Co-OYO iOS Application",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "Weddingz iOS App ",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.danland.dk",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.oyorooms.weddingz.content",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.oyo.orbis.ovh",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.oyorooms.coworkfoodvendor",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.oyo.homes.maestro",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.oyo.maestro",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.belvilla.rental",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.bookertools",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.admiralstrand.dk",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.belvilla.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.dancenter.se",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.booker-tools.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.direct-booker.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyo-vacation-homes.net",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.tui-ferienhaus.de",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:48:15.287000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.jedi.jediaudit",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:45:33.715000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "com.oyo.campus",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:44:42.594000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "patron.oyorooms.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:42:53.139000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyoos.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:42:53.139000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyorooms.io",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:42:53.139000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyocircle.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:42:53.139000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyolasvegas.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:42:53.139000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyohotels.top",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:42:53.139000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyohotels.cn",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:41:12.228000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyotownhouse.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:09:51.436000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyorooms.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:09:51.436000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.weddingz.in",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:09:51.436000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyoworkspaces.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:09:51.436000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.oyovacationhomes.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-23T11:09:51.436000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PRISM",
+   "handle": "prism_vdp",
+   "asset": "http://*.stugsommar.se",
+   "asset_type": "WILDCARD",
    "bounty": false
   },
   {
@@ -3044,15 +3577,6 @@
    "asset": "Hilton Franchised Properties",
    "asset_type": "OTHER",
    "bounty": true
-  },
-  {
-   "date": "2026-06-24T10:17:57+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Spacelift VDP",
-   "handle": "spacelift/spaceliftvdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-06-23T18:53:40.818000+00:00",
@@ -5471,516 +5995,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "stats-trafficcop-uat.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:15.457000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "login-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:15.457000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "login-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:15.457000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "login-sandbox.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:15.457000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "login-uat.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:15.457000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "login.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-ping.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-server-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-server-ping-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-server-ping-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-server-ping-uat.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-server-ping.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-server-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-server-uat.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:50.442000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "identity-server.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:21.803000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "auth-identity-dev-ping.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:21.803000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "auth-identity-ping.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:21.803000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "auth-identity-qa-ping.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:09:21.803000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "auth-identity-uat-ping.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:50.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "core-api-aws-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:50.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "core-api-aws-prod-east1.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:50.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "core-api-aws-prod.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:50.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "core-api-aws-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:50.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "core-api-aws-uat.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-slot6-preview-ott-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-slot6-ott-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-slot5-ott-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-slot4-ott-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-slot3-ott-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-slot2-ott-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-slot1-ott-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-qa-aws-preview.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-uc-preview.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-uat-uc-preview.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-uat-preview.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-preview.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-qa-aws.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-qa-preview.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-aws-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-aws-uat-uw2.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-aws-uat.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-dev-aws.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:08:17.118000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cweb-ott-dev-preview.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T11:08:35.080000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GoCardless Bug Bounty Program",
-   "handle": "gocardless_bbp",
-   "asset": "http://sso-demo.gocardless-staging.io",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T08:11:25.751000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "*.loctite-pulse.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-05T13:16:05.195000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MOD Supply Chain VDP",
-   "handle": "mod_supply_chain_vdp",
-   "asset": "konstru.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-04T16:23:29.161000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Inspectorio",
-   "handle": "inspectorio",
-   "asset": "https://collabora.stg.inspectorio.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-04T04:44:22.796000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GetYourGuide VDP",
-   "handle": "getyourguide_vdp",
-   "asset": "travelers-api.getyourguide.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-04T04:43:38.136000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GetYourGuide VDP",
-   "handle": "getyourguide_vdp",
-   "asset": "www.getyourguide.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-03T14:35:02.927000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Corebridge Financial",
-   "handle": "corebridge_financial",
-   "asset": "https://optout.life2.corebridgefinancial.com/optout/login.jsp",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-04-30T06:47:41.713000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "login.remitly.com",
    "asset_type": "URL",
    "bounty": true
   }
