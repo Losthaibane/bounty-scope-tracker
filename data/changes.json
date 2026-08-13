@@ -1,23 +1,101 @@
 {
- "generated_at": "2026-08-12T07:48:35.291804+00:00",
+ "generated_at": "2026-08-13T07:50:03.353597+00:00",
  "changes": [
   {
-   "date": "2026-08-12T07:48:35.291804+00:00",
+   "date": "2026-08-13T07:50:03.353597+00:00",
    "type": "new_program",
-   "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
+   "platform": "yeswehack",
+   "program": "BIND 9 Bug Bounty Program",
+   "handle": "bind-bug-bounty-program",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-11T19:17:24+00:00",
-   "type": "program_updated",
+   "date": "2026-08-13T07:50:03.353597+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "ExpressVPN - Bug Bounty Program",
+   "handle": "expressvpn-bug-bounty-program",
+   "asset": "https://github.com/expressvpn/wolfssl-rs",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-13T07:50:03.353597+00:00",
+   "type": "new_program",
    "platform": "intigriti",
-   "program": "DigitalOcean",
-   "handle": "digitalocean/digitalocean",
+   "program": "Kahoot Bug Bounty Program",
+   "handle": "kahoot/kahoot",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-08-13T07:50:03.353597+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Lansweeper Bug Bounty Program",
+   "handle": "lansweeper/lansweeper1",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-12T18:41:57.026000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "*.raqnhub.cn",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-12T15:27:08+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Capital.com",
+   "handle": "capitalcom/capitalcom",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-12T11:18:42.199000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": "*.klarna.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-12T11:18:42.199000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": "*.klarna.net",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-12T11:18:42.199000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": "*.klarnacdn.net",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-12T11:18:42.199000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Klarna",
+   "handle": "klarna",
+   "asset": "*.pricerunner.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
   },
   {
    "date": "2026-08-11T09:21:30.274000+00:00",
@@ -1088,15 +1166,6 @@
    "asset": "http://recruitment.roke.co.uk",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-07-24T08:49:15.913000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-07-23T17:51:26.103000+00:00",
@@ -5925,76 +5994,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "stats-trafficcop-aws-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-prod-east1.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-prod.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-uat.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-uat.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
