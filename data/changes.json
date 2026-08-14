@@ -1,40 +1,49 @@
 {
- "generated_at": "2026-08-13T07:50:03.353597+00:00",
+ "generated_at": "2026-08-14T07:47:48.085433+00:00",
  "changes": [
   {
-   "date": "2026-08-13T07:50:03.353597+00:00",
+   "date": "2026-08-14T07:47:48.085433+00:00",
    "type": "new_program",
-   "platform": "yeswehack",
-   "program": "BIND 9 Bug Bounty Program",
-   "handle": "bind-bug-bounty-program",
+   "platform": "hackerone",
+   "program": "Vodafone Oman",
+   "handle": "vodafone_oman",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-13T07:50:03.353597+00:00",
+   "date": "2026-08-13T17:01:27.119000+00:00",
    "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "ExpressVPN - Bug Bounty Program",
-   "handle": "expressvpn-bug-bounty-program",
-   "asset": "https://github.com/expressvpn/wolfssl-rs",
-   "asset_type": null,
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program - Devices",
+   "handle": "amazonvrp-devices",
+   "asset": "Vega OS",
+   "asset_type": "OTHER",
    "bounty": true
   },
   {
-   "date": "2026-08-13T07:50:03.353597+00:00",
-   "type": "new_program",
+   "date": "2026-08-13T16:09:04+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Kahoot Bug Bounty Program",
-   "handle": "kahoot/kahoot",
+   "program": "Capital.com",
+   "handle": "capitalcom/capitalcom",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-13T07:50:03.353597+00:00",
-   "type": "new_program",
+   "date": "2026-08-13T13:31:47+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Lansweeper Bug Bounty Program",
-   "handle": "lansweeper/lansweeper1",
+   "program": "Farfetch Bug Bounty",
+   "handle": "farfetch/farfetchbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-13T09:38:44+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Storebrand Responsible Disclosure",
+   "handle": "spp-storebrand/storebrand-rd",
    "asset": null,
    "asset_type": null
   },
@@ -47,15 +56,6 @@
    "asset": "*.raqnhub.cn",
    "asset_type": "WILDCARD",
    "bounty": false
-  },
-  {
-   "date": "2026-08-12T15:27:08+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Capital.com",
-   "handle": "capitalcom/capitalcom",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-12T11:18:42.199000+00:00",
