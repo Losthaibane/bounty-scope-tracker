@@ -1,12 +1,67 @@
 {
- "generated_at": "2026-08-14T07:47:48.085433+00:00",
+ "generated_at": "2026-08-15T06:55:36.344083+00:00",
  "changes": [
   {
-   "date": "2026-08-14T07:47:48.085433+00:00",
+   "date": "2026-08-15T06:55:36.344083+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Vodafone Oman",
-   "handle": "vodafone_oman",
+   "program": "Solidus",
+   "handle": "solidus",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-15T06:55:36.344083+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "manager.infomaniak.com/*proxy*",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-08-14T17:20:01+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "The Coca-Cola Company Vulnerability Disclosure Program",
+   "handle": "tccc/coca-cola",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-14T15:20:39+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "DigitalOcean",
+   "handle": "digitalocean/digitalocean",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-14T13:51:13+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Axel Springer National Media & Tech",
+   "handle": "axelspringerse/nmt",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-14T12:39:15+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Algemeen Dagblad",
+   "handle": "dpgm/algemeendagblad",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-14T12:27:20+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Storebrand Responsible Disclosure",
+   "handle": "spp-storebrand/storebrand-rd",
    "asset": null,
    "asset_type": null
   },
@@ -19,33 +74,6 @@
    "asset": "Vega OS",
    "asset_type": "OTHER",
    "bounty": true
-  },
-  {
-   "date": "2026-08-13T16:09:04+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Capital.com",
-   "handle": "capitalcom/capitalcom",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-13T13:31:47+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Farfetch Bug Bounty",
-   "handle": "farfetch/farfetchbugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-13T09:38:44+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Storebrand Responsible Disclosure",
-   "handle": "spp-storebrand/storebrand-rd",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-12T18:41:57.026000+00:00",
@@ -96,6 +124,15 @@
    "asset": "*.pricerunner.com",
    "asset_type": "WILDCARD",
    "bounty": true
+  },
+  {
+   "date": "2026-08-11T11:19:00+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Dutch Lottery VDP",
+   "handle": "nederlandseloterij/dutchlotteryvdp",
+   "asset": null,
+   "asset_type": null
   },
   {
    "date": "2026-08-11T09:21:30.274000+00:00",
@@ -5954,46 +5991,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "mystics-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "mercury-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "lynx-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-dev.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
