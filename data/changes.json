@@ -1,6 +1,16 @@
 {
- "generated_at": "2026-08-16T06:56:15.973382+00:00",
+ "generated_at": "2026-08-17T07:13:34.161718+00:00",
  "changes": [
+  {
+   "date": "2026-08-17T07:13:34.161718+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "VFS Global Bug Bounty Program",
+   "handle": "vfs-global-bug-bounty-program",
+   "asset": "https://www.visaforkorea-sl.com/",
+   "asset_type": null,
+   "bounty": true
+  },
   {
    "date": "2026-08-13T17:01:27.119000+00:00",
    "type": "scope_added",
@@ -5988,16 +5998,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "stats-trafficcop-aws-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-uat.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
