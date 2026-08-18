@@ -1,14 +1,216 @@
 {
- "generated_at": "2026-08-17T07:13:34.161718+00:00",
+ "generated_at": "2026-08-18T07:01:20.375664+00:00",
  "changes": [
   {
-   "date": "2026-08-17T07:13:34.161718+00:00",
+   "date": "2026-08-18T07:01:20.375664+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "MTN Group",
+   "handle": "mtn_group",
+   "asset": "https://www.mtn.co.za/insurance/portal",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-18T07:01:20.375664+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Crypto.com",
+   "handle": "crypto",
+   "asset": "Crypto.com Wallet Extension",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-18T07:01:20.375664+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Crypto.com",
+   "handle": "crypto",
+   "asset": "com.defi.wallet",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-18T07:01:20.375664+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-18T07:01:20.375664+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Axel Springer National Media & Tech",
+   "handle": "axelspringerse/nmt",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-18T07:01:20.375664+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Venly",
+   "handle": "arkane/arkanenetwork",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-18T07:01:20.375664+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Kinepolis Group",
+   "handle": "kinepolis/website",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-18T07:01:20.375664+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T21:17:49.261000+00:00",
    "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "VFS Global Bug Bounty Program",
-   "handle": "vfs-global-bug-bounty-program",
-   "asset": "https://www.visaforkorea-sl.com/",
-   "asset_type": null,
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.com.ua",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-17T17:17:23+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Nexuzhealth Web PACS",
+   "handle": "uz leuven/nexuzhealthwebpacs",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T14:12:48+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "DPG Media",
+   "handle": "dpgm/dpgmedia",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T13:39:55+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Trouw",
+   "handle": "dpgm/trouw",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T13:39:32+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Libelle",
+   "handle": "dpgm/libelle",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T13:39:09+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Humo",
+   "handle": "dpgm/humo",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T13:38:28+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Het Parool",
+   "handle": "dpgm/hetparool",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T13:37:46+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Het Laatste Nieuws",
+   "handle": "dpgm/hetlaatstenieuws",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T13:21:33+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "De Volkskrant",
+   "handle": "dpgm/devolkskrant",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T13:20:59+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "De Morgen",
+   "handle": "dpgm/demorgen",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T13:16:02+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Algemeen Dagblad",
+   "handle": "dpgm/algemeendagblad",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-17T12:06:36.950000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MTN Group",
+   "handle": "mtn_group",
+   "asset": "*.momoafrica.tech",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-17T11:41:47.808000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Superhuman (formerly Grammarly)",
+   "handle": "superhuman",
+   "asset": "docs.superhuman.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-17T08:30:19.786000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Crypto.com",
+   "handle": "crypto",
+   "asset": "tickets.crypto.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-17T08:29:55.881000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Crypto.com",
+   "handle": "crypto",
+   "asset": "experiences.crypto.com",
+   "asset_type": "URL",
    "bounty": true
   },
   {
@@ -5780,226 +5982,6 @@
    "asset": "*.vans.com",
    "asset_type": "OTHER",
    "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:39:18.244000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.vfc.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:39:02.660000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.vfc-int.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T15:43:48.390000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Fifth Third Bank VDP",
-   "handle": "fifth_third_bank_vdp",
-   "asset": "http://www.transactiontracking.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T14:19:22.241000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Bose (VDP)",
-   "handle": "bose_vdp",
-   "asset": "Sonus Faber",
-   "asset_type": "OTHER",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T14:18:33.664000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Bose (VDP)",
-   "handle": "bose_vdp",
-   "asset": "McIntosh",
-   "asset_type": "OTHER",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "aces-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "dream-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "fever-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "liberty-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "wings-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "sun-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "storm-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "sparks-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "sky-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "mystics-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "mercury-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:11:17.384000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "lynx-qa2.wnba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-dev.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-prod-east1.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-prod.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-06T13:10:53.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-trafficcop-aws-qa.nba.com",
-   "asset_type": "URL",
-   "bounty": true
   }
  ]
 }
