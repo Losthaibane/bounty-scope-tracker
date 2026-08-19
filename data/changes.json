@@ -1,77 +1,155 @@
 {
- "generated_at": "2026-08-18T07:01:20.375664+00:00",
+ "generated_at": "2026-08-19T07:02:52.033746+00:00",
  "changes": [
   {
-   "date": "2026-08-18T07:01:20.375664+00:00",
+   "date": "2026-08-19T07:02:52.033746+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "MTN Group",
-   "handle": "mtn_group",
-   "asset": "https://www.mtn.co.za/insurance/portal",
+   "program": "Ferrero",
+   "handle": "ferrero",
+   "asset": "http://kinderbuenotaiwan.com/tw/zh/xp/kbkpop/",
    "asset_type": null
   },
   {
-   "date": "2026-08-18T07:01:20.375664+00:00",
+   "date": "2026-08-19T07:02:52.033746+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Crypto.com",
-   "handle": "crypto",
-   "asset": "Crypto.com Wallet Extension",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "connect.qa.openbanking.transunion.co.uk",
    "asset_type": null
   },
   {
-   "date": "2026-08-18T07:01:20.375664+00:00",
+   "date": "2026-08-19T07:02:52.033746+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Crypto.com",
-   "handle": "crypto",
-   "asset": "com.defi.wallet",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "core-data.transunion.co.uk",
    "asset_type": null
   },
   {
-   "date": "2026-08-18T07:01:20.375664+00:00",
+   "date": "2026-08-19T07:02:52.033746+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "cosmos.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-19T07:02:52.033746+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Telenor Sweden Public Bug Bounty Program",
+   "handle": "telenor-sweden-public-bug-bounty-program",
+   "asset": "*.tv.telenor.se",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-19T07:02:52.033746+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Intergamma",
+   "handle": "intergamma/intergamma",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-19T07:02:52.033746+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "PDQ bug bounty program",
+   "handle": "pdq/pdqcomprivate",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-18T19:44:33.240000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Tor",
+   "handle": "torproject",
+   "asset": "https://gitlab.torproject.org/tpo/core/arti",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-18T18:42:19.946000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "extapi-test4.cloudcare.avg.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-18T18:36:40.100000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "cvt-uat-canada.ccid.neustar.biz",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-18T18:33:42.210000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "authn-uat-canada.ccid.neustar.biz",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-18T14:38:59.227000+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
+   "program": "Vercel Sandbox",
+   "handle": "vercel_sandbox",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-18T07:01:20.375664+00:00",
-   "type": "new_program",
+   "date": "2026-08-18T13:36:02.552000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Kaseya",
+   "handle": "kaseya",
+   "asset": "https://qa.manage.saasalerts.com/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-18T12:59:42+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Axel Springer National Media & Tech",
-   "handle": "axelspringerse/nmt",
+   "program": "Wireless Logic",
+   "handle": "wl/wirelesslogic",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-18T07:01:20.375664+00:00",
-   "type": "new_program",
+   "date": "2026-08-18T07:18:11+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Venly",
-   "handle": "arkane/arkanenetwork",
+   "program": "DPG Media",
+   "handle": "dpgm/dpgmedia",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-18T07:01:20.375664+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Kinepolis Group",
-   "handle": "kinepolis/website",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-18T07:01:20.375664+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-18T00:33:58.235000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel Sandbox",
+   "handle": "vercel_sandbox",
+   "asset": "Vercel sandbox",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
    "date": "2026-08-17T21:17:49.261000+00:00",
@@ -82,96 +160,6 @@
    "asset": "www.visa.com.ua",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-17T17:17:23+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Nexuzhealth Web PACS",
-   "handle": "uz leuven/nexuzhealthwebpacs",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T14:12:48+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "DPG Media",
-   "handle": "dpgm/dpgmedia",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T13:39:55+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Trouw",
-   "handle": "dpgm/trouw",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T13:39:32+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Libelle",
-   "handle": "dpgm/libelle",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T13:39:09+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Humo",
-   "handle": "dpgm/humo",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T13:38:28+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Het Parool",
-   "handle": "dpgm/hetparool",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T13:37:46+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Het Laatste Nieuws",
-   "handle": "dpgm/hetlaatstenieuws",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T13:21:33+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "De Volkskrant",
-   "handle": "dpgm/devolkskrant",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T13:20:59+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "De Morgen",
-   "handle": "dpgm/demorgen",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-17T13:16:02+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Algemeen Dagblad",
-   "handle": "dpgm/algemeendagblad",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-17T12:06:36.950000+00:00",
@@ -5174,6 +5162,16 @@
    "bounty": true
   },
   {
+   "date": "2026-05-11T14:14:41.399000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ferrero",
+   "handle": "ferrero",
+   "asset": "https://prod.tennistrophy.com/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
    "date": "2026-05-11T14:14:24.300000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5981,6 +5979,16 @@
    "handle": "vf-corporation-vdp",
    "asset": "*.vans.com",
    "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-06T18:39:18.244000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "VF Corporation - VDP",
+   "handle": "vf-corporation-vdp",
+   "asset": "*.vfc.com",
+   "asset_type": "WILDCARD",
    "bounty": false
   }
  ]
