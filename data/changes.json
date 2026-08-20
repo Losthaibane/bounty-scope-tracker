@@ -1,54 +1,114 @@
 {
- "generated_at": "2026-08-19T07:02:52.033746+00:00",
+ "generated_at": "2026-08-20T07:03:43.474359+00:00",
  "changes": [
   {
-   "date": "2026-08-19T07:02:52.033746+00:00",
+   "date": "2026-08-20T07:03:43.474359+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "http://kinderbuenotaiwan.com/tw/zh/xp/kbkpop/",
+   "program": "Hilton",
+   "handle": "hilton",
+   "asset": "Hilton Third Party Applications",
    "asset_type": null
   },
   {
-   "date": "2026-08-19T07:02:52.033746+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "connect.qa.openbanking.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-19T07:02:52.033746+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "core-data.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-19T07:02:52.033746+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "cosmos.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-19T07:02:52.033746+00:00",
-   "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "Telenor Sweden Public Bug Bounty Program",
-   "handle": "telenor-sweden-public-bug-bounty-program",
-   "asset": "*.tv.telenor.se",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-19T07:02:52.033746+00:00",
+   "date": "2026-08-20T07:03:43.474359+00:00",
    "type": "new_program",
+   "platform": "hackerone",
+   "program": "Myndr",
+   "handle": "myndr",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-20T07:03:43.474359+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-20T03:09:30.850000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "X / xAI",
+   "handle": "x",
+   "asset": "grok-build",
+   "asset_type": "DOWNLOADABLE_EXECUTABLES",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-20T03:07:43.252000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "X / xAI",
+   "handle": "x",
+   "asset": "x.ai",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-20T03:05:28.840000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "X / xAI",
+   "handle": "x",
+   "asset": "pscp.tv",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-20T03:02:49.045000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "X / xAI",
+   "handle": "x",
+   "asset": "X Pixel Helper (Chrome Extension)",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-20T03:02:15.803000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "X / xAI",
+   "handle": "x",
+   "asset": "*.pscp.tv",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-20T03:00:02.241000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "X / xAI",
+   "handle": "x",
+   "asset": "console.x.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-19T13:26:36+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Intertoys",
+   "handle": "intertoys/intertoys",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-19T12:34:58+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Skoda Auto Bug Bounty Program",
+   "handle": "skodaauto/skodaautoprivatebugbountyprogram",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-19T09:30:32+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "Intergamma",
    "handle": "intergamma/intergamma",
@@ -56,11 +116,11 @@
    "asset_type": null
   },
   {
-   "date": "2026-08-19T07:02:52.033746+00:00",
-   "type": "new_program",
+   "date": "2026-08-19T08:55:50+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "PDQ bug bounty program",
-   "handle": "pdq/pdqcomprivate",
+   "program": "European Space Agency (ESA) VDP",
+   "handle": "europeanspaceagency/europeanspaceagencyvdp",
    "asset": null,
    "asset_type": null
   },
@@ -105,15 +165,6 @@
    "bounty": false
   },
   {
-   "date": "2026-08-18T14:38:59.227000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Vercel Sandbox",
-   "handle": "vercel_sandbox",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-08-18T13:36:02.552000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -122,24 +173,6 @@
    "asset": "https://qa.manage.saasalerts.com/",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-08-18T12:59:42+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Wireless Logic",
-   "handle": "wl/wirelesslogic",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-18T07:18:11+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "DPG Media",
-   "handle": "dpgm/dpgmedia",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-18T00:33:58.235000+00:00",
@@ -3777,7 +3810,7 @@
    "platform": "hackerone",
    "program": "Hilton",
    "handle": "hilton",
-   "asset": "Hilton Third Party Applications",
+   "asset": "Hilton Third Party Applications - *.hilton.com",
    "asset_type": "OTHER",
    "bounty": true
   },
@@ -5959,36 +5992,6 @@
    "handle": "vf-corporation-vdp",
    "asset": "*.timberland.com",
    "asset_type": "OTHER",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:40:01.285000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.thenorthface.com",
-   "asset_type": "OTHER",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:39:38.967000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.vans.com",
-   "asset_type": "OTHER",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:39:18.244000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.vfc.com",
-   "asset_type": "WILDCARD",
    "bounty": false
   }
  ]
