@@ -1,30 +1,12 @@
 {
- "generated_at": "2026-08-20T07:03:43.474359+00:00",
+ "generated_at": "2026-08-21T07:05:12.564674+00:00",
  "changes": [
   {
-   "date": "2026-08-20T07:03:43.474359+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Hilton",
-   "handle": "hilton",
-   "asset": "Hilton Third Party Applications",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-20T07:03:43.474359+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Myndr",
-   "handle": "myndr",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-20T07:03:43.474359+00:00",
-   "type": "new_program",
+   "date": "2026-08-20T09:28:27+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
+   "program": "Social Deal",
+   "handle": "socialdeal/socialdeal",
    "asset": null,
    "asset_type": null
   },
@@ -87,42 +69,6 @@
    "asset": "console.x.com",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-19T13:26:36+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Intertoys",
-   "handle": "intertoys/intertoys",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-19T12:34:58+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Skoda Auto Bug Bounty Program",
-   "handle": "skodaauto/skodaautoprivatebugbountyprogram",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-19T09:30:32+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Intergamma",
-   "handle": "intergamma/intergamma",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-19T08:55:50+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "European Space Agency (ESA) VDP",
-   "handle": "europeanspaceagency/europeanspaceagencyvdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-18T19:44:33.240000+00:00",
@@ -5991,6 +5937,66 @@
    "program": "VF Corporation - VDP",
    "handle": "vf-corporation-vdp",
    "asset": "*.timberland.com",
+   "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-06T18:40:01.285000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "VF Corporation - VDP",
+   "handle": "vf-corporation-vdp",
+   "asset": "*.thenorthface.com",
+   "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-06T18:39:38.967000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "VF Corporation - VDP",
+   "handle": "vf-corporation-vdp",
+   "asset": "*.vans.com",
+   "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-06T18:39:18.244000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "VF Corporation - VDP",
+   "handle": "vf-corporation-vdp",
+   "asset": "*.vfc.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-06T18:39:02.660000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "VF Corporation - VDP",
+   "handle": "vf-corporation-vdp",
+   "asset": "*.vfc-int.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-06T15:43:48.390000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Fifth Third Bank VDP",
+   "handle": "fifth_third_bank_vdp",
+   "asset": "http://www.transactiontracking.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-06T14:19:22.241000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bose (VDP)",
+   "handle": "bose_vdp",
+   "asset": "Sonus Faber",
    "asset_type": "OTHER",
    "bounty": false
   }
