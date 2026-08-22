@@ -1,14 +1,52 @@
 {
- "generated_at": "2026-08-21T07:05:12.564674+00:00",
+ "generated_at": "2026-08-22T06:56:54.020951+00:00",
  "changes": [
   {
-   "date": "2026-08-20T09:28:27+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Social Deal",
-   "handle": "socialdeal/socialdeal",
+   "date": "2026-08-22T06:56:54.020951+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Aon",
+   "handle": "aon",
+   "asset": "www.onlineaon.com.ar",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-22T06:56:54.020951+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Stellar.org",
+   "handle": "stellar",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-08-22T06:56:54.020951+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Intertoys",
+   "handle": "intertoys/intertoys",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-21T17:36:50.117000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "forms.cybersource.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-21T13:55:07.584000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "andeslatam.tech",
+   "asset_type": "URL",
+   "bounty": false
   },
   {
    "date": "2026-08-20T03:09:30.850000+00:00",
@@ -5957,46 +5995,6 @@
    "program": "VF Corporation - VDP",
    "handle": "vf-corporation-vdp",
    "asset": "*.vans.com",
-   "asset_type": "OTHER",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:39:18.244000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.vfc.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:39:02.660000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.vfc-int.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T15:43:48.390000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Fifth Third Bank VDP",
-   "handle": "fifth_third_bank_vdp",
-   "asset": "http://www.transactiontracking.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T14:19:22.241000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Bose (VDP)",
-   "handle": "bose_vdp",
-   "asset": "Sonus Faber",
    "asset_type": "OTHER",
    "bounty": false
   }
