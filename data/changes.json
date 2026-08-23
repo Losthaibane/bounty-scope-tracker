@@ -1,32 +1,65 @@
 {
- "generated_at": "2026-08-22T06:56:54.020951+00:00",
+ "generated_at": "2026-08-23T06:58:20.659184+00:00",
  "changes": [
   {
-   "date": "2026-08-22T06:56:54.020951+00:00",
-   "type": "scope_removed",
+   "date": "2026-08-22T14:44:08.352000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "Aon",
-   "handle": "aon",
-   "asset": "www.onlineaon.com.ar",
-   "asset_type": null
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://www.myvisacardportal.com/enbd/en_ae/landing/",
+   "asset_type": "URL",
+   "bounty": true
   },
   {
-   "date": "2026-08-22T06:56:54.020951+00:00",
-   "type": "new_program",
+   "date": "2026-08-22T14:35:52.484000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "Stellar.org",
-   "handle": "stellar",
-   "asset": null,
-   "asset_type": null
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.com.bo",
+   "asset_type": "URL",
+   "bounty": true
   },
   {
-   "date": "2026-08-22T06:56:54.020951+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Intertoys",
-   "handle": "intertoys/intertoys",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-22T14:34:59.719000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.co.ni",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-22T14:33:41.314000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.co.cr",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-22T07:26:07.337000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "*.henkeleconomato.es",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-22T06:59:39.695000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "*.sawope.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
   },
   {
    "date": "2026-08-21T17:36:50.117000+00:00",
@@ -5967,36 +6000,6 @@
    "asset": "remitly.io",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-05-06T18:40:30.612000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.timberland.com",
-   "asset_type": "OTHER",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:40:01.285000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.thenorthface.com",
-   "asset_type": "OTHER",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-06T18:39:38.967000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "VF Corporation - VDP",
-   "handle": "vf-corporation-vdp",
-   "asset": "*.vans.com",
-   "asset_type": "OTHER",
-   "bounty": false
   }
  ]
 }
