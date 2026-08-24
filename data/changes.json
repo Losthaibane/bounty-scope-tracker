@@ -1,6 +1,60 @@
 {
- "generated_at": "2026-08-23T06:58:20.659184+00:00",
+ "generated_at": "2026-08-24T07:17:34.737805+00:00",
  "changes": [
+  {
+   "date": "2026-08-24T07:17:34.737805+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Essity",
+   "handle": "essity",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-24T07:17:34.737805+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "12Build Bug Bounty Program",
+   "handle": "onetwobuild/12build",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-24T07:17:34.737805+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Venly",
+   "handle": "arkane/arkanenetwork",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-24T07:17:34.737805+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Axel Springer National Media & Tech",
+   "handle": "axelspringerse/nmt",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-23T11:49:07+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Voi Scooters",
+   "handle": "voi/voiscooters",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-23T09:32:19+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Salto Vulnerability Disclosure ",
+   "handle": "saltosystems/saltovulnerabilitydisclosure",
+   "asset": null,
+   "asset_type": null
+  },
   {
    "date": "2026-08-22T14:44:08.352000+00:00",
    "type": "scope_added",
@@ -5938,66 +5992,6 @@
    "program": "Remitly",
    "handle": "remitly",
    "asset": "origenbanking.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:30.818000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "origenapp.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:26.764000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "insuritly.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:23.200000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "getsurenow.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:19.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "getorigen.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:16.300000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "beamitmobile.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T04:21:52.406000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.io",
    "asset_type": "URL",
    "bounty": true
   }
