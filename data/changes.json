@@ -1,57 +1,567 @@
 {
- "generated_at": "2026-08-24T07:17:34.737805+00:00",
+ "generated_at": "2026-08-25T07:05:54.535703+00:00",
  "changes": [
   {
-   "date": "2026-08-24T07:17:34.737805+00:00",
+   "date": "2026-08-25T07:05:54.535703+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Essity",
-   "handle": "essity",
+   "program": "Wickr",
+   "handle": "wickr",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-24T07:17:34.737805+00:00",
+   "date": "2026-08-25T07:05:54.535703+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "Heartland Restaurant / Retail / Payroll / Human Capital Management (Get Hired)",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-25T07:05:54.535703+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-25T07:05:54.535703+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "12Build Bug Bounty Program",
-   "handle": "onetwobuild/12build",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-24T07:17:34.737805+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Venly",
-   "handle": "arkane/arkanenetwork",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-08-24T21:27:08.957000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://www.visa.com.ua/",
+   "asset_type": "URL",
+   "bounty": true
   },
   {
-   "date": "2026-08-24T07:17:34.737805+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Axel Springer National Media & Tech",
-   "handle": "axelspringerse/nmt",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-23T11:49:07+00:00",
+   "date": "2026-08-24T19:19:41+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Voi Scooters",
-   "handle": "voi/voiscooters",
+   "program": "Dropbox Bug Bounty",
+   "handle": "dropbox/dropbox",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-23T09:32:19+00:00",
-   "type": "program_updated",
+   "date": "2026-08-24T15:50:53.166000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.be",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:30.321000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.pl",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:30.321000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "kino.visa.pl",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.ca",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.cl",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.cn",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.com.hn",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.cz",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.de",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.dk",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.dm",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.ee",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.es",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.fi",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.hu",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.gr",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.ie",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "visa.in",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.is",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.lt",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.lv",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.mn",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.nl",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.no",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.pt",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.ro",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.se",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.sk",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visabg.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:46:50.087000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visaeurope.at",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:46:50.087000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visaeurope.ch",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:46:50.087000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visaeurope.lu",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:46:50.087000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visaeurope.si",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:46:50.087000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visaitalia.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:46:50.087000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visakorea.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:46:50.087000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visasoutheasteurope.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:46:50.087000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visaeurope.es",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:44:41.914000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "visa.com.mx",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:44:41.914000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.com.jm",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:43:53.084000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "cis.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:43:53.084000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "myanmar.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:43:53.084000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "rs.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:43:53.084000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "sr.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:43:53.084000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.mz.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:43:04.498000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "africa.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:43:04.498000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "by.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:29:23.168000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://usa.visa.com/gateway/api",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:10:18.522000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T12:32:20.644000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MoonPay ",
+   "handle": "moonpay",
+   "asset": "*.iron.xyz",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T12:28:03.047000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MoonPay ",
+   "handle": "moonpay",
+   "asset": "iron.xyz",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T07:19:25+00:00",
+   "type": "new_program",
    "platform": "intigriti",
-   "program": "Salto Vulnerability Disclosure ",
-   "handle": "saltosystems/saltovulnerabilitydisclosure",
+   "program": "Challenge 0826",
+   "handle": "intigriti/challenge0826",
    "asset": null,
    "asset_type": null
   },
@@ -4246,16 +4756,6 @@
    "bounty": false
   },
   {
-   "date": "2026-06-12T13:00:43.084000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Home Bargains",
-   "handle": "homebargains",
-   "asset": "https://hackerone-m1rtuq8orz.hbstaging.website/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
    "date": "2026-06-12T07:24:21.619000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5494,506 +5994,6 @@
    "asset": "https://www.t.podarujraffaello.pl/",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:00:13.084000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://www.kinder.com/us/en/xp/kinder-chocolate-offer/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T13:59:51.557000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://kinderchocolateoffer.com/us/en/xp/kinder-chocolate-offer/berlin-beta/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T13:59:30.393000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://www-quellidellacolazione-be-it-2025.ipaasferrero.com/admin/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T13:58:57.814000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://www.kinder.com/in/en/xp/ksbccheertowin/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T09:37:16.956000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Lovable VDP",
-   "handle": "lovable-vdp",
-   "asset": "mcp.lovable.dev",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-08T16:39:00.100000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Stripe",
-   "handle": "stripe",
-   "asset": "mcp.stripe.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-08T16:07:28.703000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "103.225.115.4",
-   "asset_type": "IP_ADDRESS",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-08T13:21:59.679000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Spotify",
-   "handle": "spotify",
-   "asset": "Save to Spotify CLI",
-   "asset_type": "DOWNLOADABLE_EXECUTABLES",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T17:13:51.417000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MercadoLibre",
-   "handle": "mercadolibre",
-   "asset": "Tier 3",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T15:05:18.969000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Circle BBP",
-   "handle": "circle-bbp",
-   "asset": "https://github.com/circlefin/arc-remote-signer",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T09:00:04.021000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "pixiv",
-   "handle": "pixiv",
-   "asset": "premium.pixiv.net",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:52.164000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "whyisend.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:48.586000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "travelcash.money",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:45.626000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitresearch.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:42.615000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlywallet.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:39.606000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlytest.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:36.601000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlypayments.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:32.999000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlypay.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:29.797000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlyit.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:25.787000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlydata.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:22.150000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlycredit.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:19.007000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlycard.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:14.219000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitlyapi.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:11.208000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.xyz",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:07.920000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.uk",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:04.684000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.org",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:03:03.250000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.net",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:59.840000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.mx",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:56.446000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.me",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:53.354000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.jp",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:50.166000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.fr",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:46.763000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.eu",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:43.365000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.es",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:38.899000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.de",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:35.554000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.com.mx",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:31.626000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.com.au",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:27.515000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.co.uk",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:24.201000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.co",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:21.123000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.cash",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:17.568000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly.ca",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:14.133000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly-vendor.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:07.672000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitly-3pjs.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:02:04.495000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitiy.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:59.412000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remitir.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:53.652000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remilty.org",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:49.601000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "remilty.net",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:45.329000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "origenfinance.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:41.894000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "origendebit.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:37.956000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "origencard.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-05-07T05:01:34.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Remitly",
-   "handle": "remitly",
-   "asset": "origenbanking.com",
-   "asset_type": "URL",
-   "bounty": true
   }
  ]
 }
