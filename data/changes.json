@@ -1,41 +1,81 @@
 {
- "generated_at": "2026-08-25T07:05:54.535703+00:00",
+ "generated_at": "2026-08-26T07:06:18.753170+00:00",
  "changes": [
   {
-   "date": "2026-08-25T07:05:54.535703+00:00",
+   "date": "2026-08-26T07:06:18.753170+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Wickr",
-   "handle": "wickr",
+   "program": "Vanguard",
+   "handle": "vanguard",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-25T07:05:54.535703+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Global Payments",
-   "handle": "global-payments",
-   "asset": "Heartland Restaurant / Retail / Payroll / Human Capital Management (Get Hired)",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-25T07:05:54.535703+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-25T07:05:54.535703+00:00",
+   "date": "2026-08-26T07:06:18.753170+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-08-25T20:44:28+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Intel\u00ae",
+   "handle": "intel/intel",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-25T18:11:32.632000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://ebctest.cybersource.com/bos",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-25T17:57:21.150000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "auth.cdssandbox.xyz",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-25T13:46:28.913000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://ebctest.cybersource.com/underwriting",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-25T11:38:22+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "European Space Agency (ESA) VDP",
+   "handle": "europeanspaceagency/europeanspaceagencyvdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-25T07:17:10.791000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "8x8",
+   "handle": "8x8-bounty",
+   "asset": "map.8x8.com",
+   "asset_type": "URL",
+   "bounty": false
   },
   {
    "date": "2026-08-24T21:27:08.957000+00:00",
@@ -46,15 +86,6 @@
    "asset": "https://www.visa.com.ua/",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-24T19:19:41+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dropbox Bug Bounty",
-   "handle": "dropbox/dropbox",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-24T15:50:53.166000+00:00",
@@ -162,16 +193,6 @@
    "platform": "hackerone",
    "program": "Visa",
    "handle": "visa",
-   "asset": "www.visa.dm",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
    "asset": "www.visa.ee",
    "asset_type": "URL",
    "bounty": true
@@ -223,16 +244,6 @@
    "program": "Visa",
    "handle": "visa",
    "asset": "www.visa.ie",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "visa.in",
    "asset_type": "URL",
    "bounty": true
   },
@@ -343,6 +354,26 @@
    "program": "Visa",
    "handle": "visa",
    "asset": "www.visabg.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "www.visa.dm",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-24T15:50:06.759000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "visa.in",
    "asset_type": "URL",
    "bounty": true
   },
@@ -555,15 +586,6 @@
    "asset": "iron.xyz",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-24T07:19:25+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Challenge 0826",
-   "handle": "intigriti/challenge0826",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-22T14:44:08.352000+00:00",
@@ -1581,16 +1603,6 @@
    "platform": "hackerone",
    "program": "Assa Abloy Americas",
    "handle": "assa_abloy_americas",
-   "asset": "https://centriosappstore.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
    "asset": "https://controlid.com.br",
    "asset_type": "URL",
    "bounty": false
@@ -1873,6 +1885,16 @@
    "handle": "assa_abloy_americas",
    "asset": "https://apps.apple.com/us/app/yale-accentra-access/id1523678122",
    "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-28T18:18:02.604000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Assa Abloy Americas",
+   "handle": "assa_abloy_americas",
+   "asset": "https://centriosappstore.com",
+   "asset_type": "URL",
    "bounty": false
   },
   {
@@ -5972,26 +5994,6 @@
    "program": "Ferrero",
    "handle": "ferrero",
    "asset": "https://promo.nutella.ro/ro/ro/xp/dimineata-mai-buna/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:01:01.475000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://www.podarujraffaello.pl/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:00:37.570000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://www.t.podarujraffaello.pl/",
    "asset_type": "URL",
    "bounty": false
   }
