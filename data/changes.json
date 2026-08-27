@@ -1,30 +1,137 @@
 {
- "generated_at": "2026-08-26T07:06:18.753170+00:00",
+ "generated_at": "2026-08-27T17:36:01.541187+00:00",
  "changes": [
   {
-   "date": "2026-08-26T07:06:18.753170+00:00",
-   "type": "new_program",
+   "date": "2026-08-27T17:36:01.541187+00:00",
+   "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Vanguard",
-   "handle": "vanguard",
-   "asset": null,
+   "program": "Essity",
+   "handle": "essity",
+   "asset": "https://leaukoplast.ca/fr",
    "asset_type": null
   },
   {
-   "date": "2026-08-26T07:06:18.753170+00:00",
+   "date": "2026-08-27T17:36:01.541187+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-08-25T20:44:28+00:00",
+   "date": "2026-08-27T14:29:20.351000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "api.migration.login-connexion.canada.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-27T14:28:40.729000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "app.migration.login-connexion.canada.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-27T14:28:00.920000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "api.login-connexion.canada.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-27T14:24:10.626000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "app.login-connexion.canada.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-27T13:49:50.288000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Matomo",
+   "handle": "matomo",
+   "asset": "https://github.com/matomo-org/developer-documentation",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-27T13:47:08.350000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Matomo",
+   "handle": "matomo",
+   "asset": "https://github.com/matomo-org/tracker-proxy",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-27T13:44:48.661000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Matomo",
+   "handle": "matomo",
+   "asset": "https://github.com/matomo-org/tracker-proxy",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-27T08:50:06+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Intel\u00ae",
-   "handle": "intel/intel",
+   "program": "VRT",
+   "handle": "vrtnv/vrtnv",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-26T20:32:05.675000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://ebctest.cybersource.com/vroom",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-26T12:48:23+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "SBB - Swiss Federal Railways",
+   "handle": "sbb/sbbglobal",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-26T09:19:21+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Dutch Lottery VDP",
+   "handle": "nederlandseloterij/dutchlotteryvdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-26T08:00:07+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Ubisoft Responsible Disclosure Program",
+   "handle": "ubisoft/ubisoftvdp",
    "asset": null,
    "asset_type": null
   },
@@ -57,15 +164,6 @@
    "asset": "https://ebctest.cybersource.com/underwriting",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-25T11:38:22+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "European Space Agency (ESA) VDP",
-   "handle": "europeanspaceagency/europeanspaceagencyvdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-25T07:17:10.791000+00:00",
@@ -5778,16 +5876,6 @@
    "bounty": false
   },
   {
-   "date": "2026-05-12T08:24:21.472000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Adobe",
-   "handle": "adobe",
-   "asset": "Behance Freelance Job creation",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
    "date": "2026-05-11T14:14:41.399000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5904,96 +5992,6 @@
    "program": "Ferrero",
    "handle": "ferrero",
    "asset": "https://world-cup-asp.ferrero.stage.ampagency.digital/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:06:06.122000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://www.nutella.com/pl/pl/xp/ciastkanutellaikinder",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:05:32.069000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "http://estathe.it/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:04:20.969000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://www.tictac.com/ph/en/xp/promotion/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:03:58.192000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://cms.tennistrophy.it/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:03:43.273000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://www.tennistrophy.it",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:03:14.782000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://prod.tennistrophy.it",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:02:40.161000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://test-jours-a-croquer.ferrero.fr/status/_id/uid",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:02:19.137000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://promocionesraffaello.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:01:47.002000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://promo.nutella.ro/ro/ro/xp/dimineata-mai-buna/",
    "asset_type": "URL",
    "bounty": false
   }
