@@ -1,23 +1,80 @@
 {
- "generated_at": "2026-08-27T17:36:01.541187+00:00",
+ "generated_at": "2026-08-28T18:37:33.889666+00:00",
  "changes": [
   {
-   "date": "2026-08-27T17:36:01.541187+00:00",
+   "date": "2026-08-28T18:37:33.889666+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Essity",
    "handle": "essity",
-   "asset": "https://leaukoplast.ca/fr",
+   "asset": "https://ccevaluation.tena.com/",
    "asset_type": null
   },
   {
-   "date": "2026-08-27T17:36:01.541187+00:00",
+   "date": "2026-08-28T18:37:33.889666+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "OKG",
+   "handle": "okg",
+   "asset": "Agentic Wallet",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-28T18:37:33.889666+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "YesWeHack Dojo",
+   "handle": "dojo",
+   "asset": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-53",
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-28T18:37:33.889666+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "YesWeHack Dojo",
+   "handle": "dojo",
+   "asset": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-54",
+   "asset_type": null,
+   "bounty": false
+  },
+  {
+   "date": "2026-08-28T18:37:33.889666+00:00",
    "type": "new_program",
-   "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
+   "platform": "yeswehack",
+   "program": "Dovecot",
+   "handle": "dovecot",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-08-28T12:36:08.406000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "HackerOne",
+   "handle": "security",
+   "asset": "https://hackerone.com/mcp",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-28T06:40:04+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Watsons",
+   "handle": "aswatson/watsons",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-08-27T21:28:54.333000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "*.visamiddleeast.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
   },
   {
    "date": "2026-08-27T14:29:20.351000+00:00",
@@ -90,15 +147,6 @@
    "bounty": true
   },
   {
-   "date": "2026-08-27T08:50:06+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "VRT",
-   "handle": "vrtnv/vrtnv",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-08-26T20:32:05.675000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -107,33 +155,6 @@
    "asset": "https://ebctest.cybersource.com/vroom",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-26T12:48:23+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "SBB - Swiss Federal Railways",
-   "handle": "sbb/sbbglobal",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-26T09:19:21+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dutch Lottery VDP",
-   "handle": "nederlandseloterij/dutchlotteryvdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-26T08:00:07+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Ubisoft Responsible Disclosure Program",
-   "handle": "ubisoft/ubisoftvdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-25T18:11:32.632000+00:00",
@@ -4476,16 +4497,6 @@
    "bounty": false
   },
   {
-   "date": "2026-06-26T07:51:45.784000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OKG",
-   "handle": "okg",
-   "asset": "Agentic Wallet",
-   "asset_type": "AI_MODEL",
-   "bounty": true
-  },
-  {
    "date": "2026-06-25T13:06:57.997000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5982,16 +5993,6 @@
    "program": "Ferrero",
    "handle": "ferrero",
    "asset": "https://preprod.clubferreropro.com/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-05-11T14:06:22.850000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Ferrero",
-   "handle": "ferrero",
-   "asset": "https://world-cup-asp.ferrero.stage.ampagency.digital/",
    "asset_type": "URL",
    "bounty": false
   }
