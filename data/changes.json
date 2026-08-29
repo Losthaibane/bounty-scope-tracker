@@ -1,52 +1,6 @@
 {
- "generated_at": "2026-08-28T18:37:33.889666+00:00",
+ "generated_at": "2026-08-29T12:39:01.266979+00:00",
  "changes": [
-  {
-   "date": "2026-08-28T18:37:33.889666+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Essity",
-   "handle": "essity",
-   "asset": "https://ccevaluation.tena.com/",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-28T18:37:33.889666+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "OKG",
-   "handle": "okg",
-   "asset": "Agentic Wallet",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-28T18:37:33.889666+00:00",
-   "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "YesWeHack Dojo",
-   "handle": "dojo",
-   "asset": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-53",
-   "asset_type": null
-  },
-  {
-   "date": "2026-08-28T18:37:33.889666+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "YesWeHack Dojo",
-   "handle": "dojo",
-   "asset": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-54",
-   "asset_type": null,
-   "bounty": false
-  },
-  {
-   "date": "2026-08-28T18:37:33.889666+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "Dovecot",
-   "handle": "dovecot",
-   "asset": null,
-   "asset_type": null
-  },
   {
    "date": "2026-08-28T12:36:08.406000+00:00",
    "type": "scope_added",
@@ -56,15 +10,6 @@
    "asset": "https://hackerone.com/mcp",
    "asset_type": "OTHER",
    "bounty": true
-  },
-  {
-   "date": "2026-08-28T06:40:04+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Watsons",
-   "handle": "aswatson/watsons",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-27T21:28:54.333000+00:00",
@@ -5993,6 +5938,66 @@
    "program": "Ferrero",
    "handle": "ferrero",
    "asset": "https://preprod.clubferreropro.com/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-11T14:06:22.850000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ferrero",
+   "handle": "ferrero",
+   "asset": "https://world-cup-asp.ferrero.stage.ampagency.digital/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-11T14:06:06.122000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ferrero",
+   "handle": "ferrero",
+   "asset": "https://www.nutella.com/pl/pl/xp/ciastkanutellaikinder",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-11T14:05:32.069000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ferrero",
+   "handle": "ferrero",
+   "asset": "http://estathe.it/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-11T14:04:20.969000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ferrero",
+   "handle": "ferrero",
+   "asset": "https://www.tictac.com/ph/en/xp/promotion/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-11T14:03:58.192000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ferrero",
+   "handle": "ferrero",
+   "asset": "https://cms.tennistrophy.it/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-05-11T14:03:43.273000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ferrero",
+   "handle": "ferrero",
+   "asset": "https://www.tennistrophy.it",
    "asset_type": "URL",
    "bounty": false
   }
