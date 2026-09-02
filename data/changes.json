@@ -1,75 +1,107 @@
 {
- "generated_at": "2026-09-01T11:34:47.129122+00:00",
+ "generated_at": "2026-09-02T11:13:06.105436+00:00",
  "changes": [
   {
-   "date": "2026-09-01T11:34:47.129122+00:00",
+   "date": "2026-09-02T11:13:06.105436+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "coaching.supernovas.indrive.com",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "irclogs.wordpress.org",
    "asset_type": null
   },
   {
-   "date": "2026-09-01T11:34:47.129122+00:00",
+   "date": "2026-09-02T11:13:06.105436+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "www.supernovas.indrive.com",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "lists.wordpress.org",
    "asset_type": null
   },
   {
-   "date": "2026-09-01T11:34:47.129122+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-01T11:34:47.129122+00:00",
+   "date": "2026-09-02T11:13:06.105436+00:00",
    "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "3DS OUTSCALE",
-   "handle": "outscale",
-   "asset": "https://icu.eu-west-2.outscale.com",
+   "platform": "hackerone",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "munin-*.wordpress.org",
    "asset_type": null
   },
   {
-   "date": "2026-09-01T11:34:47.129122+00:00",
-   "type": "new_program",
+   "date": "2026-09-02T06:51:20+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Monzo Public Bug Bounty Program",
-   "handle": "monzobank/monzopublicbugbountyprogram",
+   "program": "Posti Bug Bounty ",
+   "handle": "posti/postibugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-01T11:26:36+00:00",
+   "date": "2026-09-02T05:41:11.614000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "GetYourGuide VDP",
+   "handle": "getyourguide_vdp",
+   "asset": "integrator-portal-api.getyourguide.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-01T23:21:28.261000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Coalition, Inc.",
+   "handle": "coalition",
+   "asset": "app.wirespeed.co",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-01T19:17:00.367000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Box BB",
+   "handle": "box_private",
+   "asset": "Box Tools",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-01T17:51:53.106000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wealthsimple",
+   "handle": "wealthsimple",
+   "asset": "com.wealthsimple.predict",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-01T17:39:29.709000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wealthsimple",
+   "handle": "wealthsimple",
+   "asset": "com.wealthsimple.predict",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-01T13:59:32+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "De Volkskrant",
-   "handle": "dpgm/devolkskrant",
+   "program": "Lansweeper Bug Bounty Program",
+   "handle": "lansweeper/lansweeper1",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-01T11:26:25+00:00",
+   "date": "2026-09-01T13:10:19+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "De Morgen",
-   "handle": "dpgm/demorgen",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-01T11:26:08+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Algemeen Dagblad",
-   "handle": "dpgm/algemeendagblad",
+   "program": "SBB - Swiss Federal Railways",
+   "handle": "sbb/sbbglobal",
    "asset": null,
    "asset_type": null
   },
@@ -1484,16 +1516,6 @@
    "bounty": false
   },
   {
-   "date": "2026-08-18T00:33:58.235000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Vercel Sandbox",
-   "handle": "vercel_sandbox",
-   "asset": "Vercel sandbox",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
    "date": "2026-08-17T21:17:49.261000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1502,15 +1524,6 @@
    "asset": "www.visa.com.ua",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-08-17T12:08:17+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Adobe Public",
-   "handle": "adobe/adobepublic",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-08-17T12:06:36.950000+00:00",
@@ -5979,16 +5992,6 @@
    "program": "AIG",
    "handle": "aig",
    "asset": "aig.com.br",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-01T15:41:27.247000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "smcloud.appslatam.com",
    "asset_type": "URL",
    "bounty": false
   }
