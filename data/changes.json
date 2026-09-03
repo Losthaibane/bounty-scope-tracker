@@ -1,39 +1,104 @@
 {
- "generated_at": "2026-09-02T11:13:06.105436+00:00",
+ "generated_at": "2026-09-03T11:09:02.103679+00:00",
  "changes": [
   {
-   "date": "2026-09-02T11:13:06.105436+00:00",
-   "type": "scope_removed",
+   "date": "2026-09-03T11:09:02.103679+00:00",
+   "type": "new_program",
    "platform": "hackerone",
-   "program": "WordPress",
-   "handle": "wordpress",
-   "asset": "irclogs.wordpress.org",
+   "program": "Semtech",
+   "handle": "semtech",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-02T11:13:06.105436+00:00",
-   "type": "scope_removed",
+   "date": "2026-09-03T11:09:02.103679+00:00",
+   "type": "new_program",
    "platform": "hackerone",
-   "program": "WordPress",
-   "handle": "wordpress",
-   "asset": "lists.wordpress.org",
+   "program": "phpBB",
+   "handle": "phpbb",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-02T11:13:06.105436+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "WordPress",
-   "handle": "wordpress",
-   "asset": "munin-*.wordpress.org",
+   "date": "2026-09-03T11:09:02.103679+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Liferay DXP",
+   "handle": "liferay/liferaydxp",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-02T06:51:20+00:00",
+   "date": "2026-09-03T11:09:02.103679+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-03T11:09:02.103679+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "WP Engine Bug Bounty",
+   "handle": "wpengine/wpenginebugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-03T11:09:02.103679+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Kinepolis Group",
+   "handle": "kinepolis/website",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-03T11:09:02.103679+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Axel Springer National Media & Tech",
+   "handle": "axelspringerse/nmt",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-03T10:26:10+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Posti Bug Bounty ",
-   "handle": "posti/postibugbounty",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-02T18:02:01.298000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "validate-email.cdssandbox.xyz",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-02T18:00:56.741000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "api.forms-formulaires.alpha.canada.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-02T14:26:43+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "BMW Group",
+   "handle": "bmw/bmwgroup",
    "asset": null,
    "asset_type": null
   },
@@ -86,24 +151,6 @@
    "asset": "com.wealthsimple.predict",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": true
-  },
-  {
-   "date": "2026-09-01T13:59:32+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Lansweeper Bug Bounty Program",
-   "handle": "lansweeper/lansweeper1",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-01T13:10:19+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "SBB - Swiss Federal Railways",
-   "handle": "sbb/sbbglobal",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-01T07:51:41.408000+00:00",
@@ -5942,56 +5989,6 @@
    "program": "LATAM Airlines",
    "handle": "latamairlines",
    "asset": "ema.appslatam.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-02T13:36:05.882000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "www.*.gogoair.*.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-02T10:37:05.617000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Flutter UK&I",
-   "handle": "flutteruki",
-   "asset": "*.ppb.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-01T15:50:14.221000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "AIG",
-   "handle": "aig",
-   "asset": "www.aig.",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-01T15:49:14.621000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "AIG",
-   "handle": "aig",
-   "asset": "glatfelters.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-01T15:43:49.767000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "AIG",
-   "handle": "aig",
-   "asset": "aig.com.br",
    "asset_type": "URL",
    "bounty": false
   }
