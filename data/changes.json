@@ -1,36 +1,81 @@
 {
- "generated_at": "2026-09-03T11:09:02.103679+00:00",
+ "generated_at": "2026-09-04T11:12:53.244067+00:00",
  "changes": [
   {
-   "date": "2026-09-03T11:09:02.103679+00:00",
-   "type": "new_program",
+   "date": "2026-09-04T11:12:53.244067+00:00",
+   "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Semtech",
-   "handle": "semtech",
-   "asset": null,
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "merchantsignage.visa.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-03T11:09:02.103679+00:00",
-   "type": "new_program",
+   "date": "2026-09-04T11:12:53.244067+00:00",
+   "type": "scope_removed",
    "platform": "hackerone",
-   "program": "phpBB",
-   "handle": "phpbb",
-   "asset": null,
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "merchantsignageca.visa.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-03T11:09:02.103679+00:00",
+   "date": "2026-09-04T11:12:53.244067+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "merchantsignageeu.visa.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-04T11:12:53.244067+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "merchantsignageglobal.visa.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-04T11:12:53.244067+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Swiss Post",
+   "handle": "swiss-post",
+   "asset": "https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-04T11:12:53.244067+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Swiss Post",
+   "handle": "swiss-post",
+   "asset": "https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-04T11:12:53.244067+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Liferay DXP",
-   "handle": "liferay/liferaydxp",
+   "program": "Doccle Bug Bounty program",
+   "handle": "doccle/doccle",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-03T11:09:02.103679+00:00",
+   "date": "2026-09-04T11:12:53.244067+00:00",
    "type": "new_program",
+   "platform": "intigriti",
+   "program": "Allekabels",
+   "handle": "rpip/allekabels",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-04T09:59:26+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "DataCamp",
    "handle": "datacamp/datacamp",
@@ -38,8 +83,227 @@
    "asset_type": null
   },
   {
-   "date": "2026-09-03T11:09:02.103679+00:00",
-   "type": "new_program",
+   "date": "2026-09-04T00:25:29.082000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "Services/Mobile/GenAI",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:22:56.880000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "Devices",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "Vega OS",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "Echo Family Devices",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "FireTV",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "Kindle E-Reader",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "Luna",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "Tablets",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "com.amazon.clouddrive.photos",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "com.amazon.dee.app",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "com.amazon.kindle",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "com.amazon.storm.lightning.client.aosp",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "com.amazon.tahoe.freetime",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "com.amazon.tails",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "1324809509",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "1528364633",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "302584613",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "621574163",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "944011620",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-04T00:01:09.718000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Amazon Vulnerability Research Program",
+   "handle": "amazonvrp",
+   "asset": "947984433",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-03T19:27:18+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Intel\u00ae",
+   "handle": "intel/intel",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-03T19:01:04.107000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Anthropic Cyber Jailbreak",
+   "handle": "anthropic-cyber-jailbreak",
+   "asset": "Fable 5.1",
+   "asset_type": "AI_MODEL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T18:11:14+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "WP Engine Bug Bounty",
    "handle": "wpengine/wpenginebugbounty",
@@ -47,31 +311,34 @@
    "asset_type": null
   },
   {
-   "date": "2026-09-03T11:09:02.103679+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Kinepolis Group",
-   "handle": "kinepolis/website",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-03T16:13:49.394000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Fifth Third Bank VDP",
+   "handle": "fifth_third_bank_vdp",
+   "asset": "http://secure.franklin-street.com",
+   "asset_type": "URL",
+   "bounty": false
   },
   {
-   "date": "2026-09-03T11:09:02.103679+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Axel Springer National Media & Tech",
-   "handle": "axelspringerse/nmt",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-03T16:12:59.435000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Fifth Third Bank VDP",
+   "handle": "fifth_third_bank_vdp",
+   "asset": "http://fuse.bigdatahc.com",
+   "asset_type": "URL",
+   "bounty": false
   },
   {
-   "date": "2026-09-03T10:26:10+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Adobe Public",
-   "handle": "adobe/adobepublic",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-03T12:43:20.121000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Semrush",
+   "handle": "semrush",
+   "asset": "www.semrush.com",
+   "asset_type": "URL",
+   "bounty": true
   },
   {
    "date": "2026-09-02T18:02:01.298000+00:00",
@@ -92,15 +359,6 @@
    "asset": "api.forms-formulaires.alpha.canada.ca",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-09-02T14:26:43+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "BMW Group",
-   "handle": "bmw/bmwgroup",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-02T05:41:11.614000+00:00",
@@ -1613,16 +1871,6 @@
    "bounty": true
   },
   {
-   "date": "2026-08-13T17:01:27.119000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Amazon Vulnerability Research Program - Devices",
-   "handle": "amazonvrp-devices",
-   "asset": "Vega OS",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
    "date": "2026-08-12T18:41:57.026000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1631,46 +1879,6 @@
    "asset": "*.raqnhub.cn",
    "asset_type": "WILDCARD",
    "bounty": false
-  },
-  {
-   "date": "2026-08-12T11:18:42.199000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": "*.klarna.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-12T11:18:42.199000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": "*.klarna.net",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-12T11:18:42.199000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": "*.klarnacdn.net",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-12T11:18:42.199000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": "*.pricerunner.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
   },
   {
    "date": "2026-08-11T09:21:30.274000+00:00",
@@ -5781,216 +5989,6 @@
    "asset": "*.hmh247.org",
    "asset_type": "WILDCARD",
    "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:36:30.799000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.northwellprimarycarenow.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:34:46.413000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.mgbcareconnect.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:34:19.739000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.csconnect.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:33:54.680000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.khealth-test.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:26:45.063000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.hhc247.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T17:57:37.661000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Shopify",
-   "handle": "shopify",
-   "asset": "Authentication & ATO",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T09:48:33.818000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "starbucks-t%C3%BCrkiye/id1100698915?l=tr",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-05T09:45:08.249000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "com.starbucks.tr",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-05T09:43:12.730000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "https://apps.apple.com/tr/app/starbucks-t%C3%BCrkiye/id1100698915?l=tr",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:42:51.846000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.it",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:41:31.587000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.cz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:41:07.410000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.co.nz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:40:42.596000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.co.za",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:40:14.959000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastreammexico.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:39:49.312000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.jp",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:39:20.728000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.kr",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:39:00.344000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.sg",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:38:35.888000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.com.ar",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:38:00.593000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.com.tw",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:37:29.778000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.com.br",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-02T14:37:48.157000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "ema.appslatam.com",
-   "asset_type": "URL",
-   "bounty": false
   }
  ]
 }
