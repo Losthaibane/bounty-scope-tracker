@@ -1,23 +1,15 @@
 {
- "generated_at": "2026-09-05T10:30:40.452695+00:00",
+ "generated_at": "2026-09-06T10:51:24.903003+00:00",
  "changes": [
   {
-   "date": "2026-09-05T10:30:40.452695+00:00",
-   "type": "scope_removed",
+   "date": "2026-09-05T16:07:36.939000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "MetaMask",
-   "handle": "metamask",
-   "asset": "*.api.cx.metamask.io",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-05T10:30:40.452695+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "MetaMask",
-   "handle": "metamask",
-   "asset": "https://*.metamask.io",
-   "asset_type": null
+   "program": "Basecamp",
+   "handle": "basecamp",
+   "asset": "https://github.com/basecamp/trix",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
   },
   {
    "date": "2026-09-04T00:25:29.082000+00:00",
@@ -5997,6 +5989,16 @@
    "handle": "alshaya",
    "asset": "https://apps.apple.com/tr/app/starbucks-t%C3%BCrkiye/id1100698915?l=tr",
    "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-06-03T20:42:51.846000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PepsiCo VDP",
+   "handle": "pepsico_vdp",
+   "asset": "sodastream.it",
+   "asset_type": "URL",
    "bounty": false
   }
  ]
