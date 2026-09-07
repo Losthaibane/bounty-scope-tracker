@@ -1,6 +1,60 @@
 {
- "generated_at": "2026-09-06T10:51:24.903003+00:00",
+ "generated_at": "2026-09-07T12:24:44.715920+00:00",
  "changes": [
+  {
+   "date": "2026-09-07T12:24:44.715920+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Basecamp",
+   "handle": "basecamp",
+   "asset": "fizzy.do",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-07T12:24:44.715920+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "WP Engine Bug Bounty",
+   "handle": "wpengine/wpenginebugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-07T12:24:44.715920+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Randstad",
+   "handle": "randstad/randstad",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-07T07:05:37+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "SBB - Swiss Federal Railways",
+   "handle": "sbb/sbbglobal",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-06T19:00:01+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "SimScale",
+   "handle": "simscale/simscale",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-06T14:14:24+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
+   "asset": null,
+   "asset_type": null
+  },
   {
    "date": "2026-09-05T16:07:36.939000+00:00",
    "type": "scope_added",
@@ -5940,66 +5994,6 @@
    "asset": "*.khealth-test.com",
    "asset_type": "WILDCARD",
    "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:26:45.063000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.hhc247.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T17:57:37.661000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Shopify",
-   "handle": "shopify",
-   "asset": "Authentication & ATO",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T09:48:33.818000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "starbucks-t%C3%BCrkiye/id1100698915?l=tr",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-05T09:45:08.249000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "com.starbucks.tr",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-05T09:43:12.730000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "https://apps.apple.com/tr/app/starbucks-t%C3%BCrkiye/id1100698915?l=tr",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-03T20:42:51.846000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PepsiCo VDP",
-   "handle": "pepsico_vdp",
-   "asset": "sodastream.it",
-   "asset_type": "URL",
-   "bounty": false
   }
  ]
 }
