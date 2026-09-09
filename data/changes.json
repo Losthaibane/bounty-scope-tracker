@@ -1,14 +1,231 @@
 {
- "generated_at": "2026-09-08T11:12:25.566665+00:00",
+ "generated_at": "2026-09-09T11:17:11.897459+00:00",
  "changes": [
   {
-   "date": "2026-09-08T11:12:25.566665+00:00",
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Box BB",
+   "handle": "box_private",
+   "asset": "signrequest.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Box BB",
+   "handle": "box_private",
+   "asset": "sr-staging-1.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "https://www.sdgov.gogoair.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "www.*.gogoair.*.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "www.*gogo*.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "www.*gogo.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "www.gogo*.*",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "www.gogo*.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Gogo VDP",
+   "handle": "gogo_vdp",
+   "asset": "www.gogoair.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "connect.openbanking.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Weblate",
-   "handle": "weblate",
+   "program": "Scopely",
+   "handle": "scopely",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T11:17:11.897459+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-09T03:20:41.112000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "eufy Security",
+   "handle": "eufy_security",
+   "asset": "Anker soundcore Work D3200",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T03:20:41.112000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "eufy Security",
+   "handle": "eufy_security",
+   "asset": "Liberty 5 Pro Max D1204",
+   "asset_type": "HARDWARE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T03:20:41.112000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "eufy Security",
+   "handle": "eufy_security",
+   "asset": "id=com.oceanwing.soundcore",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T03:20:41.112000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "eufy Security",
+   "handle": "eufy_security",
+   "asset": "id=com.zhixin.controller",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T03:20:41.112000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "eufy Security",
+   "handle": "eufy_security",
+   "asset": "anker-nebula/id1319092174",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T03:20:41.112000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "eufy Security",
+   "handle": "eufy_security",
+   "asset": "soundcore/id1331876603",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T03:13:12.206000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "eufy Security",
+   "handle": "eufy_security",
+   "asset": "https://apps.apple.com/us/app/soundcore/id1331876603",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-08T17:13:17+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "DigitalOcean",
+   "handle": "digitalocean/digitalocean",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-08T15:22:06.425000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Semtech",
+   "handle": "semtech",
+   "asset": "Any LoRa Software product",
+   "asset_type": "DOWNLOADABLE_EXECUTABLES",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-08T14:41:57.188000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "administracionpreaprobadomovil.cifin.co",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-08T11:43:42.834000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MoonPay ",
+   "handle": "moonpay",
+   "asset": "*.swaps.xyz",
+   "asset_type": "WILDCARD",
+   "bounty": true
   },
   {
    "date": "2026-09-07T14:54:13.559000+00:00",
@@ -5768,236 +5985,6 @@
    "handle": "mercadolibre",
    "asset": "mpago.la",
    "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-11T10:22:06.251000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MercadoLibre",
-   "handle": "mercadolibre",
-   "asset": "mercadobackoffice.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-11T10:22:06.251000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MercadoLibre",
-   "handle": "mercadolibre",
-   "asset": "mercadoenvios.com.ve",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-11T10:22:06.251000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MercadoLibre",
-   "handle": "mercadolibre",
-   "asset": "academy.mercadoads.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-11T10:17:48.388000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Judge.me ",
-   "handle": "judgeme",
-   "asset": "insights.judgeme.dev",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-09T19:27:29.348000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "cosmos-vision.appslatam.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-09T18:25:41.088000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Airtable",
-   "handle": "airtable",
-   "asset": "https://www.npmjs.com/package/@airtable/mcp-cli",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-09T18:24:27.697000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Airtable",
-   "handle": "airtable",
-   "asset": "mcp.staging.airtable.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-09T09:42:23.236000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MOD Supply Chain VDP",
-   "handle": "mod_supply_chain_vdp",
-   "asset": "https://mdmproject.thorntontomasetti.com/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-09T07:40:27.879000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PortSwigger Web Security",
-   "handle": "portswigger",
-   "asset": "id.portswigger.net",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-08T08:19:29.693000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GetYourGuide VDP",
-   "handle": "getyourguide_vdp",
-   "asset": "com.getyourguide.android",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-08T08:19:29.693000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GetYourGuide VDP",
-   "handle": "getyourguide_vdp",
-   "asset": "com.getyourguide.mobile.GetYourGuide",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-08T03:25:05.824000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TikTok",
-   "handle": "tiktok",
-   "asset": "*.soundon.global",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-08T03:24:34.662000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TikTok",
-   "handle": "tiktok",
-   "asset": "www.soundon.global",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:38:12.078000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.pennmedicine.connect-visit.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:37:51.303000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.novanthealthvirtualprimarycare.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:37:29.356000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.primarycareondemand.mayoclinic.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:36:54.457000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.hmh247.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:36:30.799000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.northwellprimarycarenow.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:34:46.413000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.mgbcareconnect.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:34:19.739000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.csconnect.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:33:54.680000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.khealth-test.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T19:26:45.063000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KHealth",
-   "handle": "khealth",
-   "asset": "*.hhc247.org",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-05T17:57:37.661000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Shopify",
-   "handle": "shopify",
-   "asset": "Authentication & ATO",
-   "asset_type": "OTHER",
    "bounty": true
   }
  ]
