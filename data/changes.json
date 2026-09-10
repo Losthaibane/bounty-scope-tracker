@@ -1,120 +1,250 @@
 {
- "generated_at": "2026-09-09T11:17:11.897459+00:00",
+ "generated_at": "2026-09-10T11:13:43.199285+00:00",
  "changes": [
   {
-   "date": "2026-09-09T11:17:11.897459+00:00",
+   "date": "2026-09-10T11:13:43.199285+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Box BB",
-   "handle": "box_private",
-   "asset": "signrequest.com",
+   "program": "Global Payments",
+   "handle": "global-payments",
+   "asset": "Global Payments Inc",
    "asset_type": null
   },
   {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
+   "date": "2026-09-10T07:43:10.040000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "Box BB",
-   "handle": "box_private",
-   "asset": "sr-staging-1.com",
-   "asset_type": null
+   "program": "GoCardless Bug Bounty Program",
+   "handle": "gocardless_bbp",
+   "asset": "https://github.com/gocardless",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
   },
   {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "https://www.sdgov.gogoair.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "www.*.gogoair.*.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "www.*gogo*.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "www.*gogo.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "www.gogo*.*",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "www.gogo*.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Gogo VDP",
-   "handle": "gogo_vdp",
-   "asset": "www.gogoair.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "connect.openbanking.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Scopely",
-   "handle": "scopely",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-09T11:17:11.897459+00:00",
-   "type": "new_program",
+   "date": "2026-09-10T07:32:05+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
+   "program": "Posti Bug Bounty ",
+   "handle": "posti/postibugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-10T07:16:46.629000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "506426310",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:23:33.538000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.stayz.com.au",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:23:01.531000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.flights.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:22:08.558000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expedia-aarp.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expedia.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.abritel.fr",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.bookabach.co.nz",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.ean.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expediaagents.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expediagroup.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expediapartnersolutions.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.fewo-direkt.de",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.hotels.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.hotwirepartnercentral.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:18:20.904000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.orbitz.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:06:08.793000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.tiqets.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T16:04:50.643000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "www.tiqets.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T15:31:21.635000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.tigets.com",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T15:31:21.635000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "www.tigets.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T15:26:16.927000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "com.carrentals",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T15:26:16.927000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "com.homeaway.android",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-09T14:34:51+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Venly",
+   "handle": "arkane/arkanenetwork",
    "asset": null,
    "asset_type": null
   },
@@ -187,15 +317,6 @@
    "asset": "https://apps.apple.com/us/app/soundcore/id1331876603",
    "asset_type": "APPLE_STORE_APP_ID",
    "bounty": true
-  },
-  {
-   "date": "2026-09-08T17:13:17+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "DigitalOcean",
-   "handle": "digitalocean/digitalocean",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-08T15:22:06.425000+00:00",
@@ -5876,116 +5997,6 @@
    "asset": "www.dev.alshaya.com",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-06-14T17:27:49.736000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Agoda Public",
-   "handle": "agoda-public",
-   "asset": "https://www.agoda.com/book/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-14T15:23:21.277000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "*.8x8.studio",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-14T04:59:26.850000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "pubtools.private.8x8cloud.net",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-12T13:43:12.803000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Adevinta",
-   "handle": "adevinta_vdp",
-   "asset": "infojobs.net",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-12T07:24:21.619000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "henkelsand.service-now.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-12T07:24:04.238000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "henkeldev.service-now.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-12T07:23:47.300000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "henkeltest.service-now.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-12T07:23:26.916000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "henkelprod.service-now.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-11T10:22:06.251000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MercadoLibre",
-   "handle": "mercadolibre",
-   "asset": "mercadopago.com.ve",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-11T10:22:06.251000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MercadoLibre",
-   "handle": "mercadolibre",
-   "asset": "mpago.li",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-06-11T10:22:06.251000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MercadoLibre",
-   "handle": "mercadolibre",
-   "asset": "mpago.la",
-   "asset_type": "URL",
-   "bounty": true
   }
  ]
 }
