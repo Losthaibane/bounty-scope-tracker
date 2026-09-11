@@ -1,13 +1,108 @@
 {
- "generated_at": "2026-09-10T11:13:43.199285+00:00",
+ "generated_at": "2026-09-11T11:15:14.921121+00:00",
  "changes": [
   {
-   "date": "2026-09-10T11:13:43.199285+00:00",
-   "type": "scope_removed",
+   "date": "2026-09-11T11:15:14.921121+00:00",
+   "type": "new_program",
+   "platform": "yeswehack",
+   "program": "Kiteworks Public Bug Bounty Program",
+   "handle": "kiteworks-public-bug-bounty-program-1",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-11T11:15:14.921121+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Yacht",
+   "handle": "randstad/yacht",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-11T11:15:14.921121+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "BMC",
+   "handle": "randstad/bmc",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-11T11:15:14.921121+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Tempo-Team ",
+   "handle": "randstad/tempo-team",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-11T11:03:53.280000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "Global Payments",
-   "handle": "global-payments",
-   "asset": "Global Payments Inc",
+   "program": "Superbet",
+   "handle": "superbet",
+   "asset": "*.super.xyz",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-11T07:00:08+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Watsons",
+   "handle": "aswatson/watsons",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-10T19:39:06.816000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "auth.forms-formulaires.alpha.canada.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-10T16:12:05.672000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Databricks",
+   "handle": "databricks",
+   "asset": "Lakebase-Supported extensions",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-10T15:20:56.642000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Neon",
+   "handle": "neon_bbp",
+   "asset": "Neon-supported extensions",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-10T14:13:14.133000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "642441300",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-10T11:26:51+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Salto Vulnerability Disclosure ",
+   "handle": "saltosystems/saltovulnerabilitydisclosure",
+   "asset": null,
    "asset_type": null
   },
   {
@@ -19,15 +114,6 @@
    "asset": "https://github.com/gocardless",
    "asset_type": "SOURCE_CODE",
    "bounty": true
-  },
-  {
-   "date": "2026-09-10T07:32:05+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Posti Bug Bounty ",
-   "handle": "posti/postibugbounty",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-10T07:16:46.629000+00:00",
@@ -238,15 +324,6 @@
    "asset": "com.homeaway.android",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": true
-  },
-  {
-   "date": "2026-09-09T14:34:51+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Venly",
-   "handle": "arkane/arkanenetwork",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-09T03:20:41.112000+00:00",
@@ -5915,86 +5992,6 @@
    "program": "Alshaya",
    "handle": "alshaya",
    "asset": "tracking.victoriassecret.cz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "media.bathandbodyworks.ro",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "www.bathandbodyworks.ro",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "apigw.dev.alshaya.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "mft.dev.alshaya.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "odi.dev.alshaya.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "soa.dev.alshaya.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "www.customercare.alshaya.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-06-15T05:47:53.745000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "www.dev.alshaya.com",
    "asset_type": "URL",
    "bounty": false
   }
