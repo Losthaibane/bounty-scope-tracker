@@ -1,40 +1,49 @@
 {
- "generated_at": "2026-09-11T11:15:14.921121+00:00",
+ "generated_at": "2026-09-12T10:40:59.171253+00:00",
  "changes": [
   {
-   "date": "2026-09-11T11:15:14.921121+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "Kiteworks Public Bug Bounty Program",
-   "handle": "kiteworks-public-bug-bounty-program-1",
-   "asset": null,
+   "date": "2026-09-12T10:40:59.171253+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "cms.nba.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-11T11:15:14.921121+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Yacht",
-   "handle": "randstad/yacht",
-   "asset": null,
+   "date": "2026-09-12T10:40:59.171253+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "login-sandbox.nba.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-11T11:15:14.921121+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "BMC",
-   "handle": "randstad/bmc",
-   "asset": null,
+   "date": "2026-09-12T10:40:59.171253+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Equifax-vdp",
+   "handle": "equifax",
+   "asset": "prod.decisionpoint3.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-11T11:15:14.921121+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Tempo-Team ",
-   "handle": "randstad/tempo-team",
-   "asset": null,
+   "date": "2026-09-12T10:40:59.171253+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Equifax-vdp",
+   "handle": "equifax",
+   "asset": "uat.decisionpoint3.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-12T10:40:59.171253+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Files.com",
+   "handle": "files",
+   "asset": "Files.com SDK's",
    "asset_type": null
   },
   {
@@ -46,15 +55,6 @@
    "asset": "*.super.xyz",
    "asset_type": "WILDCARD",
    "bounty": true
-  },
-  {
-   "date": "2026-09-11T07:00:08+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Watsons",
-   "handle": "aswatson/watsons",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-10T19:39:06.816000+00:00",
@@ -95,15 +95,6 @@
    "asset": "642441300",
    "asset_type": "APPLE_STORE_APP_ID",
    "bounty": true
-  },
-  {
-   "date": "2026-09-10T11:26:51+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Salto Vulnerability Disclosure ",
-   "handle": "saltosystems/saltovulnerabilitydisclosure",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-10T07:43:10.040000+00:00",
@@ -4866,6 +4857,26 @@
    "bounty": true
   },
   {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "longisland-dev.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "lakeland.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
    "date": "2026-07-22T09:31:01.800000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5164,16 +5175,6 @@
    "asset": "www.truebluetravel.com/",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-07-10T09:27:30.217000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Mozilla",
-   "handle": "mozilla",
-   "asset": "Firefox Homepage Newtab",
-   "asset_type": "OTHER",
-   "bounty": true
   },
   {
    "date": "2026-07-10T03:19:12.296000+00:00",
