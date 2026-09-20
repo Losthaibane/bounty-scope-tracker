@@ -1,78 +1,6 @@
 {
- "generated_at": "2026-09-19T10:53:05.645423+00:00",
+ "generated_at": "2026-09-20T11:17:11.913853+00:00",
  "changes": [
-  {
-   "date": "2026-09-19T10:53:05.645423+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "clientadmin.pp.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-19T10:53:05.645423+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "clientadmin.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-19T10:53:05.645423+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "cmsstage.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-19T10:53:05.645423+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "connect.ct.openbanking.transunion.co.uk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-19T10:53:05.645423+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "hostinger ",
-   "handle": "hostinger",
-   "asset": "H5G",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-19T10:53:05.645423+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "hostinger ",
-   "handle": "hostinger",
-   "asset": "http://payments.hostinger.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-19T10:53:05.645423+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "hostinger ",
-   "handle": "hostinger",
-   "asset": "mail.hostinger.com/v2",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-19T10:53:05.645423+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "hostinger ",
-   "handle": "hostinger",
-   "asset": "www.hostinger.com",
-   "asset_type": null
-  },
   {
    "date": "2026-09-18T16:40:38.841000+00:00",
    "type": "scope_added",
@@ -114,15 +42,6 @@
    "bounty": false
   },
   {
-   "date": "2026-09-18T14:12:05+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Driessen Vulnerability Disclosure Program",
-   "handle": "driessengroep/driessenvdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-09-18T13:16:27.163000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -131,15 +50,6 @@
    "asset": "ecommerce.hostinger.com",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-09-18T12:06:32+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Adobe Public",
-   "handle": "adobe/adobepublic",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-17T20:45:04.101000+00:00",
@@ -5990,6 +5900,106 @@
    "asset": "com.wolt.courierapp",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": true
+  },
+  {
+   "date": "2026-07-06T14:28:44.999000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wolt",
+   "handle": "wolt",
+   "asset": "com.wolt.android",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-06T14:17:43.281000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wolt",
+   "handle": "wolt",
+   "asset": "wolt.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-06T14:16:48.997000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wolt",
+   "handle": "wolt",
+   "asset": "restaurant-api.wolt.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-06T14:16:17.057000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wolt",
+   "handle": "wolt",
+   "asset": "ops.wolt.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-06T14:15:22.508000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wolt",
+   "handle": "wolt",
+   "asset": "merchant.wolt.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-06T14:14:27.882000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wolt",
+   "handle": "wolt",
+   "asset": "drive.wolt.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-06T14:13:46.596000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wolt",
+   "handle": "wolt",
+   "asset": "corporate.wolt.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-06T14:12:44.031000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Wolt",
+   "handle": "wolt",
+   "asset": "authentication.wolt.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-03T00:23:29.686000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "th.oreosea.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-07-03T00:22:46.301000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "winwithphilly.no",
+   "asset_type": "URL",
+   "bounty": false
   }
  ]
 }
