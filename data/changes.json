@@ -1,14 +1,473 @@
 {
- "generated_at": "2026-09-21T12:42:01.319452+00:00",
+ "generated_at": "2026-09-22T11:32:11.637228+00:00",
  "changes": [
   {
-   "date": "2026-09-21T12:42:01.319452+00:00",
+   "date": "2026-09-22T11:32:11.637228+00:00",
    "type": "new_program",
-   "platform": "yeswehack",
-   "program": "PowerDNS",
-   "handle": "powerdns",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "clientadmin.ct.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "*.swiftype.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Beats",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Beats - Auditbeat",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Beats - Filebeat",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Beats - Heartbeat",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Beats - Metricbeat",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Beats - Osquerybeat",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Beats - Packetbeat",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Beats - Winlogbeat",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Agent",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Clients",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Cloud Enterprise (ECE)",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Cloud on Kubernetes (ECK)",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Defend",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Distributions of OpenTelemetry (EDOT)",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Enterprise Search",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Maps Server",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Package Registry",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elastic Synthetics Monitoring",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Elasticsearch",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Fleet Server",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Kibana",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Logstash",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Observability - APM Agents",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Observability - APM Server",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "cloud.elastic.co",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Swiss Post - E-Voting",
+   "handle": "swiss-post-evoting",
+   "asset": "Protocol of the Swiss Post Voting System 2.0 (Whitepaper)",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Kahoot Bug Bounty Program",
+   "handle": "kahoot/kahoot",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-22T11:32:11.637228+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-21T21:25:55.267000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "idp.ccid.neustar.biz",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-21T19:33:16+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "DigitalOcean",
+   "handle": "digitalocean/digitalocean",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/nitrojs/nitro",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/nuxt/nuxt",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/sveltejs/svelte",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel-labs/agent-skills",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel-labs/skills",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/ai",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/async-sema",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/chat",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/flags",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/next.js",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/swr",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/turborepo",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/vercel",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/workflow",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/eve",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-21T16:58:02.391000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/vercel/ms",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
   },
   {
    "date": "2026-09-21T06:32:43.772000+00:00",
@@ -269,15 +728,6 @@
    "asset": "*.expediataap.com",
    "asset_type": "WILDCARD",
    "bounty": true
-  },
-  {
-   "date": "2026-09-17T08:40:37+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Challenge 0926",
-   "handle": "intigriti/challenge0926",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-16T09:10:32.820000+00:00",
@@ -2880,6 +3330,16 @@
    "bounty": false
   },
   {
+   "date": "2026-08-10T20:05:34.038000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "Vercel sandbox",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
    "date": "2026-08-10T17:08:49.562000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -3097,26 +3557,6 @@
    "handle": "eufy_security",
    "asset": "eufyMake Studio(2D UV)",
    "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T20:15:25.240000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Vercel Open Source",
-   "handle": "vercel-open-source",
-   "asset": "https://github.com/vercel/chat",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-03T20:14:51.605000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Vercel Open Source",
-   "handle": "vercel-open-source",
-   "asset": "https://github.com/vercel/eve",
-   "asset_type": "SOURCE_CODE",
    "bounty": true
   },
   {
@@ -5526,476 +5966,6 @@
    "program": "Deriv.com",
    "handle": "deriv",
    "asset": "https://api-core.deriv.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-21T06:57:24.034000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Deriv.com",
-   "handle": "deriv",
-   "asset": "core-api.deriv.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-21T06:52:27.106000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Deriv.com",
-   "handle": "deriv",
-   "asset": "http://api-core.deriv.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-20T15:17:27.284000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "payflow.appslatam.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-18T20:37:14.551000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Elastic",
-   "handle": "elastic",
-   "asset": "Subdomain takeover",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-16T08:19:43.532000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "British Airways VDP",
-   "handle": "british_airways_vdp",
-   "asset": "com.ba.mobile",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-16T08:18:59.241000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "British Airways VDP",
-   "handle": "british_airways_vdp",
-   "asset": "com.britishairways.BAFlights",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-15T11:30:08.150000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MOD Supply Chain VDP",
-   "handle": "mod_supply_chain_vdp",
-   "asset": "35.214.122.252",
-   "asset_type": "IP_ADDRESS",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-15T11:29:36.295000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MOD Supply Chain VDP",
-   "handle": "mod_supply_chain_vdp",
-   "asset": "http://www.mactaggart-scott.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/js-iam-middleware",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/k8s-vault-operator",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/kiwi-cache",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/kiwi-json",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/kiwi-structlog-config",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/konfetti",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/navigation-compose-typed",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/orbit",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/pg2avro",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/request-session",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/flask-ninja",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T08:53:42.703000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "mail.superhuman.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T08:53:42.703000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "Superhuman Mail Desktop App",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T08:53:42.703000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "Superhuman Mail Chrome Extension",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T08:53:42.703000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "Superhuman and all related assets",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-10T15:46:23.644000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "JetBlue",
-   "handle": "jetblue",
-   "asset": "jetbluevacations.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-10T15:45:46.093000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "JetBlue",
-   "handle": "jetblue",
-   "asset": "www.truebluetravel.com/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-10T03:19:12.296000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "developer.indusappstore.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-10T03:16:46.422000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PhonePe",
-   "handle": "phonepe_vdp",
-   "asset": "www.indusappstore.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-09T08:59:43.647000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "SIX Group",
-   "handle": "six-group",
-   "asset": "http://ibt-test.six-group.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-09T08:46:51.893000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Temu",
-   "handle": "temu",
-   "asset": "ads.temu.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-07T18:11:00.570000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Hilton",
-   "handle": "hilton",
-   "asset": "Managed Property Assets",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-07T16:44:45.433000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Figma",
-   "handle": "figma",
-   "asset": "Figma Weave",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-07T09:44:06.555000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "dev-aip.henkel-adhesives.com.cn",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-07T04:59:32.355000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "dmeops.schwarzkopfclub.com.cn",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-06T21:16:23.887000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "design-system.canada.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-06T15:04:26.102000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "*.wolt.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:56:24.017000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "943905271",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:53:27.795000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "1477299281",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:41:08.751000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "e1ch.neustar.biz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-06T14:37:42.459000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "6GE6LAAR8V.com.woltapp.wolt",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:30:58.591000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "com.wolt.courierapp",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:28:44.999000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "com.wolt.android",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:17:43.281000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:16:48.997000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "restaurant-api.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:16:17.057000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "ops.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:15:22.508000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "merchant.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:14:27.882000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "drive.wolt.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-06T14:13:46.596000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Wolt",
-   "handle": "wolt",
-   "asset": "corporate.wolt.com",
    "asset_type": "URL",
    "bounty": true
   }
