@@ -1,57 +1,162 @@
 {
- "generated_at": "2026-09-23T11:29:06.250348+00:00",
+ "generated_at": "2026-09-24T11:39:36.577384+00:00",
  "changes": [
   {
-   "date": "2026-09-23T11:29:06.250348+00:00",
+   "date": "2026-09-24T11:39:36.577384+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Faraday, Inc.",
-   "handle": "faraday_inc",
-   "asset": "s3://faraday-uploads",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://admin-openonline.essabank.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-23T11:29:06.250348+00:00",
+   "date": "2026-09-24T11:39:36.577384+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "PortSwigger Web Security",
-   "handle": "portswigger",
-   "asset": "Burp Suite Extension (BApps)",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://aggnow.cashedge.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-23T11:29:06.250348+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "Coindcx - Bug Bounty Program",
-   "handle": "coindcx-bug-bounty-program",
-   "asset": null,
+   "date": "2026-09-24T11:39:36.577384+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://xml.cir.cashedge.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-23T11:29:06.250348+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "Okto - Bug Bounty Program",
-   "handle": "okto-bug-bounty-program",
-   "asset": null,
+   "date": "2026-09-24T11:39:36.577384+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://yourreflexcard.agg.cashedge.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-23T11:29:06.250348+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "BitOasis - Bug Bounty Program",
-   "handle": "bitoasis-bug-bounty-program",
-   "asset": null,
+   "date": "2026-09-24T11:39:36.577384+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Elastic",
+   "handle": "elastic",
+   "asset": "Other",
    "asset_type": null
   },
   {
-   "date": "2026-09-23T11:29:06.250348+00:00",
+   "date": "2026-09-24T11:39:36.577384+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-24T11:39:36.577384+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
+   "program": "Kinepolis Group",
+   "handle": "kinepolis/website",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-24T11:39:36.577384+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Soundtrack Technologies",
+   "handle": "syb/soundtrackyourbrand",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-24T11:39:36.577384+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Veriff Bug Bounty",
+   "handle": "veriff/veriffbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-23T17:55:34.974000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "Playground",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-23T17:53:37.111000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "github.com/wordpress",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-23T17:44:51.533000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Spotify",
+   "handle": "spotify",
+   "asset": "Confidence Domains",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-23T16:45:30.643000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "Create Block Theme",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-23T16:40:36.261000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "SQLite Database Integration",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-23T16:16:56.697000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "Secure Custom Fields",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-23T13:03:17+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-23T12:23:08+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "RIPE NCC",
+   "handle": "ripencc/ripencc",
    "asset": null,
    "asset_type": null
   },
@@ -94,15 +199,6 @@
    "asset": "mailproxy.3cx.com",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-09-23T08:16:03+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Monzo Public Bug Bounty Program",
-   "handle": "monzobank/monzopublicbugbountyprogram",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-23T08:09:06.178000+00:00",
@@ -155,11 +251,11 @@
    "bounty": true
   },
   {
-   "date": "2026-09-22T12:30:56+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "My.sdworx.com",
-   "handle": "sdworx/myworkandme",
+   "date": "2026-09-22T16:07:12.116000+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
    "asset": null,
    "asset_type": null
   },
@@ -592,6 +688,216 @@
    "asset": "*.expediataap.com",
    "asset_type": "WILDCARD",
    "bounty": true
+  },
+  {
+   "date": "2026-09-17T13:01:30.991000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "https://github.com/nebius/nebius-observability-agent-updater ",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T13:01:01.637000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "https://github.com/nebius/pysdk ",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T13:00:43.431000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "https://github.com/nebius/terraform-provider-nebius ",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T13:00:04.705000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "https://github.com/nebius/js-sdk ",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:59:35.845000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "https://github.com/nebius/gosdk ",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:46:51.560000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "dev.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:45:53.633000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "careers.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:45:16.729000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:44:34.627000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "status.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:44:03.222000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "docs.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:43:23.121000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "static.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:42:51.750000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "assets.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:41:50.649000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "api.tokenfactory.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:41:33.695000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "docs.tokenfactory.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:40:27.408000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "auth.tokenfactory.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:39:54.335000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "tokenfactory.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:39:14.151000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "sts.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:38:40.685000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "auth.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:37:51.651000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "api.nebius.cloud",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:37:06.653000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "console.eu.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-17T12:36:21.318000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Nebius AI Vulnerability Disclosure",
+   "handle": "nebius_ai_vdp",
+   "asset": "console.nebius.com",
+   "asset_type": "URL",
+   "bounty": false
   },
   {
    "date": "2026-09-16T09:10:32.820000+00:00",
@@ -5681,316 +5987,6 @@
    "handle": "nba-public",
    "asset": "motorcity.gleague.nba.com",
    "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "memphis.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "memphis-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "memphis-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "maine.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "maine-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "maine-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "longisland.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "longisland-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "longisland-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "lakeland.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T09:31:01.800000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "SIX Group",
-   "handle": "six-group",
-   "asset": "https://fx-qa.np.bolsasymercados.es/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-21T17:17:10.150000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "treinamento-crivoapi.crivo.com.br",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-21T16:14:20.769000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Hilton",
-   "handle": "hilton",
-   "asset": "resmax.hilton.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-21T14:38:04.725000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Bose (VDP)",
-   "handle": "bose_vdp",
-   "asset": "bose.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-21T06:58:05.051000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Deriv.com",
-   "handle": "deriv",
-   "asset": "https://api-core.deriv.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-21T06:57:24.034000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Deriv.com",
-   "handle": "deriv",
-   "asset": "core-api.deriv.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-21T06:52:27.106000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Deriv.com",
-   "handle": "deriv",
-   "asset": "http://api-core.deriv.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-20T15:17:27.284000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "payflow.appslatam.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-18T20:37:14.551000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Elastic",
-   "handle": "elastic",
-   "asset": "Subdomain takeover",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-16T08:19:43.532000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "British Airways VDP",
-   "handle": "british_airways_vdp",
-   "asset": "com.ba.mobile",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-16T08:18:59.241000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "British Airways VDP",
-   "handle": "british_airways_vdp",
-   "asset": "com.britishairways.BAFlights",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-15T11:30:08.150000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MOD Supply Chain VDP",
-   "handle": "mod_supply_chain_vdp",
-   "asset": "35.214.122.252",
-   "asset_type": "IP_ADDRESS",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-15T11:29:36.295000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MOD Supply Chain VDP",
-   "handle": "mod_supply_chain_vdp",
-   "asset": "http://www.mactaggart-scott.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/js-iam-middleware",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/k8s-vault-operator",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/kiwi-cache",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/kiwi-json",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/kiwi-structlog-config",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/konfetti",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/navigation-compose-typed",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-15T10:02:52.068000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kiwi.com",
-   "handle": "kiwicom",
-   "asset": "https://github.com/kiwicom/orbit",
-   "asset_type": "SOURCE_CODE",
    "bounty": true
   }
  ]
