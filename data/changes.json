@@ -1,84 +1,250 @@
 {
- "generated_at": "2026-09-24T11:39:36.577384+00:00",
+ "generated_at": "2026-09-25T11:45:51.225693+00:00",
  "changes": [
   {
-   "date": "2026-09-24T11:39:36.577384+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "https://admin-openonline.essabank.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-24T11:39:36.577384+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "https://aggnow.cashedge.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-24T11:39:36.577384+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "https://xml.cir.cashedge.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-24T11:39:36.577384+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "https://yourreflexcard.agg.cashedge.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-24T11:39:36.577384+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Elastic",
-   "handle": "elastic",
-   "asset": "Other",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-24T11:39:36.577384+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "WordPress",
-   "handle": "wordpress",
-   "asset": "*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-24T11:39:36.577384+00:00",
+   "date": "2026-09-25T11:45:51.225693+00:00",
    "type": "new_program",
-   "platform": "intigriti",
-   "program": "Kinepolis Group",
-   "handle": "kinepolis/website",
+   "platform": "hackerone",
+   "program": "Live Nation",
+   "handle": "live_nation",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-24T11:39:36.577384+00:00",
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "cat-ess.firstdataeservices.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "cat.api.ipg-online.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "cert.api.ipg-online.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "dev.api.ipg-online.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://alldataops.agg.cashedge.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://app-admin.justcallhome.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://apply.justcallhome.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://emoney.cashedge.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://join-admin.alecu.org",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://originate-admin.louviers.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "https://pnc.agg.cashedge.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "qa.api.ipg-online.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Equifax-vdp",
+   "handle": "equifax",
+   "asset": "https://equifax.ivdocs.net",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Equifax-vdp",
+   "handle": "equifax",
+   "asset": "https://equifaxpre.ivdocs.net",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
    "type": "new_program",
-   "platform": "intigriti",
-   "program": "Soundtrack Technologies",
-   "handle": "syb/soundtrackyourbrand",
+   "platform": "hackerone",
+   "program": "Stellar.org",
+   "handle": "stellar",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-24T11:39:36.577384+00:00",
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Spotify",
+   "handle": "spotify",
+   "asset": "Confidence Domains",
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Algolia",
+   "handle": "algolia",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Veriff Bug Bounty",
-   "handle": "veriff/veriffbugbounty",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T11:45:51.225693+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-25T08:48:54.916000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "8x8",
+   "handle": "8x8-bounty",
+   "asset": "eg.ht",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T08:42:03.999000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "8x8",
+   "handle": "8x8-bounty",
+   "asset": "*.rekap.8x8.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-24T19:05:15+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "DigitalOcean",
+   "handle": "digitalocean/digitalocean",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-24T16:01:05.307000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "https://gatewaydsapprd.marriott.com/v1/",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-24T14:08:40.735000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "staging.tracker.canada.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-24T13:53:43+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Randstad",
+   "handle": "randstad/randstad",
    "asset": null,
    "asset_type": null
   },
@@ -100,16 +266,6 @@
    "handle": "wordpress",
    "asset": "github.com/wordpress",
    "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-09-23T17:44:51.533000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Spotify",
-   "handle": "spotify",
-   "asset": "Confidence Domains",
-   "asset_type": "OTHER",
    "bounty": true
   },
   {
@@ -141,24 +297,6 @@
    "asset": "Secure Custom Fields",
    "asset_type": "SOURCE_CODE",
    "bounty": true
-  },
-  {
-   "date": "2026-09-23T13:03:17+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Adobe Public",
-   "handle": "adobe/adobepublic",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-23T12:23:08+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "RIPE NCC",
-   "handle": "ripencc/ripencc",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-23T08:38:14.568000+00:00",
@@ -249,15 +387,6 @@
    "asset": "Dia on Windows",
    "asset_type": "DOWNLOADABLE_EXECUTABLES",
    "bounty": true
-  },
-  {
-   "date": "2026-09-22T16:07:12.116000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Nebius AI Vulnerability Disclosure",
-   "handle": "nebius_ai_vdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-21T21:25:55.267000+00:00",
@@ -1280,16 +1409,6 @@
    "bounty": true
   },
   {
-   "date": "2026-09-10T07:43:10.040000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GoCardless Bug Bounty Program",
-   "handle": "gocardless_bbp",
-   "asset": "https://github.com/gocardless",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
    "date": "2026-09-10T07:16:46.629000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1870,6 +1989,15 @@
    "bounty": false
   },
   {
+   "date": "2026-09-03T12:58:22.040000+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
    "date": "2026-09-03T12:43:20.121000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1878,6 +2006,96 @@
    "asset": "www.semrush.com",
    "asset_type": "URL",
    "bounty": true
+  },
+  {
+   "date": "2026-09-03T12:39:27.079000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "https://play.google.com/store/apps/details?id=com.coindcx.okto",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T12:39:12.525000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "https://play.google.com/store/apps/details?id=com.bitoasis&hl=en",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T12:38:49.830000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "https://apps.apple.com/in/app/okto-wallet/id6450688229",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T12:38:38.276000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "https://apps.apple.com/in/app/coindcx-bitcoin-crypto-app/id1517787269",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T12:38:27.196000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T12:38:10.707000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "coindcx.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T12:37:57.193000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "bitoasis.net",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T12:37:28.892000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "api.coindcx.com",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-03T12:37:14.746000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "CoinDCX Vulnerability Disclosure",
+   "handle": "coindcx_vdp",
+   "asset": "https://play.google.com/store/apps/details?id=com.coindcx.btc",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": false
   },
   {
    "date": "2026-09-02T18:02:01.298000+00:00",
@@ -3710,6 +3928,16 @@
    "bounty": true
   },
   {
+   "date": "2026-08-04T22:40:16.230000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Live Nation",
+   "handle": "live_nation",
+   "asset": "www.lineup.com.mx",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
    "date": "2026-08-04T10:32:45.944000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -3727,6 +3955,66 @@
    "handle": "eufy_security",
    "asset": "eufyMake Studio(2D UV)",
    "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T20:55:18.006000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Live Nation",
+   "handle": "live_nation",
+   "asset": "https://apps.apple.com/no/app/royal-arena/id1181913144",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T20:52:36.336000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Live Nation",
+   "handle": "live_nation",
+   "asset": "1181913144",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T20:52:02.297000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Live Nation",
+   "handle": "live_nation",
+   "asset": "dk.royalarena.app",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T20:50:59.910000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Live Nation",
+   "handle": "live_nation",
+   "asset": "www.onthewaterfrontfestival.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T20:50:30.155000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Live Nation",
+   "handle": "live_nation",
+   "asset": "www.royalarena.dk",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-03T20:48:57.151000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Live Nation",
+   "handle": "live_nation",
+   "asset": "www.livenation.co.uk",
+   "asset_type": "URL",
    "bounty": true
   },
   {
@@ -5686,306 +5974,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "southbay.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "southbay-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "southbay-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "siouxfalls.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "siouxfalls-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "siouxfalls-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "santacruz.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "santacruz-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "santacruz-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "saltlakecity.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "saltlakecity-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "saltlakecity-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "ripcity.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "ripcity-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "ripcity-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "riograndevalley.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "riograndevalley-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "riograndevalley-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "reno.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "reno-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "raptors905.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "raptors905-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "raptors905-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "ontario.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "oklahomacity.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "oklahomacity-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "oklahomacity-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "northernarizona.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "northernarizona-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "northernarizona-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "motorcity.gleague.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
