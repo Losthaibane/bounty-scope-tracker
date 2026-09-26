@@ -1,194 +1,406 @@
 {
- "generated_at": "2026-09-25T11:45:51.225693+00:00",
+ "generated_at": "2026-09-26T11:19:00.323145+00:00",
  "changes": [
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Live Nation",
-   "handle": "live_nation",
+   "program": "Kaltura",
+   "handle": "kaltura",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Fiserv",
    "handle": "fiserv",
-   "asset": "cat-ess.firstdataeservices.com",
+   "asset": "http://mc.apac.3ds.firstdata.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Fiserv",
    "handle": "fiserv",
-   "asset": "cat.api.ipg-online.com",
+   "asset": "http://prod-diligence.businesstrack.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Fiserv",
    "handle": "fiserv",
-   "asset": "cert.api.ipg-online.com",
+   "asset": "http://qa-myfiserv.fiservapps.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Fiserv",
    "handle": "fiserv",
-   "asset": "dev.api.ipg-online.com",
+   "asset": "http://visa.apac.3ds.firstdata.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Fiserv",
    "handle": "fiserv",
-   "asset": "https://alldataops.agg.cashedge.com",
+   "asset": "http://www2.omnipaygroup.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Fiserv",
    "handle": "fiserv",
-   "asset": "https://app-admin.justcallhome.com",
+   "asset": "http://www4.ipg-online.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Fiserv",
    "handle": "fiserv",
-   "asset": "https://apply.justcallhome.com",
+   "asset": "http://www5.ipg-online.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "https://emoney.cashedge.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "https://join-admin.alecu.org",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "https://originate-admin.louviers.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "https://pnc.agg.cashedge.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "qa.api.ipg-online.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Equifax-vdp",
-   "handle": "equifax",
-   "asset": "https://equifax.ivdocs.net",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Equifax-vdp",
-   "handle": "equifax",
-   "asset": "https://equifaxpre.ivdocs.net",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Stellar.org",
-   "handle": "stellar",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Spotify",
-   "handle": "spotify",
-   "asset": "Confidence Domains",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Algolia",
-   "handle": "algolia",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-25T11:45:51.225693+00:00",
+   "date": "2026-09-26T11:19:00.323145+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
+   "program": "Nexuzhealth Web PACS",
+   "handle": "uz leuven/nexuzhealthwebpacs",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-25T15:16:10.211000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Allegion",
+   "handle": "allegion",
+   "asset": "Axa Remote 2.0",
+   "asset_type": "HARDWARE",
+   "bounty": false
   },
   {
-   "date": "2026-09-25T11:45:51.225693+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-25T15:00:58.402000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.cuidomidestino.cl",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T15:00:43.823000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lan-express.cl",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T15:00:25.938000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lan-airlines.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T15:00:12.347000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lan-chile.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:59:45.471000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lan-chile.cl",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:59:26.768000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lamchile.cl",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:59:14.690000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.ladeco.cl",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:59:02.069000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lantours.aero",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:58:50.125000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lanpass.aero",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:58:38.443000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lanchile.aero",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:58:26.999000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.mplu.com.br",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:58:13.787000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.latamtravel.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:57:59.435000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lancargo.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:57:41.060000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.ndcbylatamairlines.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:57:27.961000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.pontosmultiplus.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:57:13.455000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.pontosmultiplus.com.br",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:57:01.234000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lanecuador.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:56:44.312000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lanchile.com.pe",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:56:30.432000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.lanchile.com.br",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:56:14.076000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.mundolatamtravel.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:55:57.255000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.appslatamtravel.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:55:39.176000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.e-tam.com.br",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:55:22.041000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.aplicacioneslatam.com.ar",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:55:04.159000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.tamviagens.com.br",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:54:40.129000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.tam.com.br",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:54:21.022000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.apislatam.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:53:55.861000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.latamairlinesgroup.net",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:49:02.390000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.latamtrade.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:46:33.043000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.latamcargo.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:44:17.354000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "*.multiplusfidelidade.com.br",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-25T14:38:51.163000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "LATAM Airlines",
+   "handle": "latamairlines",
+   "asset": "latampass.com.br",
+   "asset_type": "URL",
+   "bounty": false
   },
   {
    "date": "2026-09-25T08:48:54.916000+00:00",
@@ -211,15 +423,6 @@
    "bounty": false
   },
   {
-   "date": "2026-09-24T19:05:15+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "DigitalOcean",
-   "handle": "digitalocean/digitalocean",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-09-24T16:01:05.307000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -238,15 +441,6 @@
    "asset": "staging.tracker.canada.ca",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-09-24T13:53:43+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Randstad",
-   "handle": "randstad/randstad",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-23T17:55:34.974000+00:00",
@@ -1987,15 +2181,6 @@
    "asset": "http://fuse.bigdatahc.com",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-09-03T12:58:22.040000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "CoinDCX Vulnerability Disclosure",
-   "handle": "coindcx_vdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-03T12:43:20.121000+00:00",
@@ -5804,176 +5989,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "fortwayne-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "fortwayne-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "fortwayne.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "grandrapids-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "grandrapids-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "grandrapids.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "greensboro-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "greensboro-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "greensboro.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "ignite-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "ignite-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "ignite.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "iowa-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "iowa-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "iowa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "lakeland-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "stats-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "southbay.gleague.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
