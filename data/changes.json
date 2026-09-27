@@ -1,87 +1,6 @@
 {
- "generated_at": "2026-09-26T11:19:00.323145+00:00",
+ "generated_at": "2026-09-27T11:57:19.380937+00:00",
  "changes": [
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Kaltura",
-   "handle": "kaltura",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://mc.apac.3ds.firstdata.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://prod-diligence.businesstrack.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://qa-myfiserv.fiservapps.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://visa.apac.3ds.firstdata.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://www2.omnipaygroup.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://www4.ipg-online.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://www5.ipg-online.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-26T11:19:00.323145+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Nexuzhealth Web PACS",
-   "handle": "uz leuven/nexuzhealthwebpacs",
-   "asset": null,
-   "asset_type": null
-  },
   {
    "date": "2026-09-25T15:16:10.211000+00:00",
    "type": "scope_added",
@@ -5989,6 +5908,96 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "fortwayne-dev.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "fortwayne-qa.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "fortwayne.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "grandrapids-dev.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "grandrapids-qa.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "grandrapids.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "greensboro-dev.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "greensboro-qa.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "greensboro.gleague.nba.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-07-22T14:07:17.708000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "NBA Public Bug Bounty",
+   "handle": "nba-public",
+   "asset": "ignite-dev.gleague.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
