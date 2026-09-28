@@ -1,6 +1,90 @@
 {
- "generated_at": "2026-09-27T11:57:19.380937+00:00",
+ "generated_at": "2026-09-28T13:46:44.531861+00:00",
  "changes": [
+  {
+   "date": "2026-09-28T13:47:16+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "UZ Leuven",
+   "handle": "uz leuven/uzleuven",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-28T13:46:44.531861+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "WP Engine Bug Bounty",
+   "handle": "wpengine/wpenginebugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-28T13:36:47+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Yahoo Bug Bounty",
+   "handle": "yahoo/yahoobugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-28T11:43:43.428000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PhonePe",
+   "handle": "phonepe_vdp",
+   "asset": "UPI 123 Feature in \"Feature Phones\"",
+   "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-28T11:41:18.082000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PhonePe",
+   "handle": "phonepe_vdp",
+   "asset": "*.phonepe.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-09-28T11:11:27+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Libelle",
+   "handle": "dpgm/libelle",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-28T10:26:30+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-28T08:23:37.591000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Temu",
+   "handle": "temu",
+   "asset": "partner.temu.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-28T07:34:53+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Aikido Security: Bug Bounty Program",
+   "handle": "aikido/aikido",
+   "asset": null,
+   "asset_type": null
+  },
   {
    "date": "2026-09-25T15:16:10.211000+00:00",
    "type": "scope_added",
@@ -5908,96 +5992,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "fortwayne-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "fortwayne-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "fortwayne.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "grandrapids-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "grandrapids-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "grandrapids.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "greensboro-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "greensboro-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "greensboro.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "ignite-dev.gleague.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
