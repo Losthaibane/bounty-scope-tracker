@@ -1,58 +1,93 @@
 {
- "generated_at": "2026-09-29T12:46:11.746899+00:00",
+ "generated_at": "2026-09-30T12:28:55.633291+00:00",
  "changes": [
   {
-   "date": "2026-09-29T12:46:11.746899+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Walt.io",
-   "handle": "walt_io",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-29T12:46:11.746899+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-29T12:46:11.746899+00:00",
+   "date": "2026-09-30T12:28:55.633291+00:00",
    "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "DANA Bug Bounty Program",
-   "handle": "dana-bug-bounty-program",
-   "asset": "mgs.dana.id",
+   "platform": "hackerone",
+   "program": "Shutterfly VDP",
+   "handle": "shutterfly_vdp",
+   "asset": "www.borrowlenses.com",
    "asset_type": null
   },
   {
-   "date": "2026-09-29T12:46:11.746899+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "DANA Bug Bounty Program",
-   "handle": "dana-bug-bounty-program",
-   "asset": "mgs-gw.dana.id",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-09-29T12:46:11.746899+00:00",
+   "date": "2026-09-30T12:28:55.633291+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-29T09:46:21+00:00",
+   "date": "2026-09-30T12:28:55.633291+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Sqills",
+   "handle": "sqills/sqillscorporatewebsite",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-30T12:18:44+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Randstad",
-   "handle": "randstad/randstad",
+   "program": "My.sdworx.com",
+   "handle": "sdworx/myworkandme",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-30T11:16:22+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "WP Engine Bug Bounty",
+   "handle": "wpengine/wpenginebugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-30T10:28:07+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Rivian Bug Bounty",
+   "handle": "rivian/rivianbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-29T14:58:18+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "DPG Media",
+   "handle": "dpgm/dpgmedia",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-29T13:45:30+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Intel\u00ae Vulnerability Disclosure Program ",
+   "handle": "intel/intelvulnerabilitydisclosureprogram",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-29T13:19:46+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Nexuzhealth",
+   "handle": "nexuzhealth/nexuzhealth",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-09-29T13:19:26+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Nexuzhealth VDP",
+   "handle": "nexuzhealth/nexuzhealthvdp",
    "asset": null,
    "asset_type": null
   },
@@ -3757,15 +3792,6 @@
    "bounty": true
   },
   {
-   "date": "2026-08-19T11:10:56+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Autoliv VDP",
-   "handle": "autoliv/autolivvdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-08-18T19:44:33.240000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5962,36 +5988,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "delaware.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "detroit-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "detroit-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "detroit.gleague.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
