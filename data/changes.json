@@ -1,95 +1,99 @@
 {
- "generated_at": "2026-09-30T12:28:55.633291+00:00",
+ "generated_at": "2026-10-01T13:05:50.389585+00:00",
  "changes": [
   {
-   "date": "2026-09-30T12:28:55.633291+00:00",
+   "date": "2026-10-01T13:05:50.389585+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Shutterfly VDP",
-   "handle": "shutterfly_vdp",
-   "asset": "www.borrowlenses.com",
+   "program": "SIX Group",
+   "handle": "six-group",
+   "asset": "https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871",
    "asset_type": null
   },
   {
-   "date": "2026-09-30T12:28:55.633291+00:00",
+   "date": "2026-10-01T13:05:50.389585+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "SIX Group",
+   "handle": "six-group",
+   "asset": "https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-01T13:05:50.389585+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
+   "program": "UZ Leuven",
+   "handle": "uz leuven/uzleuven",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-30T12:28:55.633291+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Sqills",
-   "handle": "sqills/sqillscorporatewebsite",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-30T12:18:44+00:00",
+   "date": "2026-10-01T09:04:09+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "My.sdworx.com",
-   "handle": "sdworx/myworkandme",
+   "program": "Dstny",
+   "handle": "dstny/dstnybugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-30T11:16:22+00:00",
+   "date": "2026-10-01T08:32:46+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "WP Engine Bug Bounty",
-   "handle": "wpengine/wpenginebugbounty",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-30T10:28:07+00:00",
+   "date": "2026-09-30T18:54:16.722000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://www.currencycloud.com/",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-09-30T14:27:49+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Rivian Bug Bounty",
-   "handle": "rivian/rivianbugbounty",
+   "program": "Intergamma",
+   "handle": "intergamma/intergamma",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-09-29T14:58:18+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "DPG Media",
-   "handle": "dpgm/dpgmedia",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-30T13:43:20.724000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MongoDB",
+   "handle": "mongodb",
+   "asset": "Atlas Infinite",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
-   "date": "2026-09-29T13:45:30+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Intel\u00ae Vulnerability Disclosure Program ",
-   "handle": "intel/intelvulnerabilitydisclosureprogram",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-30T13:42:41.560000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MongoDB",
+   "handle": "mongodb",
+   "asset": "MongoDB Atlas Agent Engine CLI and First Party Libraries",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
-   "date": "2026-09-29T13:19:46+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Nexuzhealth",
-   "handle": "nexuzhealth/nexuzhealth",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-09-29T13:19:26+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Nexuzhealth VDP",
-   "handle": "nexuzhealth/nexuzhealthvdp",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-09-30T13:40:57.360000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MongoDB",
+   "handle": "mongodb",
+   "asset": "MongoDB Atlas Agent Engine ",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
    "date": "2026-09-29T07:59:02.771000+00:00",
@@ -510,6 +514,15 @@
    "asset": "https://gatewaydsapprd.marriott.com/v1/",
    "asset_type": "URL",
    "bounty": true
+  },
+  {
+   "date": "2026-09-24T14:55:14+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "NxtPort VDP",
+   "handle": "portofantwerp/nxtportvdp",
+   "asset": null,
+   "asset_type": null
   },
   {
    "date": "2026-09-24T14:08:40.735000+00:00",
@@ -4392,6 +4405,15 @@
    "bounty": true
   },
   {
+   "date": "2026-08-03T13:01:29+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Mateco VDP",
+   "handle": "mateco/matecovdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
    "date": "2026-07-30T16:45:00.372000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5968,26 +5990,6 @@
    "program": "NBA Public Bug Bounty",
    "handle": "nba-public",
    "asset": "delaware-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "delaware-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "delaware.gleague.nba.com",
    "asset_type": "URL",
    "bounty": true
   }
