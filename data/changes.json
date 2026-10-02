@@ -1,27 +1,36 @@
 {
- "generated_at": "2026-10-01T13:05:50.389585+00:00",
+ "generated_at": "2026-10-02T12:27:21.177416+00:00",
  "changes": [
   {
-   "date": "2026-10-01T13:05:50.389585+00:00",
+   "date": "2026-10-02T12:27:21.177416+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "SIX Group",
-   "handle": "six-group",
-   "asset": "https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871",
+   "program": "AWS VDP",
+   "handle": "aws_vdp",
+   "asset": "AWS Cloudfront2",
    "asset_type": null
   },
   {
-   "date": "2026-10-01T13:05:50.389585+00:00",
+   "date": "2026-10-02T12:27:21.177416+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "SIX Group",
-   "handle": "six-group",
-   "asset": "https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps",
+   "program": "MongoDB",
+   "handle": "mongodb",
+   "asset": "All Evergreen Assets (Excluding staging)",
    "asset_type": null
   },
   {
-   "date": "2026-10-01T13:05:50.389585+00:00",
-   "type": "new_program",
+   "date": "2026-10-02T12:27:21.177416+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "MongoDB",
+   "handle": "mongodb",
+   "asset": "MongoDB Community Server",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-02T07:02:52+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "UZ Leuven",
    "handle": "uz leuven/uzleuven",
@@ -29,22 +38,1142 @@
    "asset_type": null
   },
   {
-   "date": "2026-10-01T09:04:09+00:00",
+   "date": "2026-10-02T04:47:49.771000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "coms.ryadom.kz",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "arsentomsky.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "av.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "company.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "jlml-wf.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "jlml.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "juntasllegamos.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pristegnimechty.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "referral-program.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:40.242000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "www.juntasllegamos.indrive.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ab-api-gw-cf.global.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ab-api-gw-scf.global.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "api-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ath-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ath-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ath-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "baf-gw-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "baf-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "balance-api-front.eu-east-1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "balance-api.eu-east-1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bc-cf.latam-co.saea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bc-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bdu-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bdu-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bdu-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bf-cf.latam-co.saea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bf-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bid-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bid-gw-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "bid-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ca-gw-cf.latam-mx.usea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cas-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cas-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cas-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cas.eu-east-1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cca-cf.latam-mx.usea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "chat.eu-east-1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cht-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cht-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cht-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cm-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "cmf-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "co-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "co-in-cf.mena.meso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "co-in-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "courier-gw-cf.cis.euce1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "daw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "dh-cf.mena.meso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "dh-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "dr-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "es-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "exs-dtu-gw-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fch-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fch-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fch-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fch-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fe-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fic-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "file-storage-front.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fp-cf.global.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fsf-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "fsf-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "g2-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "gt-gw-cf-0.cis.euce1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "gt-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "gvt-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "gvt-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ic3-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ic3-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ic3-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "icl-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "icl-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "icl-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "icl-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "idc-cf.cis.euce1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "idc-gw-cf.cis.euce1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "idp-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "idp-gw-cf.latam-mx.usea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "idp-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "in-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "inc-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "is-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "isa-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "isa-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "msg-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "msg-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "msg-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "nb-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ncc-cf.latam-br.saea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ncc-gw-cf.latam-pe.saea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "nf-cf.latam-mx.usea1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "nf-of-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "nha-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "nha-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "nha-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "no-gw-cf.africa.afso1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "no-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pa-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pages.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pc-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pf-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pf-gw-scf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pm-gw-scf.sa.apse1.aws.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pot-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pp-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "pp-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ppw-gw-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ppw.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-02T04:47:08.303000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "inDrive",
+   "handle": "indrive",
+   "asset": "ps-cf.euce1.indriverapp.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-01T20:10:25+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Dstny",
-   "handle": "dstny/dstnybugbounty",
+   "program": "The Coca-Cola Company Vulnerability Disclosure Program",
+   "handle": "tccc/coca-cola",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-01T08:32:46+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Adobe Public",
-   "handle": "adobe/adobepublic",
+   "date": "2026-10-01T18:18:11.898000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MercadoLibre",
+   "handle": "mercadolibre",
+   "asset": "Wonder",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-01T17:46:03.202000+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Omarchy",
+   "handle": "omarchy",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-10-01T16:34:36.710000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "AWS VDP",
+   "handle": "aws_vdp",
+   "asset": "https://github.com/strands-agents/*",
+   "asset_type": "WILDCARD",
+   "bounty": false
   },
   {
    "date": "2026-09-30T18:54:16.722000+00:00",
@@ -55,15 +1184,6 @@
    "asset": "https://www.currencycloud.com/",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-09-30T14:27:49+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Intergamma",
-   "handle": "intergamma/intergamma",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-09-30T13:43:20.724000+00:00",
@@ -516,15 +1636,6 @@
    "bounty": true
   },
   {
-   "date": "2026-09-24T14:55:14+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "NxtPort VDP",
-   "handle": "portofantwerp/nxtportvdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-09-24T14:08:40.735000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -533,6 +1644,16 @@
    "asset": "staging.tracker.canada.ca",
    "asset_type": "URL",
    "bounty": false
+  },
+  {
+   "date": "2026-09-23T23:37:32.082000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Omarchy",
+   "handle": "omarchy",
+   "asset": "https://github.com/omacom/omarchy",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
   },
   {
    "date": "2026-09-23T17:55:34.974000+00:00",
@@ -4405,15 +5526,6 @@
    "bounty": true
   },
   {
-   "date": "2026-08-03T13:01:29+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Mateco VDP",
-   "handle": "mateco/matecovdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-07-30T16:45:00.372000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -4882,1116 +5994,6 @@
    "asset": "https://play.google.com/store/apps/details?id=com.luxerone.mobile.residentapp",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.kwikset.blewifi",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.assaabloy.yaleconnect",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.assaabloy.centrIosAppStore",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.assaabloy.accentra.access",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=br.com.controlid.rhid&hl=en&gl=US",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=co.level.app",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://apps.apple.com/cr/app/yale-connect/id1204336886",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://apps.apple.com/in/app/centrIosAppStore/id6449100322",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://apps.apple.com/us/app/kwikset/id1465996742?ls=1",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://apps.apple.com/us/app/level-home/id1490027518",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://apps.apple.com/us/app/luxer-one/id1440094075",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://apps.apple.com/us/app/rhid/id1493410750",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://apps.apple.com/us/app/yale-accentra-access/id1523678122",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://centriosappstore.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T14:12:52.889000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "ABN AMRO Bank VDP",
-   "handle": "abn_amro_vdp",
-   "asset": "aa-ob.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T05:41:02.152000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GetYourGuide VDP",
-   "handle": "getyourguide_vdp",
-   "asset": "supplier-api.getyourguide.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T05:41:02.152000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GetYourGuide VDP",
-   "handle": "getyourguide_vdp",
-   "asset": "supplier-support.getyourguide.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T05:41:02.152000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "GetYourGuide VDP",
-   "handle": "getyourguide_vdp",
-   "asset": "supplier.getyourguide.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-27T07:04:13.642000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "8x8.cloud",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-27T06:28:00.667000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "maestro.8x8.cloud",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-24T11:36:16.455000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MOD Supply Chain VDP",
-   "handle": "mod_supply_chain_vdp",
-   "asset": "http://recruitment.roke.co.uk",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T17:51:26.103000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "stagingwpm.neustar.biz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T13:53:30.547000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyotimessquare.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T13:27:01.944000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Regions Financial",
-   "handle": "regions_financial",
-   "asset": "sabal.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:59:33.354000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "travel.checkmyguest.fr",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:58:57.139000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.checkmyguest.fr",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:56:24.490000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.studio6.com/",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:55:35.694000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.g6hospitality.com/",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:54:07.401000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*.motel6.com/",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:52:25.691000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "https://*motel6.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:50:51.117000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "booksundays.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:50:08.929000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "*.checkin.life",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:48:29.809000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "*.madecomfy.com.au",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T12:34:37.467000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "prismlife.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.traum-ferienwohnungen.de",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.leisure-partners.net",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.innov8.work",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.workflobyoyo.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "OYO Android App - com.oyo.consumer",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "Co-OYO Android App - com.oyo.partnerapp",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "OYO OS Android App - com.oyo.property",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "OYO Lite Android app - com.oyo.consumerlite",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "OYO iOS Application",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "Co-OYO iOS Application",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "Weddingz iOS App ",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.danland.dk",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.oyorooms.weddingz.content",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.oyo.orbis.ovh",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.oyorooms.coworkfoodvendor",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.oyo.homes.maestro",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.oyo.maestro",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.belvilla.rental",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.bookertools",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.admiralstrand.dk",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.belvilla.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.dancenter.se",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.booker-tools.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.direct-booker.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyo-vacation-homes.net",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.tui-ferienhaus.de",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:48:15.287000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.jedi.jediaudit",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:45:33.715000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "com.oyo.campus",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:44:42.594000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "patron.oyorooms.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:42:53.139000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyoos.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:42:53.139000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyorooms.io",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:42:53.139000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyocircle.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:42:53.139000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyolasvegas.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:42:53.139000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyohotels.top",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:42:53.139000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyohotels.cn",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:41:12.228000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyotownhouse.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:09:51.436000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyorooms.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:09:51.436000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.weddingz.in",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:09:51.436000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyoworkspaces.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:09:51.436000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.oyovacationhomes.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-23T11:09:51.436000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "PRISM",
-   "handle": "prism_vdp",
-   "asset": "http://*.stugsommar.se",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-22T18:49:34.174000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KOHO",
-   "handle": "koho",
-   "asset": "clicks.koho.ca",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T18:49:11.768000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KOHO",
-   "handle": "koho",
-   "asset": "assets.koho.ca",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T18:37:49.125000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KOHO",
-   "handle": "koho",
-   "asset": "login.koho.ca",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:24:15.509000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "supportdispatch.appslatam.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-22T14:23:39.105000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "srtlatam.appslatam.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "aguacaliente-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "aguacaliente-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "aguacaliente.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "austin-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "austin-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "austin.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "bakersfield-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "bakersfield.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "birmingham-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "birmingham-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "birmingham.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "bluecoats-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "bluecoats.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "canton-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "canton-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "canton.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "capitalcity-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "capitalcity-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "capitalcity.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "capitanes-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "capitanes-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "capitanes.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cdn-gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cdn-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cdn-uat.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cdn.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cleveland.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cpskyhawks-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cpskyhawks-qa.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "cpskyhawks.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-07-22T14:07:17.708000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "NBA Public Bug Bounty",
-   "handle": "nba-public",
-   "asset": "delaware-dev.gleague.nba.com",
-   "asset_type": "URL",
-   "bounty": true
   }
  ]
 }
