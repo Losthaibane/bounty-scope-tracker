@@ -1,39 +1,121 @@
 {
- "generated_at": "2026-10-02T12:27:21.177416+00:00",
+ "generated_at": "2026-10-03T11:35:07.244060+00:00",
  "changes": [
   {
-   "date": "2026-10-02T12:27:21.177416+00:00",
+   "date": "2026-10-03T11:35:07.244060+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "AWS VDP",
-   "handle": "aws_vdp",
-   "asset": "AWS Cloudfront2",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "http://discover.apac.3ds.firstdata.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-02T12:27:21.177416+00:00",
+   "date": "2026-10-03T11:35:07.244060+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "MongoDB",
-   "handle": "mongodb",
-   "asset": "All Evergreen Assets (Excluding staging)",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "app.demand.cybersource.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-02T12:27:21.177416+00:00",
+   "date": "2026-10-03T11:35:07.244060+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "MongoDB",
-   "handle": "mongodb",
-   "asset": "MongoDB Community Server",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "images.demand.cybersource.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-02T07:02:52+00:00",
+   "date": "2026-10-03T11:35:07.244060+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "info.authorize.net",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T11:35:07.244060+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Crowdstrike",
+   "handle": "crowdstrike",
+   "asset": "onum-labs.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T11:35:07.244060+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Crowdstrike",
+   "handle": "crowdstrike",
+   "asset": "onum.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T11:35:07.244060+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "YesWeHack Dojo",
+   "handle": "dojo",
+   "asset": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-54",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T11:35:07.244060+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "YesWeHack Dojo",
+   "handle": "dojo",
+   "asset": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-55",
+   "asset_type": null,
+   "bounty": false
+  },
+  {
+   "date": "2026-10-03T11:35:07.244060+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Visma",
+   "handle": "visma/visma",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T11:35:07.244060+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-03T11:35:07.244060+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Venly",
+   "handle": "arkane/arkanenetwork",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-02T16:08:16+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "UZ Leuven",
-   "handle": "uz leuven/uzleuven",
+   "program": "Yahoo Bug Bounty",
+   "handle": "yahoo/yahoobugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-02T12:49:34+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Posti Bug Bounty ",
+   "handle": "posti/postibugbounty",
    "asset": null,
    "asset_type": null
   },
@@ -1138,15 +1220,6 @@
    "bounty": true
   },
   {
-   "date": "2026-10-01T20:10:25+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "The Coca-Cola Company Vulnerability Disclosure Program",
-   "handle": "tccc/coca-cola",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-10-01T18:18:11.898000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -1155,15 +1228,6 @@
    "asset": "Wonder",
    "asset_type": "OTHER",
    "bounty": true
-  },
-  {
-   "date": "2026-10-01T17:46:03.202000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Omarchy",
-   "handle": "omarchy",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-01T16:34:36.710000+00:00",
@@ -5923,76 +5987,6 @@
    "handle": "assa_abloy_americas",
    "asset": "https://ca-roa.medeco.com",
    "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://keycontrol.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://roa.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://test-bittings.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://test-keycontrol.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://test-roa.medeco.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.yale.multifamconftool",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": false
-  },
-  {
-   "date": "2026-07-28T18:18:02.604000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Assa Abloy Americas",
-   "handle": "assa_abloy_americas",
-   "asset": "https://play.google.com/store/apps/details?id=com.luxerone.mobile.residentapp",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": false
   }
  ]
