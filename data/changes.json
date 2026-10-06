@@ -1,57 +1,75 @@
 {
- "generated_at": "2026-10-05T14:29:02.104809+00:00",
+ "generated_at": "2026-10-06T13:14:37.127343+00:00",
  "changes": [
   {
-   "date": "2026-10-05T14:29:02.104809+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "bridekidnapping.alternativa.film",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-05T14:29:02.104809+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "festival.alternativa.film",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-05T14:29:02.104809+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "https://*.indriverjob.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-05T14:29:02.104809+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "indrive.alternativa.film",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-05T14:29:02.104809+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "inDrive",
-   "handle": "indrive",
-   "asset": "injob.indriver.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-05T14:29:02.104809+00:00",
+   "date": "2026-10-06T13:14:37.127343+00:00",
    "type": "new_program",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-06T13:14:37.127343+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-06T13:14:37.127343+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Ninja Kiwi Games Bug Bounty program",
+   "handle": "ninjakiwigames/ninjakiwigames",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-06T13:14:37.127343+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Telenet - Base - Wyre - Tadaam",
+   "handle": "telenet/telenetgroup",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-06T11:31:35+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "Daytona Bug Bounty",
    "handle": "daytona/daytonabugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-06T07:22:16+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Nestl\u00e9 VDP",
+   "handle": "nestl\u00e9/nestl\u00e9vdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T22:54:13+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-05T16:49:13+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "SolarWinds VDP",
+   "handle": "solarwinds/solarwindsvdp",
    "asset": null,
    "asset_type": null
   },
@@ -64,24 +82,6 @@
    "asset": "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists",
    "asset_type": "API",
    "bounty": true
-  },
-  {
-   "date": "2026-10-05T14:05:22+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "RIPE NCC",
-   "handle": "ripencc/ripencc",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-05T11:01:52+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Capture Our Flag",
-   "handle": "intigriti/captureourflag",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-05T10:18:46.787000+00:00",
@@ -422,15 +422,6 @@
    "asset": "aurinkomatkat.fi",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-10-05T08:47:41+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Aikido Security: Bug Bounty Program",
-   "handle": "aikido/aikido",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-05T06:13:55.652000+00:00",
@@ -5989,6 +5980,16 @@
    "program": "Exodus",
    "handle": "exodus",
    "asset": "https://www.npmjs.com/package/@exodus/errors",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:40:00.841000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/sentry-client",
    "asset_type": "SOURCE_CODE",
    "bounty": true
   }
