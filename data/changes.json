@@ -1,160 +1,76 @@
 {
- "generated_at": "2026-10-07T13:15:08.623565+00:00",
+ "generated_at": "2026-10-08T13:21:40.256190+00:00",
  "changes": [
   {
-   "date": "2026-10-07T13:15:08.623565+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Kong",
-   "handle": "kong",
-   "asset": "Insomnia CLI (inso)",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-07T13:15:08.623565+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://amex.apac.3ds.firstdata.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-07T13:15:08.623565+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://apac.3ds.firstdata.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-07T13:15:08.623565+00:00",
+   "date": "2026-10-08T13:21:40.256190+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Algolia",
-   "handle": "algolia",
+   "program": "Aegean Airlines Vulnerability Disclosure",
+   "handle": "aegean_airlines_vdp",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-07T13:15:08.623565+00:00",
+   "date": "2026-10-08T13:21:40.256190+00:00",
    "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
-   "handle": "zecible-public-bug-bounty-program",
-   "asset": "odoo14.notebleue.pro",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "http://www2.ipg-online.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-07T13:15:08.623565+00:00",
+   "date": "2026-10-08T13:21:40.256190+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "http://www5.thepayplace.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-08T13:21:40.256190+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "all-inclusive.marriott.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-08T13:21:40.256190+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Here Technologies",
+   "handle": "heretechnologies/heretechnologies",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-08T09:17:26+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Uphold",
+   "handle": "Uphold/upholdcom",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-07T19:10:05.208000+00:00",
    "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
-   "handle": "zecible-public-bug-bounty-program",
-   "asset": "git.notebleue.pro",
-   "asset_type": null,
-   "bounty": true
+   "platform": "hackerone",
+   "program": "Bitwarden",
+   "handle": "bitwarden",
+   "asset": "https://github.com/bitwarden/server",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
   },
   {
-   "date": "2026-10-07T13:15:08.623565+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
-   "handle": "zecible-public-bug-bounty-program",
-   "asset": "odoo.zecible.pro",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-10-07T13:15:08.623565+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
-   "handle": "zecible-public-bug-bounty-program",
-   "asset": "ywh.static.zcb.fr",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-10-07T13:15:08.623565+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
-   "handle": "zecible-public-bug-bounty-program",
-   "asset": "ywh.verify.zecible.fr",
-   "asset_type": null,
-   "bounty": true
-  },
-  {
-   "date": "2026-10-07T12:48:47+00:00",
+   "date": "2026-10-07T18:36:43+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "PDQ bug bounty program",
-   "handle": "pdq/pdqcomprivate",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-07T11:59:39+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-07T11:11:01+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Salto Vulnerability Disclosure ",
-   "handle": "saltosystems/saltovulnerabilitydisclosure",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-07T10:03:50+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Axel Springer National Media & Tech",
-   "handle": "axelspringerse/nmt",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-07T08:49:42+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Adobe Public",
-   "handle": "adobe/adobepublic",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-07T08:14:56+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Delen Private Bank",
-   "handle": "delenprivatebank/privatebankdelen",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-06T21:39:59+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dstny",
-   "handle": "dstny/dstnybugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-06T17:53:20+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "DigitalOcean",
-   "handle": "digitalocean/digitalocean",
+   "program": "Coveo VDP",
+   "handle": "coveo/coveovulnerabilitydisclosureprogram",
    "asset": null,
    "asset_type": null
   },
@@ -5985,6 +5901,96 @@
    "program": "Coinbase",
    "handle": "coinbase",
    "asset": "https://github.com/base/*",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-07T18:39:35.545000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Coinbase",
+   "handle": "coinbase",
+   "asset": "https://github.com/coinbase/*",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-07T13:40:55.539000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "AWS VDP",
+   "handle": "aws_vdp",
+   "asset": "https://github.com/aws-actions/*",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-07T13:40:41.192000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Superhuman (formerly Grammarly)",
+   "handle": "superhuman",
+   "asset": "com.superhuman.mail ",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-07T13:38:36.762000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Superhuman (formerly Grammarly)",
+   "handle": "superhuman",
+   "asset": "com.superhuman.mail",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T13:09:55.701000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T13:09:01.104000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:41:19.874000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/safe-string",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:40:37.915000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/errors",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:40:00.841000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/sentry-client",
    "asset_type": "SOURCE_CODE",
    "bounty": true
   }
