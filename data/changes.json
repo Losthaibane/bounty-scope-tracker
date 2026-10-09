@@ -1,59 +1,87 @@
 {
- "generated_at": "2026-10-08T13:21:40.256190+00:00",
+ "generated_at": "2026-10-09T13:10:19.042417+00:00",
  "changes": [
   {
-   "date": "2026-10-08T13:21:40.256190+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Aegean Airlines Vulnerability Disclosure",
-   "handle": "aegean_airlines_vdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-08T13:21:40.256190+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://www2.ipg-online.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-08T13:21:40.256190+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://www5.thepayplace.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-08T13:21:40.256190+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "all-inclusive.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-08T13:21:40.256190+00:00",
+   "date": "2026-10-09T13:10:19.042417+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Here Technologies",
-   "handle": "heretechnologies/heretechnologies",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-08T09:17:26+00:00",
+   "date": "2026-10-09T13:10:19.042417+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-09T11:32:59+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-09T08:29:37+00:00",
    "type": "program_updated",
    "platform": "intigriti",
    "program": "Uphold",
    "handle": "Uphold/upholdcom",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-10-09T07:12:12+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Nestl\u00e9 VDP",
+   "handle": "nestl\u00e9/nestl\u00e9vdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-09T06:48:11+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "European Space Agency (ESA) VDP",
+   "handle": "europeanspaceagency/europeanspaceagencyvdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-08T17:43:36+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Wireless Logic",
+   "handle": "wl/wirelesslogic",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-08T17:10:40+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "DigitalOcean",
+   "handle": "digitalocean/digitalocean",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-08T14:36:28.248000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://ebctest.cybersource.com/varm",
+   "asset_type": "URL",
+   "bounty": true
   },
   {
    "date": "2026-10-07T19:10:05.208000+00:00",
@@ -66,13 +94,33 @@
    "bounty": false
   },
   {
-   "date": "2026-10-07T18:36:43+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Coveo VDP",
-   "handle": "coveo/coveovulnerabilitydisclosureprogram",
+   "date": "2026-10-06T18:31:49.262000+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Verisk VDP",
+   "handle": "verisk_vdp",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-10-05T15:52:51.919000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Verisk VDP",
+   "handle": "verisk_vdp",
+   "asset": "*.iso.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-05T15:52:51.919000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Verisk VDP",
+   "handle": "verisk_vdp",
+   "asset": "*.verisk.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
   },
   {
    "date": "2026-10-05T14:07:12.890000+00:00",
@@ -5942,56 +5990,6 @@
    "handle": "superhuman",
    "asset": "com.superhuman.mail",
    "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T13:09:55.701000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T13:09:01.104000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:41:19.874000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/safe-string",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:40:37.915000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/errors",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:40:00.841000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/sentry-client",
-   "asset_type": "SOURCE_CODE",
    "bounty": true
   }
  ]
