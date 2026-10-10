@@ -1,77 +1,108 @@
 {
- "generated_at": "2026-10-09T13:10:19.042417+00:00",
+ "generated_at": "2026-10-10T12:25:09.004340+00:00",
  "changes": [
   {
-   "date": "2026-10-09T13:10:19.042417+00:00",
+   "date": "2026-10-10T12:25:09.004340+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "th.oreosea.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-10T12:25:09.004340+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-09T13:10:19.042417+00:00",
+   "date": "2026-10-10T12:25:09.004340+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
+   "program": "Sqills",
+   "handle": "sqills/sqillscorporatewebsite",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-09T11:32:59+00:00",
+   "date": "2026-10-10T11:03:13+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
+   "program": "Here Technologies",
+   "handle": "heretechnologies/heretechnologies",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-09T08:29:37+00:00",
+   "date": "2026-10-10T02:20:43+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Uphold",
-   "handle": "Uphold/upholdcom",
+   "program": "Dropbox Bug Bounty",
+   "handle": "dropbox/dropbox",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-09T07:12:12+00:00",
+   "date": "2026-10-09T23:09:23.421000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bitwarden",
+   "handle": "bitwarden",
+   "asset": "https://github.com/bitwarden/sdk-internal",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-09T23:08:50.227000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bitwarden",
+   "handle": "bitwarden",
+   "asset": "https://github.com/bitwarden/ios",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-09T23:08:17.392000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bitwarden",
+   "handle": "bitwarden",
+   "asset": "https://github.com/bitwarden/android",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-09T20:58:31+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Nestl\u00e9 VDP",
-   "handle": "nestl\u00e9/nestl\u00e9vdp",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-09T06:48:11+00:00",
+   "date": "2026-10-09T15:44:01+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "European Space Agency (ESA) VDP",
-   "handle": "europeanspaceagency/europeanspaceagencyvdp",
+   "program": "Capture Our Flag",
+   "handle": "intigriti/captureourflag",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-08T17:43:36+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Wireless Logic",
-   "handle": "wl/wirelesslogic",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-08T17:10:40+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "DigitalOcean",
-   "handle": "digitalocean/digitalocean",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-10-09T15:21:23.595000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bitwarden",
+   "handle": "bitwarden",
+   "asset": "https://github.com/bitwarden/clients",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
   },
   {
    "date": "2026-10-08T14:36:28.248000+00:00",
@@ -92,15 +123,6 @@
    "asset": "https://github.com/bitwarden/server",
    "asset_type": "SOURCE_CODE",
    "bounty": false
-  },
-  {
-   "date": "2026-10-06T18:31:49.262000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Verisk VDP",
-   "handle": "verisk_vdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-05T15:52:51.919000+00:00",
@@ -5971,26 +5993,6 @@
    "asset": "https://github.com/aws-actions/*",
    "asset_type": "SOURCE_CODE",
    "bounty": false
-  },
-  {
-   "date": "2026-08-07T13:40:41.192000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "com.superhuman.mail ",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-07T13:38:36.762000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "com.superhuman.mail",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
   }
  ]
 }
