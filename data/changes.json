@@ -1,48 +1,12 @@
 {
- "generated_at": "2026-10-10T12:25:09.004340+00:00",
+ "generated_at": "2026-10-11T12:42:39.588643+00:00",
  "changes": [
   {
-   "date": "2026-10-10T12:25:09.004340+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "th.oreosea.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-10T12:25:09.004340+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-10T12:25:09.004340+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Sqills",
-   "handle": "sqills/sqillscorporatewebsite",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-10T11:03:13+00:00",
+   "date": "2026-10-11T08:15:44+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Here Technologies",
-   "handle": "heretechnologies/heretechnologies",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-10T02:20:43+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dropbox Bug Bounty",
-   "handle": "dropbox/dropbox",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
    "asset": null,
    "asset_type": null
   },
@@ -75,24 +39,6 @@
    "asset": "https://github.com/bitwarden/android",
    "asset_type": "SOURCE_CODE",
    "bounty": false
-  },
-  {
-   "date": "2026-10-09T20:58:31+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Adobe Public",
-   "handle": "adobe/adobepublic",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-09T15:44:01+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Capture Our Flag",
-   "handle": "intigriti/captureourflag",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-09T15:21:23.595000+00:00",
@@ -5993,6 +5939,66 @@
    "asset": "https://github.com/aws-actions/*",
    "asset_type": "SOURCE_CODE",
    "bounty": false
+  },
+  {
+   "date": "2026-08-07T13:40:41.192000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Superhuman (formerly Grammarly)",
+   "handle": "superhuman",
+   "asset": "com.superhuman.mail ",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-07T13:38:36.762000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Superhuman (formerly Grammarly)",
+   "handle": "superhuman",
+   "asset": "com.superhuman.mail",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T13:09:55.701000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T13:09:01.104000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:41:19.874000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/safe-string",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-05T12:40:37.915000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Exodus",
+   "handle": "exodus",
+   "asset": "https://www.npmjs.com/package/@exodus/errors",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
   }
  ]
 }
