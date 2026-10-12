@@ -1,14 +1,169 @@
 {
- "generated_at": "2026-10-11T12:42:39.588643+00:00",
+ "generated_at": "2026-10-12T15:14:56.821175+00:00",
  "changes": [
   {
-   "date": "2026-10-11T08:15:44+00:00",
-   "type": "program_updated",
+   "date": "2026-10-12T15:14:56.821175+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "winwithphilly.no",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-12T15:14:56.821175+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Infomaniak Bug Bounty program",
+   "handle": "infomaniak-bug-bounty-program",
+   "asset": "manager.infomaniak.com/*proxy*",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-12T15:14:56.821175+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Pine Labs Bug Bounty Program",
+   "handle": "pine-labs-bug-bounty-program",
+   "asset": "https://developers.woohoo.in/",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-12T15:14:56.821175+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Pine Labs Bug Bounty Program",
+   "handle": "pine-labs-bug-bounty-program",
+   "asset": "https://www.woohoo.in/",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-12T15:14:56.821175+00:00",
+   "type": "new_program",
    "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
+   "program": "Here Technologies",
+   "handle": "heretechnologies/heretechnologies",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-10-12T15:14:56.821175+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "NVIDIA Public Bug Bounty",
+   "handle": "nvidia/nvidiapublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-12T15:14:56.821175+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-12T15:14:56.821175+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Telenet - Base - Wyre - Tadaam",
+   "handle": "telenet/telenetgroup",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-12T14:56:13+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "RIPE NCC",
+   "handle": "ripencc/ripencc",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-12T13:41:14.266000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Autodesk",
+   "handle": "autodesk",
+   "asset": "*.",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T08:54:10.701000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://*.ifec-ground.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T08:44:26.011000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api.finnair.com/d/customer-care-api/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T08:36:19.925000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api.finnair.com/d/customer/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T08:36:01.154000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "https://api.finnair.com/c/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T08:34:26.438000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "api.finnair.com/c/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T08:34:01.098000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "api.finnair.com/d/customer/*",
+   "asset_type": "API",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T07:45:20.399000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Finnair Vulnerability Disclosure",
+   "handle": "finnair_vdp",
+   "asset": "GitHub (FinnairOyj)",
+   "asset_type": "OTHER",
+   "bounty": false
   },
   {
    "date": "2026-10-09T23:09:23.421000+00:00",
@@ -5839,166 +5994,6 @@
    "asset": "*.vedaadvantage.com",
    "asset_type": "WILDCARD",
    "bounty": false
-  },
-  {
-   "date": "2026-08-10T20:05:34.038000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Vercel",
-   "handle": "vercel",
-   "asset": "Vercel sandbox",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-10T17:08:49.562000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "ftp.reallybigbank.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-10T15:41:22.072000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "fraudforce.iovation.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-10T15:18:56.999000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "verify-uat-canada.ccid.neustar.biz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-10T13:21:06.857000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Veeam",
-   "handle": "veeam",
-   "asset": "*.securiti.ai",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-09T11:23:57.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "*.henkeldx.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-07T18:55:19.866000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Coinbase",
-   "handle": "coinbase",
-   "asset": "*.base.app",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-07T18:40:04.837000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Coinbase",
-   "handle": "coinbase",
-   "asset": "https://github.com/base/*",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-07T18:39:35.545000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Coinbase",
-   "handle": "coinbase",
-   "asset": "https://github.com/coinbase/*",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-07T13:40:55.539000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "AWS VDP",
-   "handle": "aws_vdp",
-   "asset": "https://github.com/aws-actions/*",
-   "asset_type": "SOURCE_CODE",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-07T13:40:41.192000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "com.superhuman.mail ",
-   "asset_type": "APPLE_STORE_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-07T13:38:36.762000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "com.superhuman.mail",
-   "asset_type": "GOOGLE_PLAY_APP_ID",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T13:09:55.701000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T13:09:01.104000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:41:19.874000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/safe-string",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-05T12:40:37.915000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Exodus",
-   "handle": "exodus",
-   "asset": "https://www.npmjs.com/package/@exodus/errors",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
   }
  ]
 }
