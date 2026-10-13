@@ -1,83 +1,325 @@
 {
- "generated_at": "2026-10-12T15:14:56.821175+00:00",
+ "generated_at": "2026-10-13T14:05:36.472751+00:00",
  "changes": [
   {
-   "date": "2026-10-12T15:14:56.821175+00:00",
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "categorisation.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "ciamfed.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Mondel\u0113z International",
    "handle": "mondelez",
-   "asset": "winwithphilly.no",
+   "asset": "admit-it-win.cadbury.co.uk",
    "asset_type": null
   },
   {
-   "date": "2026-10-12T15:14:56.821175+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "Infomaniak Bug Bounty program",
-   "handle": "infomaniak-bug-bounty-program",
-   "asset": "manager.infomaniak.com/*proxy*",
-   "asset_type": null,
-   "bounty": true
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "anniversariooro.orosaiwa.it",
+   "asset_type": null
   },
   {
-   "date": "2026-10-12T15:14:56.821175+00:00",
-   "type": "scope_added",
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "belvitaoffer.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "concorsocoop.philadelphia.it",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "concorsoesselunga.philadelphia.it",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "egypt.oreostayplayful.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "epack.mondelezinternational.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "fingerscrossed.cadbury.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "fingerscrossed.cadbury.ie",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "fruehling-knacken.milka.de",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "gol.oreo.mx",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "https://ligamaissabor.pt/",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "oreo-la.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "passatempo.royalcontigo.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "phonejeeto.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "promo.milka.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "soutez-opavia.cz",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "sportszeletjoenergiak.hu",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "suchard.bg",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "sutaz-opavia.sk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "timeoutz4snacks.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "vincialexdelpiero.it",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "vincicoppaitalia.it",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "www.promocaomisturaquecombina.com.br",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "www.snack7days.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "xn--90aiefdldtba7bg.xn--p1ai",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "xn--glcksrad-75a.milka.at",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
    "platform": "yeswehack",
    "program": "Pine Labs Bug Bounty Program",
    "handle": "pine-labs-bug-bounty-program",
    "asset": "https://developers.woohoo.in/",
-   "asset_type": null,
-   "bounty": true
+   "asset_type": null
   },
   {
-   "date": "2026-10-12T15:14:56.821175+00:00",
-   "type": "scope_added",
+   "date": "2026-10-13T14:05:36.472751+00:00",
+   "type": "scope_removed",
    "platform": "yeswehack",
    "program": "Pine Labs Bug Bounty Program",
    "handle": "pine-labs-bug-bounty-program",
    "asset": "https://www.woohoo.in/",
-   "asset_type": null,
-   "bounty": true
+   "asset_type": null
   },
   {
-   "date": "2026-10-12T15:14:56.821175+00:00",
-   "type": "new_program",
+   "date": "2026-10-13T08:14:59+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Here Technologies",
-   "handle": "heretechnologies/heretechnologies",
+   "program": "Kahoot Bug Bounty Program",
+   "handle": "kahoot/kahoot",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-12T15:14:56.821175+00:00",
-   "type": "new_program",
+   "date": "2026-10-12T16:40:22.775000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "sipas-prod-br.ccid.neustar.biz",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T16:32:40.784000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "nim-api.trucontact.us.transunion.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-12T15:48:17+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "NVIDIA Public Bug Bounty",
-   "handle": "nvidia/nvidiapublicbugbounty",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-12T15:14:56.821175+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-12T15:14:56.821175+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Telenet - Base - Wyre - Tadaam",
-   "handle": "telenet/telenetgroup",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-12T14:56:13+00:00",
+   "date": "2026-10-12T15:22:52+00:00",
    "type": "program_updated",
    "platform": "intigriti",
    "program": "RIPE NCC",
@@ -5722,276 +5964,6 @@
    "program": "Henkel",
    "handle": "henkel_vdp",
    "asset": "*.sawope.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-21T17:36:50.117000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "forms.cybersource.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-21T13:55:07.584000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "LATAM Airlines",
-   "handle": "latamairlines",
-   "asset": "andeslatam.tech",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-20T03:09:30.850000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "X / xAI",
-   "handle": "x",
-   "asset": "grok-build",
-   "asset_type": "DOWNLOADABLE_EXECUTABLES",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-20T03:07:43.252000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "X / xAI",
-   "handle": "x",
-   "asset": "x.ai",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-20T03:05:28.840000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "X / xAI",
-   "handle": "x",
-   "asset": "pscp.tv",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-20T03:02:49.045000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "X / xAI",
-   "handle": "x",
-   "asset": "X Pixel Helper (Chrome Extension)",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-20T03:02:15.803000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "X / xAI",
-   "handle": "x",
-   "asset": "*.pscp.tv",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-20T03:00:02.241000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "X / xAI",
-   "handle": "x",
-   "asset": "console.x.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-18T19:44:33.240000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Tor",
-   "handle": "torproject",
-   "asset": "https://gitlab.torproject.org/tpo/core/arti",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-18T18:42:19.946000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "extapi-test4.cloudcare.avg.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-18T18:36:40.100000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "cvt-uat-canada.ccid.neustar.biz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-18T18:33:42.210000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "authn-uat-canada.ccid.neustar.biz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-18T13:36:02.552000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Kaseya",
-   "handle": "kaseya",
-   "asset": "https://qa.manage.saasalerts.com/",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-17T21:17:49.261000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.com.ua",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-17T12:06:36.950000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MTN Group",
-   "handle": "mtn_group",
-   "asset": "*.momoafrica.tech",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-17T11:41:47.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Superhuman (formerly Grammarly)",
-   "handle": "superhuman",
-   "asset": "docs.superhuman.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-17T08:30:19.786000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Crypto.com",
-   "handle": "crypto",
-   "asset": "tickets.crypto.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-17T08:29:55.881000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Crypto.com",
-   "handle": "crypto",
-   "asset": "experiences.crypto.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-12T18:41:57.026000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "*.raqnhub.cn",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-12T11:18:42.199000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": "*.klarna.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-12T11:18:42.199000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": "*.klarna.net",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-12T11:18:42.199000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": "*.klarnacdn.net",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-12T11:18:42.199000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Klarna",
-   "handle": "klarna",
-   "asset": "*.pricerunner.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-11T09:21:30.274000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Alshaya",
-   "handle": "alshaya",
-   "asset": "*.aura-mena-uat.alshaya.com",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-10T21:29:49.928000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Equifax-vdp",
-   "handle": "equifax",
-   "asset": "*.vedaadvantage.com.nz",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-10T21:26:03.740000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Equifax-vdp",
-   "handle": "equifax",
-   "asset": "*.vedaadvantage.com.au",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-10T21:25:21.002000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Equifax-vdp",
-   "handle": "equifax",
-   "asset": "*.vedaadvantage.com",
    "asset_type": "WILDCARD",
    "bounty": false
   }
