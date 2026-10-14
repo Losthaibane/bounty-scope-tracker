@@ -1,291 +1,982 @@
 {
- "generated_at": "2026-10-13T14:05:36.472751+00:00",
+ "generated_at": "2026-10-14T11:45:18.857118+00:00",
  "changes": [
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "categorisation.transunion.co.uk",
+   "program": "Fiserv",
+   "handle": "fiserv",
+   "asset": "http://www4.thepayplace.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "TransUnion LLC",
-   "handle": "transunion",
-   "asset": "ciamfed.transunion.co.uk",
+   "program": "AWS VDP",
+   "handle": "aws_vdp",
+   "asset": "AWS Cloudfront https://aws.amazon.com/cloudfront/",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "admit-it-win.cadbury.co.uk",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "giftcards.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "anniversariooro.orosaiwa.it",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "gifts.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "belvitaoffer.com",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "hotel-deals.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "concorsocoop.philadelphia.it",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "hotel-development.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "concorsoesselunga.philadelphia.it",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "ifast.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "egypt.oreostayplayful.com",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "jobs.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "epack.mondelezinternational.com",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "marriottfranchisetransactions.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "fingerscrossed.cadbury.co.uk",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "mipartnerprivileges.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "fingerscrossed.cadbury.ie",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "moments.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "fruehling-knacken.milka.de",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "oasisprod.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "gol.oreo.mx",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "psp.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
+   "date": "2026-10-14T11:45:18.857118+00:00",
+   "type": "new_program",
    "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "https://ligamaissabor.pt/",
+   "program": "Brave Software",
+   "handle": "brave",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "oreo-la.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "passatempo.royalcontigo.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "phonejeeto.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "promo.milka.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "soutez-opavia.cz",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "sportszeletjoenergiak.hu",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "suchard.bg",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "sutaz-opavia.sk",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "timeoutz4snacks.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "vincialexdelpiero.it",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "vincicoppaitalia.it",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "www.promocaomisturaquecombina.com.br",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "www.snack7days.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "xn--90aiefdldtba7bg.xn--p1ai",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "xn--glcksrad-75a.milka.at",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
+   "date": "2026-10-14T11:45:18.857118+00:00",
+   "type": "new_program",
    "platform": "yeswehack",
-   "program": "Pine Labs Bug Bounty Program",
-   "handle": "pine-labs-bug-bounty-program",
-   "asset": "https://developers.woohoo.in/",
+   "program": "OneDoc",
+   "handle": "onedoc-sa-bug-bounty-program",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-13T14:05:36.472751+00:00",
-   "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "Pine Labs Bug Bounty Program",
-   "handle": "pine-labs-bug-bounty-program",
-   "asset": "https://www.woohoo.in/",
+   "date": "2026-10-14T11:45:18.857118+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Uitgeverij Deviant Bug Bounty",
+   "handle": "uitgeverijdeviant/uitgeverijdeviant",
+   "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-13T08:14:59+00:00",
+   "date": "2026-10-14T11:45:18.857118+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Coveo Public Bug Bounty",
+   "handle": "coveo/coveopublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-14T09:54:40+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Kahoot Bug Bounty Program",
-   "handle": "kahoot/kahoot",
+   "program": "Visma",
+   "handle": "visma/visma",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-14T09:33:00+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "PDQ bug bounty program",
+   "handle": "pdq/pdqcomprivate",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-14T09:28:42.839000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-14T09:27:35.090000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "https://apps.apple.com/in/app/expedia-group-partner-central/id987675995",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T21:47:35.576000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "AWS VDP",
+   "handle": "aws_vdp",
+   "asset": "https://github.com/deepjavalibrary/*",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-13T21:36:40.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "1console.twilio.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T18:41:41.928000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Notion Labs, Inc.",
+   "handle": "notion",
+   "asset": "Notion MCP",
+   "asset_type": "OTHER",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "blog.twilio.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "console.twilio.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "help.twilio.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "tsock.us1.twilio.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "twilio.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "https://stytch.com/blog",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "https://stytch.com/dashboard",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "client.dev",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "connectedapps.dev",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "isagent.dev",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "smtp.sendgrid.net",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/segmentio",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/sendgrid",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/is-agent",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/samlshield",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-android",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-browser",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-dotnet",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-go",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-ios",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-ios-dfp",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-java",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-management-go",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-management-python",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-mobile",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-node",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-php",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-python",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-ruby",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/stytch-rust",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/stytchauth/terraform-provider-stytch",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/twilio",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "github.com/twilio-labs",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "https://github.com/stytchauth",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "com.authy.authy",
+   "asset_type": "GOOGLE_PLAY_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "com.authy",
+   "asset_type": "APPLE_STORE_APP_ID",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "accounts.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "api.authy.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "api.segmentapis.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "api.sendgrid.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "assistants.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "bulkexports.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "content.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "conversations.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "events.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "flex-api.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "frontline-api.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "iam.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "insights.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "intelligence.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "knowledge.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "lookups.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "management.stytch.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "marketplace.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "memory.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "messaging.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "monitor.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "notify.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "numbers.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "oauth.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "platform.segmentapis.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "preview.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "pricing.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "profile.segment.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "proxy.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "routes.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "serverless.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "studio.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "sync.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "taskrouter.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "telemetry.stytch.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "test.stytch.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "trunking.twilio.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:00:24+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Uphold",
+   "handle": "Uphold/upholdcom",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-13T16:40:26.291000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "api.stytch.com",
+   "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T15:21:44+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Coveo VDP",
+   "handle": "coveo/coveovulnerabilitydisclosureprogram",
    "asset": null,
    "asset_type": null
   },
@@ -308,24 +999,6 @@
    "asset": "nim-api.trucontact.us.transunion.com",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-10-12T15:48:17+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Daytona Bug Bounty",
-   "handle": "daytona/daytonabugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-12T15:22:52+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "RIPE NCC",
-   "handle": "ripencc/ripencc",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-12T13:41:14.266000+00:00",
@@ -5305,666 +5978,6 @@
    "handle": "tbs-sct",
    "asset": "api.login-connexion.canada.ca",
    "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-27T14:24:10.626000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "app.login-connexion.canada.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-27T13:49:50.288000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Matomo",
-   "handle": "matomo",
-   "asset": "https://github.com/matomo-org/developer-documentation",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-27T13:47:08.350000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Matomo",
-   "handle": "matomo",
-   "asset": "https://github.com/matomo-org/tracker-proxy",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-27T13:44:48.661000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Matomo",
-   "handle": "matomo",
-   "asset": "https://github.com/matomo-org/tracker-proxy",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-26T20:32:05.675000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://ebctest.cybersource.com/vroom",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-25T18:11:32.632000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://ebctest.cybersource.com/bos",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-25T17:57:21.150000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "auth.cdssandbox.xyz",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-25T13:46:28.913000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://ebctest.cybersource.com/underwriting",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-25T07:17:10.791000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "map.8x8.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-24T21:27:08.957000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://www.visa.com.ua/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:53.166000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.be",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:30.321000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.pl",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:30.321000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "kino.visa.pl",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.ca",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.cl",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.cn",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.com.hn",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.cz",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.de",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.dk",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.ee",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.es",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.fi",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.hu",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.gr",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.ie",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.is",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.lt",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.lv",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.mn",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.nl",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.no",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.pt",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.ro",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.se",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.sk",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visabg.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.dm",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:50:06.759000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "visa.in",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:46:50.087000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visaeurope.at",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:46:50.087000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visaeurope.ch",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:46:50.087000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visaeurope.lu",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:46:50.087000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visaeurope.si",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:46:50.087000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visaitalia.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:46:50.087000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visakorea.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:46:50.087000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visasoutheasteurope.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:46:50.087000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visaeurope.es",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:44:41.914000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "visa.com.mx",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:44:41.914000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.com.jm",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:43:53.084000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "cis.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:43:53.084000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "myanmar.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:43:53.084000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "rs.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:43:53.084000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "sr.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:43:53.084000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.mz.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:43:04.498000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "africa.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:43:04.498000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "by.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:29:23.168000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://usa.visa.com/gateway/api",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T15:10:18.522000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.com",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T12:32:20.644000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MoonPay ",
-   "handle": "moonpay",
-   "asset": "*.iron.xyz",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-24T12:28:03.047000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "MoonPay ",
-   "handle": "moonpay",
-   "asset": "iron.xyz",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-22T14:44:08.352000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://www.myvisacardportal.com/enbd/en_ae/landing/",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-22T14:35:52.484000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.com.bo",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-22T14:34:59.719000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.co.ni",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-22T14:33:41.314000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "www.visa.co.cr",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-22T07:26:07.337000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "*.henkeleconomato.es",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-22T06:59:39.695000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Henkel",
-   "handle": "henkel_vdp",
-   "asset": "*.sawope.com",
-   "asset_type": "WILDCARD",
    "bounty": false
   }
  ]
