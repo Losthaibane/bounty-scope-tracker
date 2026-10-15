@@ -1,174 +1,108 @@
 {
- "generated_at": "2026-10-14T11:45:18.857118+00:00",
+ "generated_at": "2026-10-15T11:21:37.886012+00:00",
  "changes": [
   {
-   "date": "2026-10-14T11:45:18.857118+00:00",
+   "date": "2026-10-15T11:21:37.886012+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "Fiserv",
-   "handle": "fiserv",
-   "asset": "http://www4.thepayplace.com",
+   "program": "BILL VDP",
+   "handle": "bill_vdp",
+   "asset": "Other BILL assets",
    "asset_type": null
   },
   {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "AWS VDP",
-   "handle": "aws_vdp",
-   "asset": "AWS Cloudfront https://aws.amazon.com/cloudfront/",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "giftcards.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "gifts.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "hotel-deals.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "hotel-development.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "ifast.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "jobs.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "marriottfranchisetransactions.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "mipartnerprivileges.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "moments.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "oasisprod.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Marriott Bug Bounty Program",
-   "handle": "marriott",
-   "asset": "psp.marriott.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
+   "date": "2026-10-15T11:21:37.886012+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
+   "program": "MariaDB",
+   "handle": "mariadb",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-14T11:45:18.857118+00:00",
-   "type": "new_program",
-   "platform": "yeswehack",
-   "program": "OneDoc",
-   "handle": "onedoc-sa-bug-bounty-program",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T11:45:18.857118+00:00",
+   "date": "2026-10-15T11:21:37.886012+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Uitgeverij Deviant Bug Bounty",
-   "handle": "uitgeverijdeviant/uitgeverijdeviant",
+   "program": "UZ Leuven",
+   "handle": "uz leuven/uzleuven",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-14T11:45:18.857118+00:00",
+   "date": "2026-10-15T11:21:37.886012+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
+   "program": "Telenet - Base - Wyre - Tadaam",
+   "handle": "telenet/telenetgroup",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-14T09:54:40+00:00",
+   "date": "2026-10-15T09:58:40.913000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "https://solscan.io/account/B2RFzpckwjtHXHMrPMKarg6Cj6xkSdT6mru4gJiJE87L",
+   "asset_type": "SMART_CONTRACT",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-15T09:57:52.040000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "https://solscan.io/account/sxzuA7TuRvjVbrXkJUgrYq2hfjVf3RFd8WFaSxt2rYm",
+   "asset_type": "SMART_CONTRACT",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-15T09:56:44.668000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "https://solscan.io/account/GWvQinGBRa7ZUzhXY23MrLjdsx3KfRGxH8yXURBwrz1R",
+   "asset_type": "SMART_CONTRACT",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-15T09:47:41.249000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "1wtoken.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-15T09:47:06.542000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "1wintoken.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-15T08:40:30.702000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Expedia Group Bug Bounty",
+   "handle": "expediagroup_bbp",
+   "asset": "*.expedia.biz",
+   "asset_type": "WILDCARD",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-15T06:52:46+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Visma",
-   "handle": "visma/visma",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-14T09:33:00+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "PDQ bug bounty program",
-   "handle": "pdq/pdqcomprivate",
+   "program": "Dstny",
+   "handle": "dstny/dstnybugbounty",
    "asset": null,
    "asset_type": null
   },
@@ -953,15 +887,6 @@
    "bounty": true
   },
   {
-   "date": "2026-10-13T17:00:24+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Uphold",
-   "handle": "Uphold/upholdcom",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-10-13T16:40:26.291000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -970,15 +895,6 @@
    "asset": "api.stytch.com",
    "asset_type": "API",
    "bounty": true
-  },
-  {
-   "date": "2026-10-13T15:21:44+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Coveo VDP",
-   "handle": "coveo/coveovulnerabilitydisclosureprogram",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-12T16:40:22.775000+00:00",
@@ -5979,6 +5895,106 @@
    "asset": "api.login-connexion.canada.ca",
    "asset_type": "URL",
    "bounty": false
+  },
+  {
+   "date": "2026-08-27T14:24:10.626000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "app.login-connexion.canada.ca",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-27T13:49:50.288000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Matomo",
+   "handle": "matomo",
+   "asset": "https://github.com/matomo-org/developer-documentation",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-27T13:47:08.350000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Matomo",
+   "handle": "matomo",
+   "asset": "https://github.com/matomo-org/tracker-proxy",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-27T13:44:48.661000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Matomo",
+   "handle": "matomo",
+   "asset": "https://github.com/matomo-org/tracker-proxy",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-26T20:32:05.675000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://ebctest.cybersource.com/vroom",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-25T18:11:32.632000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://ebctest.cybersource.com/bos",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-25T17:57:21.150000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
+   "handle": "tbs-sct",
+   "asset": "auth.cdssandbox.xyz",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-25T13:46:28.913000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://ebctest.cybersource.com/underwriting",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-08-25T07:17:10.791000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "8x8",
+   "handle": "8x8-bounty",
+   "asset": "map.8x8.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-24T21:27:08.957000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "https://www.visa.com.ua/",
+   "asset_type": "URL",
+   "bounty": true
   }
  ]
 }
