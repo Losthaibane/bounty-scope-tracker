@@ -1,39 +1,77 @@
 {
- "generated_at": "2026-10-15T11:21:37.886012+00:00",
+ "generated_at": "2026-10-16T11:16:19.327031+00:00",
  "changes": [
   {
-   "date": "2026-10-15T11:21:37.886012+00:00",
+   "date": "2026-10-16T11:16:19.327031+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
-   "program": "BILL VDP",
-   "handle": "bill_vdp",
-   "asset": "Other BILL assets",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "http://www.shopmarriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-15T11:21:37.886012+00:00",
+   "date": "2026-10-16T11:16:19.327031+00:00",
    "type": "new_program",
+   "platform": "intigriti",
+   "program": "WP Engine Bug Bounty",
+   "handle": "wpengine/wpenginebugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-16T11:16:19.327031+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Veriff Bug Bounty",
+   "handle": "veriff/veriffbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-16T11:16:19.327031+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Skoda Auto Bug Bounty Program",
+   "handle": "skodaauto/skodaautoprivatebugbountyprogram",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-16T11:16:19.327031+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-16T08:47:43.683000+00:00",
+   "type": "scope_added",
    "platform": "hackerone",
-   "program": "MariaDB",
-   "handle": "mariadb",
-   "asset": null,
-   "asset_type": null
+   "program": "PayPal",
+   "handle": "paypal",
+   "asset": "Account restrictions and control bypasses - campaign",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
-   "date": "2026-10-15T11:21:37.886012+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "UZ Leuven",
-   "handle": "uz leuven/uzleuven",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-10-16T08:45:17.393000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "PayPal",
+   "handle": "paypal",
+   "asset": "Account restrictions and control bypass campaign",
+   "asset_type": "OTHER",
+   "bounty": true
   },
   {
-   "date": "2026-10-15T11:21:37.886012+00:00",
-   "type": "new_program",
+   "date": "2026-10-16T07:06:23+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Telenet - Base - Wyre - Tadaam",
-   "handle": "telenet/telenetgroup",
+   "program": "Dstny",
+   "handle": "dstny/dstnybugbounty",
    "asset": null,
    "asset_type": null
   },
@@ -96,15 +134,6 @@
    "asset": "*.expedia.biz",
    "asset_type": "WILDCARD",
    "bounty": true
-  },
-  {
-   "date": "2026-10-15T06:52:46+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dstny",
-   "handle": "dstny/dstnybugbounty",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-14T09:28:42.839000+00:00",
@@ -5965,36 +5994,6 @@
    "asset": "auth.cdssandbox.xyz",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-08-25T13:46:28.913000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://ebctest.cybersource.com/underwriting",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-25T07:17:10.791000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "map.8x8.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-24T21:27:08.957000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://www.visa.com.ua/",
-   "asset_type": "URL",
-   "bounty": true
   }
  ]
 }
