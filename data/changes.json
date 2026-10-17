@@ -1,48 +1,159 @@
 {
- "generated_at": "2026-10-16T11:16:19.327031+00:00",
+ "generated_at": "2026-10-17T10:35:57.516410+00:00",
  "changes": [
   {
-   "date": "2026-10-16T11:16:19.327031+00:00",
+   "date": "2026-10-17T10:35:57.516410+00:00",
    "type": "scope_removed",
    "platform": "hackerone",
    "program": "Marriott Bug Bounty Program",
    "handle": "marriott",
-   "asset": "http://www.shopmarriott.com",
+   "asset": "marriottfranchiseapplication.marriott.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-16T11:16:19.327031+00:00",
+   "date": "2026-10-17T10:35:57.516410+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "WP Engine Bug Bounty",
-   "handle": "wpengine/wpenginebugbounty",
+   "program": "Daytona Bug Bounty",
+   "handle": "daytona/daytonabugbounty",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-16T11:16:19.327031+00:00",
+   "date": "2026-10-17T10:35:57.516410+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Veriff Bug Bounty",
-   "handle": "veriff/veriffbugbounty",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-16T11:16:19.327031+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Skoda Auto Bug Bounty Program",
-   "handle": "skodaauto/skodaautoprivatebugbountyprogram",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-10-16T19:20:29.834000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Anthropic Cyber Jailbreak",
+   "handle": "anthropic-cyber-jailbreak",
+   "asset": "Haiku Class Models",
+   "asset_type": "AI_MODEL",
+   "bounty": false
   },
   {
-   "date": "2026-10-16T11:16:19.327031+00:00",
-   "type": "new_program",
+   "date": "2026-10-16T19:18:01.073000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Anthropic Cyber Jailbreak",
+   "handle": "anthropic-cyber-jailbreak",
+   "asset": "Sonnet Class Models",
+   "asset_type": "AI_MODEL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T19:16:22.604000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Anthropic Cyber Jailbreak",
+   "handle": "anthropic-cyber-jailbreak",
+   "asset": "Other Opus Class Models",
+   "asset_type": "AI_MODEL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T19:15:08.305000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Anthropic Cyber Jailbreak",
+   "handle": "anthropic-cyber-jailbreak",
+   "asset": "Opus 5.5",
+   "asset_type": "AI_MODEL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T19:12:06.326000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Anthropic Cyber Jailbreak",
+   "handle": "anthropic-cyber-jailbreak",
+   "asset": "AI Model: Haiku, Sonnet Class Models",
+   "asset_type": "OTHER",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T17:16:08.738000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MercadoLibre",
+   "handle": "mercadolibre",
+   "asset": "fullbarhomologa.modoblackfullbar.com.br",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T17:11:01.552000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MercadoLibre",
+   "handle": "mercadolibre",
+   "asset": "*.modoblack.mercadolivre.com.br",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T17:08:40.270000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "MercadoLibre",
+   "handle": "mercadolibre",
+   "asset": "mercadolivreexperience.mercadolivre.com.br",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T15:59:12.167000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "*uat.marriott.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T15:58:36.996000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Marriott Bug Bounty Program",
+   "handle": "marriott",
+   "asset": "uat.marriott.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T13:41:05.414000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Hack The Box",
+   "handle": "hack_the_box",
+   "asset": "https://range.hackthebox.ai/",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T13:40:33.501000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Hack The Box",
+   "handle": "hack_the_box",
+   "asset": "https://profile.hackthebox.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-16T13:38:57+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
+   "program": "Here Technologies",
+   "handle": "heretechnologies/heretechnologies",
    "asset": null,
    "asset_type": null
   },
@@ -65,15 +176,6 @@
    "asset": "Account restrictions and control bypass campaign",
    "asset_type": "OTHER",
    "bounty": true
-  },
-  {
-   "date": "2026-10-16T07:06:23+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dstny",
-   "handle": "dstny/dstnybugbounty",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-15T09:58:40.913000+00:00",
@@ -5894,106 +5996,6 @@
    "asset": "*.visamiddleeast.com",
    "asset_type": "WILDCARD",
    "bounty": true
-  },
-  {
-   "date": "2026-08-27T14:29:20.351000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "api.migration.login-connexion.canada.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-27T14:28:40.729000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "app.migration.login-connexion.canada.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-27T14:28:00.920000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "api.login-connexion.canada.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-27T14:24:10.626000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "app.login-connexion.canada.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-27T13:49:50.288000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Matomo",
-   "handle": "matomo",
-   "asset": "https://github.com/matomo-org/developer-documentation",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-27T13:47:08.350000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Matomo",
-   "handle": "matomo",
-   "asset": "https://github.com/matomo-org/tracker-proxy",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-27T13:44:48.661000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Matomo",
-   "handle": "matomo",
-   "asset": "https://github.com/matomo-org/tracker-proxy",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-26T20:32:05.675000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://ebctest.cybersource.com/vroom",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-25T18:11:32.632000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "https://ebctest.cybersource.com/bos",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-25T17:57:21.150000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "auth.cdssandbox.xyz",
-   "asset_type": "URL",
-   "bounty": false
   }
  ]
 }
