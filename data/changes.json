@@ -1,12 +1,123 @@
 {
- "generated_at": "2026-10-18T10:58:29.267253+00:00",
+ "generated_at": "2026-10-19T13:03:24.847101+00:00",
  "changes": [
   {
-   "date": "2026-10-17T14:04:43+00:00",
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "GoCardless Bug Bounty Program",
+   "handle": "gocardless_bbp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "new_program",
+   "platform": "yeswehack",
+   "program": "GovTech - Vulnerability Disclosure Programme",
+   "handle": "govtech-vulnerability-disclosure-programme-policy",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Ezviz - Bug Bounty Program",
+   "handle": "ezviz-bug-bounty-program",
+   "asset": "*.hicloudcam.com,",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Ezviz - Bug Bounty Program",
+   "handle": "ezviz-bug-bounty-program",
+   "asset": "*.hikops.com,",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Ezviz - Bug Bounty Program",
+   "handle": "ezviz-bug-bounty-program",
+   "asset": "*.hicloudcam.com",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "Ezviz - Bug Bounty Program",
+   "handle": "ezviz-bug-bounty-program",
+   "asset": "*.hikops.com",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Uphold",
+   "handle": "Uphold/upholdcom",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Fluvius",
+   "handle": "fluvius/fluvius",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T13:03:24.847101+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T10:38:38.603000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Lovable VDP",
+   "handle": "lovable-vdp",
+   "asset": "lovable.net",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-19T10:21:13+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
+   "program": "PDQ bug bounty program",
+   "handle": "pdq/pdqcomprivate",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T09:57:09+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Social Deal",
+   "handle": "socialdeal/socialdeal",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-19T08:53:32+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Challenge 1026",
+   "handle": "intigriti/challenge1026",
    "asset": null,
    "asset_type": null
   },
@@ -4631,6 +4742,16 @@
    "bounty": true
   },
   {
+   "date": "2026-09-10T07:43:10.040000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "GoCardless Bug Bounty Program",
+   "handle": "gocardless_bbp",
+   "asset": "https://github.com/gocardless",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
+  },
+  {
    "date": "2026-09-10T07:16:46.629000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -4968,16 +5089,6 @@
    "handle": "mercadolibre",
    "asset": "www.ipbooster.com",
    "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-09-05T16:07:36.939000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Basecamp",
-   "handle": "basecamp",
-   "asset": "https://github.com/basecamp/trix",
-   "asset_type": "SOURCE_CODE",
    "bounty": false
   },
   {
@@ -5878,126 +5989,6 @@
    "handle": "kkr_vdp",
    "asset": "*.globalatlantic.com",
    "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:25:15.557000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "www.globalatlantic.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T06:43:25.866000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "sandbox.developer.plus.authorize.net",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-31T06:42:12.685000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "developer.plus.authorize.net",
-   "asset_type": "URL",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-31T04:25:06.362000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "OKG",
-   "handle": "okg",
-   "asset": "https://github.com/okx/go-wallet-sdk",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-30T15:42:20.086000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "bridge.8x8.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-30T15:13:59.034000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "*.8x8.engineering",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-30T15:10:57.874000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "8x8",
-   "handle": "8x8-bounty",
-   "asset": "*.8x8.cloud",
-   "asset_type": "WILDCARD",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-28T12:36:08.406000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "HackerOne",
-   "handle": "security",
-   "asset": "https://hackerone.com/mcp",
-   "asset_type": "OTHER",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-27T21:28:54.333000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Visa",
-   "handle": "visa",
-   "asset": "*.visamiddleeast.com",
-   "asset_type": "WILDCARD",
-   "bounty": true
-  },
-  {
-   "date": "2026-08-27T14:29:20.351000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "api.migration.login-connexion.canada.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-27T14:28:40.729000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "app.migration.login-connexion.canada.ca",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-27T14:28:00.920000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Treasury Board of Canada Secretariat/Secr\u00e9tariat du Conseil du Tr\u00e9sor du Canada",
-   "handle": "tbs-sct",
-   "asset": "api.login-connexion.canada.ca",
-   "asset_type": "URL",
    "bounty": false
   }
  ]
