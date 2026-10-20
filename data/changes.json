@@ -1,86 +1,160 @@
 {
- "generated_at": "2026-10-19T13:03:24.847101+00:00",
+ "generated_at": "2026-10-20T11:29:36.642534+00:00",
  "changes": [
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
+   "date": "2026-10-20T11:29:36.642534+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "boi.ts.dstr.transunion.co.uk",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-20T11:29:36.642534+00:00",
    "type": "new_program",
    "platform": "hackerone",
-   "program": "GoCardless Bug Bounty Program",
-   "handle": "gocardless_bbp",
+   "program": "Basecamp",
+   "handle": "basecamp",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
+   "date": "2026-10-20T11:29:36.642534+00:00",
    "type": "new_program",
-   "platform": "yeswehack",
-   "program": "GovTech - Vulnerability Disclosure Programme",
-   "handle": "govtech-vulnerability-disclosure-programme-policy",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
+   "date": "2026-10-20T11:29:36.642534+00:00",
    "type": "scope_removed",
    "platform": "yeswehack",
-   "program": "Ezviz - Bug Bounty Program",
-   "handle": "ezviz-bug-bounty-program",
-   "asset": "*.hicloudcam.com,",
+   "program": "Bug Bounty Program - BlaBlaCar",
+   "handle": "bug-bounty-program-blablacar",
+   "asset": "https://api.blablalines.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
+   "date": "2026-10-20T11:29:36.642534+00:00",
    "type": "scope_removed",
    "platform": "yeswehack",
-   "program": "Ezviz - Bug Bounty Program",
-   "handle": "ezviz-bug-bounty-program",
-   "asset": "*.hikops.com,",
+   "program": "Bug Bounty Program - BlaBlaCar",
+   "handle": "bug-bounty-program-blablacar",
+   "asset": "https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288",
    "asset_type": null
   },
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
+   "date": "2026-10-20T11:29:36.642534+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Bug Bounty Program - BlaBlaCar",
+   "handle": "bug-bounty-program-blablacar",
+   "asset": "https://blablacardaily.com",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-20T11:29:36.642534+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Bug Bounty Program - BlaBlaCar",
+   "handle": "bug-bounty-program-blablacar",
+   "asset": "https://daily.blablacar.fr",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-20T11:29:36.642534+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "Bug Bounty Program - BlaBlaCar",
+   "handle": "bug-bounty-program-blablacar",
+   "asset": "https://play.google.com/store/apps/details?id=com.blablalines",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-20T11:29:36.642534+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Sqills",
+   "handle": "sqills/sqillscorporatewebsite",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-20T11:29:36.642534+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "UZ Leuven",
+   "handle": "uz leuven/uzleuven",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-20T08:45:42.411000+00:00",
    "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "Ezviz - Bug Bounty Program",
-   "handle": "ezviz-bug-bounty-program",
-   "asset": "*.hicloudcam.com",
-   "asset_type": null,
+   "platform": "hackerone",
+   "program": "Banco Plata",
+   "handle": "banco_plata",
+   "asset": "prime.plata.co",
+   "asset_type": "API",
    "bounty": true
   },
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
+   "date": "2026-10-20T08:33:45.158000+00:00",
    "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "Ezviz - Bug Bounty Program",
-   "handle": "ezviz-bug-bounty-program",
-   "asset": "*.hikops.com",
-   "asset_type": null,
+   "platform": "hackerone",
+   "program": "Banco Plata",
+   "handle": "banco_plata",
+   "asset": "plata.co",
+   "asset_type": "URL",
    "bounty": true
   },
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
-   "type": "new_program",
+   "date": "2026-10-20T08:29:58.847000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Banco Plata",
+   "handle": "banco_plata",
+   "asset": "people.plata.team",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-19T15:27:50.172000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "TransUnion LLC",
+   "handle": "transunion",
+   "asset": "cibil.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-19T15:15:15+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Uphold",
-   "handle": "Uphold/upholdcom",
+   "program": "Adobe Public",
+   "handle": "adobe/adobepublic",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
-   "type": "new_program",
+   "date": "2026-10-19T15:00:36+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "Fluvius",
-   "handle": "fluvius/fluvius",
+   "program": "Visma",
+   "handle": "visma/visma",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-19T13:03:24.847101+00:00",
-   "type": "new_program",
+   "date": "2026-10-19T14:19:06+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
+   "program": "Cyber Security Coalition",
+   "handle": "cybersecuritycoalition/cybersecuritycoalition",
    "asset": null,
    "asset_type": null
   },
@@ -93,33 +167,6 @@
    "asset": "lovable.net",
    "asset_type": "URL",
    "bounty": false
-  },
-  {
-   "date": "2026-10-19T10:21:13+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "PDQ bug bounty program",
-   "handle": "pdq/pdqcomprivate",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-19T09:57:09+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Social Deal",
-   "handle": "socialdeal/socialdeal",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-19T08:53:32+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Challenge 1026",
-   "handle": "intigriti/challenge1026",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-16T19:20:29.834000+00:00",
@@ -5092,6 +5139,16 @@
    "bounty": false
   },
   {
+   "date": "2026-09-05T16:07:36.939000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Basecamp",
+   "handle": "basecamp",
+   "asset": "https://github.com/basecamp/trix",
+   "asset_type": "SOURCE_CODE",
+   "bounty": false
+  },
+  {
    "date": "2026-09-04T00:25:29.082000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5929,66 +5986,6 @@
    "handle": "kkr_vdp",
    "asset": "arctosinfra.com",
    "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctospartners.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctospe.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosportspartners.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosportspartners.net",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosprivateequity.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:25:15.557000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "*.globalatlantic.com",
-   "asset_type": "WILDCARD",
    "bounty": false
   }
  ]
