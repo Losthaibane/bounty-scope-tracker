@@ -1,120 +1,48 @@
 {
- "generated_at": "2026-10-23T11:31:51.864303+00:00",
+ "generated_at": "2026-10-24T10:52:24.097048+00:00",
  "changes": [
   {
-   "date": "2026-10-23T11:31:51.864303+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "The Browser Company of NYC",
-   "handle": "bcny",
-   "asset": "Arc on Mac",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T11:31:51.864303+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "The Browser Company of NYC",
-   "handle": "bcny",
-   "asset": "Arc on Windows",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T11:31:51.864303+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "The Browser Company of NYC",
-   "handle": "bcny",
-   "asset": "arc.net",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T11:31:51.864303+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "The Browser Company of NYC",
-   "handle": "bcny",
-   "asset": "company.thebrowser.arc",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T11:31:51.864303+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "The Browser Company of NYC",
-   "handle": "bcny",
-   "asset": "id6472513080",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T11:31:51.864303+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Supabase",
-   "handle": "supabase",
-   "asset": "https://supabase.store",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T11:31:51.864303+00:00",
+   "date": "2026-10-24T10:52:24.097048+00:00",
    "type": "new_program",
+   "platform": "hackerone",
+   "program": "Rocket.Chat",
+   "handle": "rocket_chat",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-24T10:52:24.097048+00:00",
+   "type": "scope_removed",
+   "platform": "hackerone",
+   "program": "WordPress",
+   "handle": "wordpress",
+   "asset": "github.com/wordpress",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-23T16:52:51+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "12Build Bug Bounty Program",
+   "handle": "onetwobuild/12build",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-23T13:13:43+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Uphold",
+   "handle": "Uphold/upholdcom",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-23T13:12:14+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "RAMPF Bug Bounty",
    "handle": "rampf/rampfbugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T11:27:55+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Arm",
-   "handle": "arm/arm",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T10:39:49+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Nexuzhealth Web PACS",
-   "handle": "uz leuven/nexuzhealthwebpacs",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T09:38:52+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Storebrand Responsible Disclosure",
-   "handle": "spp-storebrand/storebrand-rd",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T06:06:45+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T06:06:45+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Coveo Public Bug Bounty",
-   "handle": "coveo/coveopublicbugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-23T05:28:56+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "SBB - Swiss Federal Railways",
-   "handle": "sbb/sbbglobal",
    "asset": null,
    "asset_type": null
   },
@@ -147,15 +75,6 @@
    "asset": "https://ebc2test.cybersource.com/settings",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-10-22T19:04:26+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "DigitalOcean",
-   "handle": "digitalocean/digitalocean",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-21T19:08:40.246000+00:00",
@@ -286,6 +205,15 @@
    "asset": "people.plata.team",
    "asset_type": "URL",
    "bounty": true
+  },
+  {
+   "date": "2026-10-19T16:39:12+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Coke One North America",
+   "handle": "tccc/cokeonenorthamerica",
+   "asset": null,
+   "asset_type": null
   },
   {
    "date": "2026-10-19T15:27:50.172000+00:00",
@@ -3783,7 +3711,7 @@
    "platform": "hackerone",
    "program": "WordPress",
    "handle": "wordpress",
-   "asset": "github.com/wordpress",
+   "asset": "Other github.com/wordpress repos",
    "asset_type": "SOURCE_CODE",
    "bounty": true
   },
@@ -5984,6 +5912,86 @@
    "program": "KKR-VDP",
    "handle": "kkr_vdp",
    "asset": "kkrfunds.fr",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:30:21.808000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "kkrannualreport.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:30:21.808000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "kkr.fr",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:30:21.808000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "kkr.ai",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:30:21.808000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "kkr-central.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:30:21.808000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "kkr-capstone.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:30:21.808000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "katmaicapital.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:26:17.447000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "acrtosnorthstar.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:26:17.447000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "amarokcapital.com",
    "asset_type": "URL",
    "bounty": false
   }
