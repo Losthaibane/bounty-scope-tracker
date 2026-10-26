@@ -1,6 +1,87 @@
 {
- "generated_at": "2026-10-25T11:18:24.738082+00:00",
+ "generated_at": "2026-10-26T12:52:53.994034+00:00",
  "changes": [
+  {
+   "date": "2026-10-26T12:52:53.994034+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Allekabels",
+   "handle": "rpip/allekabels",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T12:52:53.994034+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Uphold",
+   "handle": "Uphold/upholdcom",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T12:52:53.994034+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Venly",
+   "handle": "arkane/arkanenetwork",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T12:52:53.994034+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "PDQ bug bounty program",
+   "handle": "pdq/pdqcomprivate",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T12:52:53.994034+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Voi Scooters",
+   "handle": "voi/voiscooters",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T12:52:53.994034+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Liferay DXP",
+   "handle": "liferay/liferaydxp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T12:52:53.994034+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T10:09:19+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Mateco VDP",
+   "handle": "mateco/matecovdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T07:15:03+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Here Technologies",
+   "handle": "heretechnologies/heretechnologies",
+   "asset": null,
+   "asset_type": null
+  },
   {
    "date": "2026-10-24T16:33:52.346000+00:00",
    "type": "scope_added",
@@ -5908,96 +5989,6 @@
    "program": "KKR-VDP",
    "handle": "kkr_vdp",
    "asset": "kkr-central.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "kkr-capstone.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "katmaicapital.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "acrtosnorthstar.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "amarokcapital.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "amarokpartners.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosanalytics.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctoscredit.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosgp.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:26:17.447000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "arctosinfra.com",
    "asset_type": "URL",
    "bounty": false
   }
