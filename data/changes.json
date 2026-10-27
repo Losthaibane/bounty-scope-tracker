@@ -1,18 +1,181 @@
 {
- "generated_at": "2026-10-26T12:52:53.994034+00:00",
+ "generated_at": "2026-10-27T12:04:18.539694+00:00",
  "changes": [
   {
-   "date": "2026-10-26T12:52:53.994034+00:00",
+   "date": "2026-10-27T12:04:18.539694+00:00",
    "type": "new_program",
-   "platform": "intigriti",
-   "program": "Allekabels",
-   "handle": "rpip/allekabels",
+   "platform": "hackerone",
+   "program": "Brave Software",
+   "handle": "brave",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-26T12:52:53.994034+00:00",
+   "date": "2026-10-27T12:04:18.539694+00:00",
    "type": "new_program",
+   "platform": "intigriti",
+   "program": "TrueLayer",
+   "handle": "truelayer/truelayer",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-27T10:51:36+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Personio",
+   "handle": "personio/personio",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-27T10:15:45.503000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "syoss-selfcoloring.jp",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T10:15:12.795000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "indolacrew.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T10:14:50.991000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "indola.se",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T10:14:18.906000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "barnangen.se",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T10:14:06.113000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "barnangen.nu",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T10:13:50.100000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "barnangen.no",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T10:13:27.533000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "barnangen.fi",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T10:12:51.720000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "barnangen.dk",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T10:11:55.635000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Henkel",
+   "handle": "henkel_vdp",
+   "asset": "osidealer.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T09:06:54+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Posti Bug Bounty ",
+   "handle": "posti/postibugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-27T08:09:49+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "eHealth Hub VZN KUL",
+   "handle": "uz leuven/ehealthhub&meta-hubvznkul",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-27T07:57:38.896000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Visa",
+   "handle": "visa",
+   "asset": "http://test.payworks.io/uis/mngr/",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-27T07:40:26+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Fluvius",
+   "handle": "fluvius/fluvius",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-27T07:06:41+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "NVIDIA Public Bug Bounty",
+   "handle": "nvidia/nvidiapublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-27T01:15:10+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Here Technologies",
+   "handle": "heretechnologies/heretechnologies",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-26T20:58:05+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "Uphold",
    "handle": "Uphold/upholdcom",
@@ -20,67 +183,23 @@
    "asset_type": null
   },
   {
-   "date": "2026-10-26T12:52:53.994034+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Venly",
-   "handle": "arkane/arkanenetwork",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-26T12:52:53.994034+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "PDQ bug bounty program",
-   "handle": "pdq/pdqcomprivate",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-26T12:52:53.994034+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Voi Scooters",
-   "handle": "voi/voiscooters",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-26T12:52:53.994034+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Liferay DXP",
-   "handle": "liferay/liferaydxp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-26T12:52:53.994034+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-26T10:09:19+00:00",
+   "date": "2026-10-26T18:02:33+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Mateco VDP",
-   "handle": "mateco/matecovdp",
+   "program": "Visma",
+   "handle": "visma/visma",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-26T07:15:03+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Here Technologies",
-   "handle": "heretechnologies/heretechnologies",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-10-26T17:26:36.435000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Cloudflare Public Bug Bounty",
+   "handle": "cloudflare",
+   "asset": "php-rce.cloudflare.app",
+   "asset_type": "URL",
+   "bounty": true
   },
   {
    "date": "2026-10-24T16:33:52.346000+00:00",
@@ -5869,126 +5988,6 @@
    "program": "KKR-VDP",
    "handle": "kkr_vdp",
    "asset": "globalatlanticlink.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "globalatlanticnow.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "globalatlanticre.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "socratwealth.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "socratpartners.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "persistpartners.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "kkrpei.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "kkrkfn.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "kkrfunds.fr",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "kkrannualreport.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "kkr.fr",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "kkr.ai",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:30:21.808000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "kkr-central.com",
    "asset_type": "URL",
    "bounty": false
   }
