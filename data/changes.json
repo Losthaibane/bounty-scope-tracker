@@ -1,32 +1,150 @@
 {
- "generated_at": "2026-10-27T12:04:18.539694+00:00",
+ "generated_at": "2026-10-28T12:44:41.183029+00:00",
  "changes": [
   {
-   "date": "2026-10-27T12:04:18.539694+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Brave Software",
-   "handle": "brave",
+   "date": "2026-10-28T12:44:41.183029+00:00",
+   "type": "scope_removed",
+   "platform": "yeswehack",
+   "program": "OTTO.DE Bug Bounty",
+   "handle": "otto-de-bug-bounty",
+   "asset": "https://teleoptiprd.otto.de",
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-28T12:44:41.183029+00:00",
+   "type": "scope_added",
+   "platform": "yeswehack",
+   "program": "OTTO.DE Bug Bounty",
+   "handle": "otto-de-bug-bounty",
+   "asset": "https://www.teleoptiprd.otto.de",
+   "asset_type": null,
+   "bounty": true
+  },
+  {
+   "date": "2026-10-28T09:26:30+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Monzo Public Bug Bounty Program",
+   "handle": "monzobank/monzopublicbugbountyprogram",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-27T12:04:18.539694+00:00",
+   "date": "2026-10-27T23:09:45.375000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Hertz VDP",
+   "handle": "hertz",
+   "asset": "*.hertz.io",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T23:08:54.625000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Hertz VDP",
+   "handle": "hertz",
+   "asset": "*.oromobility.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T23:08:13.835000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Hertz VDP",
+   "handle": "hertz",
+   "asset": "*.dollar.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T23:07:54.731000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Hertz VDP",
+   "handle": "hertz",
+   "asset": "*.thrifty.com",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T20:33:31.732000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bose (VDP)",
+   "handle": "bose_vdp",
+   "asset": "btu.bose.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T20:31:47.532000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bose (VDP)",
+   "handle": "bose_vdp",
+   "asset": "*.bose.io",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T20:24:30.730000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Bose (VDP)",
+   "handle": "bose_vdp",
+   "asset": "Bose Automotive",
+   "asset_type": "HARDWARE",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T16:48:43+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "eHealth Hub VZN KUL",
+   "handle": "uz leuven/ehealthhub&meta-hubvznkul",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-27T15:21:44+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "TrueLayer",
-   "handle": "truelayer/truelayer",
+   "program": "BRP Challenge",
+   "handle": "intigriti/challengebrp",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-27T10:51:36+00:00",
+   "date": "2026-10-27T14:57:09+00:00",
    "type": "program_updated",
    "platform": "intigriti",
    "program": "Personio",
    "handle": "personio/personio",
    "asset": null,
    "asset_type": null
+  },
+  {
+   "date": "2026-10-27T14:30:09.993000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Zurich Insurance",
+   "handle": "zurich-insurance",
+   "asset": "*.zurich.com.cn",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-27T12:25:36.900000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Cloudflare Public Bug Bounty",
+   "handle": "cloudflare",
+   "asset": "https://php-rce.cloudflare.app/",
+   "asset_type": "URL",
+   "bounty": true
   },
   {
    "date": "2026-10-27T10:15:45.503000+00:00",
@@ -119,24 +237,6 @@
    "bounty": false
   },
   {
-   "date": "2026-10-27T09:06:54+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Posti Bug Bounty ",
-   "handle": "posti/postibugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-27T08:09:49+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "eHealth Hub VZN KUL",
-   "handle": "uz leuven/ehealthhub&meta-hubvznkul",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-10-27T07:57:38.896000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -145,51 +245,6 @@
    "asset": "http://test.payworks.io/uis/mngr/",
    "asset_type": "URL",
    "bounty": true
-  },
-  {
-   "date": "2026-10-27T07:40:26+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Fluvius",
-   "handle": "fluvius/fluvius",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-27T07:06:41+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "NVIDIA Public Bug Bounty",
-   "handle": "nvidia/nvidiapublicbugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-27T01:15:10+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Here Technologies",
-   "handle": "heretechnologies/heretechnologies",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-26T20:58:05+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Uphold",
-   "handle": "Uphold/upholdcom",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-26T18:02:33+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Visma",
-   "handle": "visma/visma",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-26T17:26:36.435000+00:00",
@@ -3992,6 +4047,15 @@
    "bounty": true
   },
   {
+   "date": "2026-09-22T16:23:28.732000+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "XP Inc Vulnerability Disclosure",
+   "handle": "xp_inc_vdp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
    "date": "2026-09-21T21:25:55.267000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5928,66 +5992,6 @@
    "program": "KKR-VDP",
    "handle": "kkr_vdp",
    "asset": "gafgpreneed.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "gafgre.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "gafgretirement.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "gafgtrustguard.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "gathinkingahead.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "globalatlanticlife.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "globalatlanticlink.com",
    "asset_type": "URL",
    "bounty": false
   }
