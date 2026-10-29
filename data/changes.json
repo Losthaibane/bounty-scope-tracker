@@ -1,31 +1,103 @@
 {
- "generated_at": "2026-10-28T12:44:41.183029+00:00",
+ "generated_at": "2026-10-29T12:54:07.345599+00:00",
  "changes": [
   {
-   "date": "2026-10-28T12:44:41.183029+00:00",
+   "date": "2026-10-29T12:54:07.345599+00:00",
    "type": "scope_removed",
-   "platform": "yeswehack",
-   "program": "OTTO.DE Bug Bounty",
-   "handle": "otto-de-bug-bounty",
-   "asset": "https://teleoptiprd.otto.de",
+   "platform": "hackerone",
+   "program": "Mondel\u0113z International",
+   "handle": "mondelez",
+   "asset": "gifts.tatesbakeshop.com",
    "asset_type": null
   },
   {
-   "date": "2026-10-28T12:44:41.183029+00:00",
-   "type": "scope_added",
-   "platform": "yeswehack",
-   "program": "OTTO.DE Bug Bounty",
-   "handle": "otto-de-bug-bounty",
-   "asset": "https://www.teleoptiprd.otto.de",
-   "asset_type": null,
-   "bounty": true
+   "date": "2026-10-29T12:54:07.345599+00:00",
+   "type": "new_program",
+   "platform": "hackerone",
+   "program": "Concrete CMS",
+   "handle": "concretecms",
+   "asset": null,
+   "asset_type": null
   },
   {
-   "date": "2026-10-28T09:26:30+00:00",
+   "date": "2026-10-29T12:54:07.345599+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "DataCamp",
+   "handle": "datacamp/datacamp",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-29T12:54:07.345599+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Here Technologies",
+   "handle": "heretechnologies/heretechnologies",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-29T12:46:47+00:00",
    "type": "program_updated",
    "platform": "intigriti",
-   "program": "Monzo Public Bug Bounty Program",
-   "handle": "monzobank/monzopublicbugbountyprogram",
+   "program": "Dstny",
+   "handle": "dstny/dstnybugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-29T12:34:07+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "SBB - Swiss Federal Railways",
+   "handle": "sbb/sbbglobal",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-29T09:21:04+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Superdrug",
+   "handle": "aswatson/superdrug",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-29T07:33:05+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Storebrand Responsible Disclosure",
+   "handle": "spp-storebrand/storebrand-rd",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-28T21:19:24+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Coke One North America",
+   "handle": "tccc/cokeonenorthamerica",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-28T19:32:40.766000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Databricks",
+   "handle": "databricks",
+   "asset": "https://github.com/databricks/*",
+   "asset_type": "WILDCARD",
+   "bounty": false
+  },
+  {
+   "date": "2026-10-28T13:18:29+00:00",
+   "type": "program_updated",
+   "platform": "intigriti",
+   "program": "Water-Link VDP",
+   "handle": "waterlink/water-linkvdp",
    "asset": null,
    "asset_type": null
   },
@@ -98,33 +170,6 @@
    "asset": "Bose Automotive",
    "asset_type": "HARDWARE",
    "bounty": false
-  },
-  {
-   "date": "2026-10-27T16:48:43+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "eHealth Hub VZN KUL",
-   "handle": "uz leuven/ehealthhub&meta-hubvznkul",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-27T15:21:44+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "BRP Challenge",
-   "handle": "intigriti/challengebrp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-27T14:57:09+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Personio",
-   "handle": "personio/personio",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-27T14:30:09.993000+00:00",
@@ -4047,15 +4092,6 @@
    "bounty": true
   },
   {
-   "date": "2026-09-22T16:23:28.732000+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "XP Inc Vulnerability Disclosure",
-   "handle": "xp_inc_vdp",
-   "asset": null,
-   "asset_type": null
-  },
-  {
    "date": "2026-09-21T21:25:55.267000+00:00",
    "type": "scope_added",
    "platform": "hackerone",
@@ -5952,46 +5988,6 @@
    "program": "KKR-VDP",
    "handle": "kkr_vdp",
    "asset": "fsgii.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "gadifference.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "gafgannuity.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "gafglife.com",
-   "asset_type": "URL",
-   "bounty": false
-  },
-  {
-   "date": "2026-08-31T09:35:23.891000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "KKR-VDP",
-   "handle": "kkr_vdp",
-   "asset": "gafgpreneed.com",
    "asset_type": "URL",
    "bounty": false
   }
