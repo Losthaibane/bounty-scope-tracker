@@ -1,84 +1,97 @@
 {
- "generated_at": "2026-10-29T12:54:07.345599+00:00",
+ "generated_at": "2026-10-30T12:46:52.884286+00:00",
  "changes": [
   {
-   "date": "2026-10-29T12:54:07.345599+00:00",
-   "type": "scope_removed",
-   "platform": "hackerone",
-   "program": "Mondel\u0113z International",
-   "handle": "mondelez",
-   "asset": "gifts.tatesbakeshop.com",
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T12:54:07.345599+00:00",
-   "type": "new_program",
-   "platform": "hackerone",
-   "program": "Concrete CMS",
-   "handle": "concretecms",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T12:54:07.345599+00:00",
+   "date": "2026-10-30T12:46:52.884286+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "DataCamp",
-   "handle": "datacamp/datacamp",
+   "program": "Allekabels",
+   "handle": "rpip/allekabels",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-29T12:54:07.345599+00:00",
+   "date": "2026-10-30T12:46:52.884286+00:00",
    "type": "new_program",
+   "platform": "intigriti",
+   "program": "Doccle Bug Bounty program",
+   "handle": "doccle/doccle",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-30T12:46:52.884286+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "PDQ bug bounty program",
+   "handle": "pdq/pdqcomprivate",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-30T12:46:52.884286+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "Voi Scooters",
+   "handle": "voi/voiscooters",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-30T12:46:52.884286+00:00",
+   "type": "new_program",
+   "platform": "intigriti",
+   "program": "NVIDIA Public Bug Bounty",
+   "handle": "nvidia/nvidiapublicbugbounty",
+   "asset": null,
+   "asset_type": null
+  },
+  {
+   "date": "2026-10-30T06:44:37.836000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "forum.1win.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-30T06:43:14.945000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "1win.io",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-30T06:42:43.804000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "1win",
+   "handle": "1win_com",
+   "asset": "1win-partners.com",
+   "asset_type": "URL",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-29T18:44:33.086000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Ubiquiti Inc.",
+   "handle": "ui",
+   "asset": "WiFiman",
+   "asset_type": "DOWNLOADABLE_EXECUTABLES",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-29T16:15:50+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
    "program": "Here Technologies",
    "handle": "heretechnologies/heretechnologies",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T12:46:47+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Dstny",
-   "handle": "dstny/dstnybugbounty",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T12:34:07+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "SBB - Swiss Federal Railways",
-   "handle": "sbb/sbbglobal",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T09:21:04+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Superdrug",
-   "handle": "aswatson/superdrug",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-29T07:33:05+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Storebrand Responsible Disclosure",
-   "handle": "spp-storebrand/storebrand-rd",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-28T21:19:24+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Coke One North America",
-   "handle": "tccc/cokeonenorthamerica",
    "asset": null,
    "asset_type": null
   },
@@ -91,15 +104,6 @@
    "asset": "https://github.com/databricks/*",
    "asset_type": "WILDCARD",
    "bounty": false
-  },
-  {
-   "date": "2026-10-28T13:18:29+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Water-Link VDP",
-   "handle": "waterlink/water-linkvdp",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-27T23:09:45.375000+00:00",
