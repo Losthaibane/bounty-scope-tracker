@@ -1,48 +1,31 @@
 {
- "generated_at": "2026-10-30T12:46:52.884286+00:00",
+ "generated_at": "2026-10-31T12:17:43.131348+00:00",
  "changes": [
   {
-   "date": "2026-10-30T12:46:52.884286+00:00",
+   "date": "2026-10-31T12:17:43.131348+00:00",
    "type": "new_program",
    "platform": "intigriti",
-   "program": "Allekabels",
-   "handle": "rpip/allekabels",
+   "program": "ADAC Bug Bounty Program",
+   "handle": "adac/adacbugbountyprogram",
    "asset": null,
    "asset_type": null
   },
   {
-   "date": "2026-10-30T12:46:52.884286+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Doccle Bug Bounty program",
-   "handle": "doccle/doccle",
-   "asset": null,
-   "asset_type": null
+   "date": "2026-10-30T20:28:04.557000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Vercel",
+   "handle": "vercel",
+   "asset": "https://github.com/better-auth/better-auth",
+   "asset_type": "SOURCE_CODE",
+   "bounty": true
   },
   {
-   "date": "2026-10-30T12:46:52.884286+00:00",
-   "type": "new_program",
+   "date": "2026-10-30T13:58:14+00:00",
+   "type": "program_updated",
    "platform": "intigriti",
-   "program": "PDQ bug bounty program",
-   "handle": "pdq/pdqcomprivate",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-30T12:46:52.884286+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "Voi Scooters",
-   "handle": "voi/voiscooters",
-   "asset": null,
-   "asset_type": null
-  },
-  {
-   "date": "2026-10-30T12:46:52.884286+00:00",
-   "type": "new_program",
-   "platform": "intigriti",
-   "program": "NVIDIA Public Bug Bounty",
-   "handle": "nvidia/nvidiapublicbugbounty",
+   "program": "Belfius",
+   "handle": "belfius/belfius",
    "asset": null,
    "asset_type": null
   },
@@ -85,15 +68,6 @@
    "asset": "WiFiman",
    "asset_type": "DOWNLOADABLE_EXECUTABLES",
    "bounty": true
-  },
-  {
-   "date": "2026-10-29T16:15:50+00:00",
-   "type": "program_updated",
-   "platform": "intigriti",
-   "program": "Here Technologies",
-   "handle": "heretechnologies/heretechnologies",
-   "asset": null,
-   "asset_type": null
   },
   {
    "date": "2026-10-28T19:32:40.766000+00:00",
@@ -1081,16 +1055,6 @@
    "platform": "hackerone",
    "program": "Twilio",
    "handle": "twilio",
-   "asset": "https://github.com/stytchauth",
-   "asset_type": "SOURCE_CODE",
-   "bounty": true
-  },
-  {
-   "date": "2026-10-13T17:12:07.868000+00:00",
-   "type": "scope_added",
-   "platform": "hackerone",
-   "program": "Twilio",
-   "handle": "twilio",
    "asset": "com.authy.authy",
    "asset_type": "GOOGLE_PLAY_APP_ID",
    "bounty": true
@@ -1473,6 +1437,16 @@
    "handle": "twilio",
    "asset": "trunking.twilio.com",
    "asset_type": "API",
+   "bounty": true
+  },
+  {
+   "date": "2026-10-13T17:12:07.868000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "Twilio",
+   "handle": "twilio",
+   "asset": "https://github.com/stytchauth",
+   "asset_type": "SOURCE_CODE",
    "bounty": true
   },
   {
@@ -3973,7 +3947,7 @@
    "handle": "wordpress",
    "asset": "Other github.com/wordpress repos",
    "asset_type": "SOURCE_CODE",
-   "bounty": true
+   "bounty": false
   },
   {
    "date": "2026-09-23T16:45:30.643000+00:00",
@@ -3983,7 +3957,7 @@
    "handle": "wordpress",
    "asset": "Create Block Theme",
    "asset_type": "SOURCE_CODE",
-   "bounty": true
+   "bounty": false
   },
   {
    "date": "2026-09-23T16:40:36.261000+00:00",
@@ -5992,6 +5966,36 @@
    "program": "KKR-VDP",
    "handle": "kkr_vdp",
    "asset": "fsgii.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:35:23.891000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "gadifference.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:35:23.891000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "gafgannuity.com",
+   "asset_type": "URL",
+   "bounty": false
+  },
+  {
+   "date": "2026-08-31T09:35:23.891000+00:00",
+   "type": "scope_added",
+   "platform": "hackerone",
+   "program": "KKR-VDP",
+   "handle": "kkr_vdp",
+   "asset": "gafglife.com",
    "asset_type": "URL",
    "bounty": false
   }
